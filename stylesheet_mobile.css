@@ -1,0 +1,77 @@
+@media screen and (max-width: 1024px) {
+	aside {
+		float: none;
+		position: static;
+		width: 100%;
+		height: 400px;
+	}
+
+	aside .aside_icon {
+		padding-top: 90px;
+		text-align: left;
+		padding-left: 100px;
+		float: left;
+	}
+
+	aside .aside_icon img {
+		width: 220px;
+		height: 220px;
+	}
+
+	aside .aside_text {
+		padding-left: 400px;
+		padding-top: 50px;
+	}
+
+	aside .aside_text .name {
+		text-align: left;
+		padding-top: 5%;
+		font-size: 3.2em;
+		font-weight: bolder;
+	}
+
+	aside .aside_text .sign {
+		text-align: left;
+		padding-top: 3%;
+		font-size: 2em;
+		font-family: 'Microsoft Yahei';
+	}
+
+	aside .aside_text .contact {
+		display: none;
+	}
+
+	article {
+		float: none;
+		width: 100%;
+		padding-left: 0px;
+	}
+
+	article .articles .single {
+		margin-top: 2%;
+		margin-bottom: 5%;
+	}
+
+	article .articles .single .title img {
+		width: 60px;
+		height: 60px;
+	}
+
+	article .articles .single .title {
+		font-size: 3em;
+		font-weight: bold;
+		float: none;
+	}
+
+	article .articles .single .type {
+		display: none;
+	}
+
+	article .articles .single hr {
+		display: none;
+	}
+
+	article .articles .single .content {
+		font-size: 2.4em;
+	}
+}

@@ -38,8 +38,8 @@ aside .aside_text .sign {
 }
 
 aside .aside_text .contact {
-	padding-left: 30%;
-	padding-top: 10%;
+	padding-left: 32%;
+	padding-top: 15%;
 	font-size: 0.9em;
 	list-style-type: none;
 }
@@ -76,7 +76,7 @@ article .articles {
 }
 
 article .articles .single {
-	height: 100px;
+	height: 100%;
 	margin-bottom: 2%;
 	border-radius: 10px;
 	background-color: #eee;
@@ -89,4 +89,35 @@ article .articles .single:hover {
 
 article .articles .single {
 	padding: 10px;
+}
+
+article .articles .single .title {
+	float: left;
+	font-size: 1.1em;
+}
+
+article .articles .single .title img {
+	float: left;
+	width: 25px;
+	height: 25px;
+	padding-right: 20px;
+}
+
+article .articles .single .title a {
+	color: #111;
+	text-decoration: none;
+}
+
+article .articles .single .type {
+	float: right;
+}
+
+article .articles .single .content {
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+
+article .articles .single .content a {
+	color: #111;
+	text-decoration: none;
 }
