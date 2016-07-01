@@ -1,0 +1,9 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "homepage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Imanity/imanity.github.io.git"
+  }
+}
