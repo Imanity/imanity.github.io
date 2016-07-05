@@ -1,11 +1,6 @@
 var BackToTopImg = $("#BackToTop");
 
 BackToTopImg.onclick = scrollUp;
-document.onkeydown = function (e) {
-	if (e.which == 13) {
-		scrollUp();
-	};
-};
 
 function scrollUp () {
 	var timer = setInterval(function () {

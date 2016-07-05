@@ -52,6 +52,9 @@ document.onkeydown = function (e) {
 		$("#popupLayer").attr("style", "position: fixed; left: 0px; top: 0px; font-size: 1.3em; padding: 10px; background-color: #fff; display: none;");
 		isShowPopup = false;
 	};
+	if (e.which == 13) {
+		scrollUp();
+	};
 };
 
 var Modal = $("#popupLayer");
