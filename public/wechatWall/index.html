@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/socket.io.js"></script>
+		<script src="js/socket.js"></script>
+		<script src="js/msgHandler.js"></script>
+		<script src="js/twemoji.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<div id="canvas_box">
+			<div class="msg" id="admin_msg">
+				<div class="left"><img class="icon" src="images/admin.png"></div>
+				<div class="right">
+					<div class="username">Admin</div>
+					<div id="admin_text"></div>
+				</div>
+			</div>
+		</div>
+		<div class="bottom"><div class="movingText">我是一条非常非常长的公告，不要问我到底为什么这么长，因为我要滚动，所以我真的非常非常的长，如果太短的话就没有滚动的必要了呢</div></div>
+		<script src="js/animation.js"></script>
+	</body>
+</html>
