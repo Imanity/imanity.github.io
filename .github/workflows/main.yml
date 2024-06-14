@@ -32,7 +32,6 @@ jobs:
 
       - name: Build
         run: |
-          cd imanity.github.io
           npm install
           npm run build
 
