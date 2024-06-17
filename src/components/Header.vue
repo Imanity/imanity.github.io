@@ -28,7 +28,6 @@ defineProps<{
 
 <style scoped>
 .banner {
-    height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -38,6 +37,7 @@ defineProps<{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+
         a {
             color: #ffffff;
             font-size: 24px;
@@ -45,11 +45,15 @@ defineProps<{
             line-height: 64px;
             padding-left: 16px;
         }
+
         nav {
             display: flex;
             justify-content: flex-end;
             padding: 16px 8px;
+
             a {
+                text-decoration: none;
+                color: inherit;
                 cursor: pointer;
                 padding: 0 16px;
                 display: flex;
@@ -62,6 +66,9 @@ defineProps<{
                     padding-left: 8px;
                 }
             }
+            a:hover {
+                filter: brightness(75%);
+            }
         }
     }
 
@@ -69,7 +76,8 @@ defineProps<{
         color: #ffffff;
         font-size: 72px;
         text-align: center;
-        line-height: 128px;
+        line-height: 160px;
+        padding: 10px 0;
     }
 }
 </style>

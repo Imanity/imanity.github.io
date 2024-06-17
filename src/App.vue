@@ -5,7 +5,7 @@ import Footer from './components/Footer.vue'
 
 <template>
     <header>
-        <Header title="title" />
+        <Header title="Renjie's space" />
     </header>
 
     <article>todo</article>
