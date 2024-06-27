@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { RouterLink } from 'vue-router'
 import IconHome from './icons/IconHome.vue'
 import IconBlog from './icons/IconBlog.vue'
 import IconProject from './icons/IconProject.vue'
@@ -12,13 +13,13 @@ defineProps<{
 <template>
     <div class="banner">
         <div class="nav-wrapper">
-            <a>Renjie's space</a>
+            <RouterLink to="/">Renjie's space</RouterLink>
             <nav class="nav">
-                <a><IconHome /><span>Home</span></a>
-                <a><IconBlog /><span>Blog</span></a>
-                <a><IconProject /><span>Projects</span></a>
-                <a><IconAlbum /><span>Album</span></a>
-                <a><IconAbout /><span>About</span></a>
+                <RouterLink to="/"><IconHome /><span>Home</span></RouterLink>
+                <RouterLink to="/blog"><IconBlog /><span>Blog</span></RouterLink>
+                <RouterLink to="/project"><IconProject /><span>Projects</span></RouterLink>
+                <RouterLink to="/album"><IconAlbum /><span>Album</span></RouterLink>
+                <RouterLink to="/about"><IconAbout /><span>About</span></RouterLink>
             </nav>
         </div>
 
@@ -38,7 +39,9 @@ defineProps<{
         flex-direction: row;
         justify-content: space-between;
 
-        a {
+        a,
+        RouterLink {
+            text-decoration: none;
             color: #ffffff;
             font-size: 24px;
             cursor: pointer;
@@ -51,7 +54,8 @@ defineProps<{
             justify-content: flex-end;
             padding: 16px 8px;
 
-            a {
+            a,
+            RouterLink {
                 text-decoration: none;
                 color: inherit;
                 cursor: pointer;
@@ -66,7 +70,8 @@ defineProps<{
                     padding-left: 8px;
                 }
             }
-            a:hover {
+            a:hover,
+            RouterLink:hover {
                 filter: brightness(75%);
             }
         }

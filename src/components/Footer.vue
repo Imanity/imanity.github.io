@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { RouterLink } from 'vue-router'
 import IconResume from './icons/IconResume.vue'
 import IconGithub from './icons/IconGithub.vue'
 import IconMail from './icons/IconMail.vue'
@@ -20,7 +21,7 @@ import IconMail from './icons/IconMail.vue'
                     <a href="https://github.com/Imanity"><IconGithub /><span>My Github</span></a>
                 </div>
                 <div>
-                    <a><IconResume /><span>My CV</span></a>
+                    <RouterLink to="/cv"><IconResume /><span>My CV</span></RouterLink>
                 </div>
                 <div>
                     <a href="mailto:imanity14@126.com"><IconMail /><span>Mail me</span></a>
@@ -54,7 +55,8 @@ import IconMail from './icons/IconMail.vue'
                 text-align: left;
                 padding-top: 8px;
 
-                a {
+                a,
+                RouterLink {
                     text-decoration: none;
                     color: inherit;
                     cursor: pointer;
@@ -66,7 +68,8 @@ import IconMail from './icons/IconMail.vue'
                         padding-left: 8px;
                     }
                 }
-                a:hover {
+                a:hover,
+                RouterLink:hover {
                     filter: brightness(75%);
                 }
             }
