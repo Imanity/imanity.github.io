@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { RouterView } from 'vue-router'
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
 </script>
@@ -8,7 +9,9 @@ import Footer from './components/Footer.vue'
         <Header title="Renjie's space" />
     </header>
 
-    <article>todo</article>
+    <article>
+        <RouterView />
+    </article>
 
     <footer>
         <Footer />
