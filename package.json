@@ -1,0 +1,28 @@
+{
+  "name": "imanity.github.io",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "preview": "vite preview --host 127.0.0.1",
+    "tools:images": "node ../tabi-gallery/tools/convert-images.mjs",
+    "tools:gallery": "node ../tabi-gallery/tools/galleryManager/server.mjs"
+  },
+  "dependencies": {
+    "@imanity/tabi-gallery": "file:../tabi-gallery",
+    "lucide-react": "^1.21.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.16"
+  }
+}
