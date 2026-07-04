@@ -6,11 +6,20 @@ export default defineConfig({
   base: '/',
   plugins: [react()],
   resolve: {
-    alias: {
-      '@imanity/tabi-gallery': fileURLToPath(
-        new URL('../tabi-gallery/src/index.ts', import.meta.url),
-      ),
-    },
+    alias: [
+      {
+        find: /^@imanity\/tabi-gallery$/,
+        replacement: fileURLToPath(
+          new URL('../tabi-gallery/src/index.ts', import.meta.url),
+        ),
+      },
+      {
+        find: /^@imanity\/tabi-gallery\/style\.css$/,
+        replacement: fileURLToPath(
+          new URL('../tabi-gallery/src/styles/tabi-gallery.css', import.meta.url),
+        ),
+      },
+    ],
     dedupe: ['react', 'react-dom'],
   },
 })

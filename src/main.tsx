@@ -1,5 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import '@imanity/tabi-gallery/style.css'
 import { App } from './app/App'
 import './styles/global.css'
 
