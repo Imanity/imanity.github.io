@@ -26,7 +26,9 @@ jobs:
       - name: Checkout gallery library
         uses: actions/checkout@v4
         with:
-          repository: Imanity/tabi-gallery
+          repository: ${{ github.repository_owner }}/tabi-gallery
+          ref: main
+          token: ${{ secrets.TABI_GALLERY_TOKEN || github.token }}
           path: tabi-gallery
 
       - name: Setup Node
