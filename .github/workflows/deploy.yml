@@ -21,6 +21,7 @@ jobs:
       - name: Checkout homepage
         uses: actions/checkout@v4
         with:
+          lfs: true
           path: imanity.github.io
 
       - name: Checkout gallery library
@@ -35,6 +36,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
+
+      - name: Verify homepage LFS assets
+        working-directory: imanity.github.io
+        run: |
+          pointers="$(grep -RIl 'version https://git-lfs.github.com/spec/v1' public/assets || true)"
+          if [ -n "$pointers" ]; then
+            echo "::error::Git LFS pointer files found in public/assets. The real binary assets were not downloaded."
+            echo "$pointers"
+            exit 1
+          fi
 
       - name: Install gallery dependencies
         working-directory: tabi-gallery
