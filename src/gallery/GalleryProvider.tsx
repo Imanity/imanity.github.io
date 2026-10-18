@@ -248,7 +248,10 @@ function parsePhoto(
     id: requireString(value.id, `Photo ${index + 1} id`),
     title: requireString(value.title, `Photo ${index + 1} title`),
     description: typeof value.description === 'string' ? value.description : '',
-    takenAt: typeof value.takenAt === 'string' ? value.takenAt : undefined,
+    takenAt:
+      typeof value.takenAt === 'string' || typeof value.takenAt === 'number'
+        ? String(value.takenAt)
+        : undefined,
     tags,
     location,
     sourceHash: typeof value.sourceHash === 'string' ? value.sourceHash : undefined,

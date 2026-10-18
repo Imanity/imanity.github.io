@@ -60,12 +60,24 @@ export function PhotoDetailPage() {
         </span>
       </nav>
 
-      <PhotoDetail photo={photo} />
+      <PhotoDetail
+        getTagHref={(tag) => `/photos?tag=${encodeURIComponent(tag)}`}
+        mapApiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY}
+        photo={photo}
+      />
 
       <nav className="photo-sequence" aria-label="上一张和下一张照片">
         {previousPhoto ? (
-          <a href={getPhotoHref(previousPhoto.id)}>
+          <a className="photo-sequence-card" href={getPhotoHref(previousPhoto.id)}>
             <ArrowLeft aria-hidden="true" size={18} />
+            <img
+              alt=""
+              height={previousPhoto.image.height}
+              loading="lazy"
+              src={previousPhoto.image.src}
+              srcSet={previousPhoto.image.srcSet}
+              width={previousPhoto.image.width}
+            />
             <span>
               <small>上一张</small>
               {previousPhoto.title}
@@ -75,11 +87,19 @@ export function PhotoDetailPage() {
           <span />
         )}
         {nextPhoto ? (
-          <a href={getPhotoHref(nextPhoto.id)}>
+          <a className="photo-sequence-card" href={getPhotoHref(nextPhoto.id)}>
             <span>
               <small>下一张</small>
               {nextPhoto.title}
             </span>
+            <img
+              alt=""
+              height={nextPhoto.image.height}
+              loading="lazy"
+              src={nextPhoto.image.src}
+              srcSet={nextPhoto.image.srcSet}
+              width={nextPhoto.image.width}
+            />
             <ArrowRight aria-hidden="true" size={18} />
           </a>
         ) : null}

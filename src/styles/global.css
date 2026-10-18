@@ -537,22 +537,46 @@ input {
   align-items: center;
   gap: 10px;
   min-width: 0;
+  max-width: min(46%, 440px);
+  padding: 9px;
+  border: 1px solid var(--line);
+  border-radius: 7px;
   color: var(--ink);
+  background: var(--surface);
   font-weight: 740;
+  transition:
+    border-color 160ms ease,
+    background 160ms ease,
+    color 160ms ease;
 }
 
-.photo-sequence > a:last-child {
+.photo-sequence > a:last-child:not(:first-child) {
   text-align: right;
 }
 
 .photo-sequence > a:hover,
 .photo-sequence > a:focus-visible {
+  border-color: color-mix(in srgb, var(--teal) 55%, var(--line));
   color: var(--teal);
+  background: color-mix(in srgb, var(--teal) 5%, var(--surface));
+}
+
+.photo-sequence img {
+  flex: 0 0 84px;
+  width: 84px;
+  height: 58px;
+  border-radius: 5px;
+  object-fit: cover;
 }
 
 .photo-sequence span {
   display: grid;
   gap: 2px;
+  min-width: 0;
+}
+
+.photo-sequence span:not(:empty) {
+  overflow-wrap: anywhere;
 }
 
 .photo-sequence small {
@@ -660,5 +684,11 @@ input {
 
   .photo-sequence > a {
     max-width: 46%;
+  }
+
+  .photo-sequence img {
+    flex-basis: 64px;
+    width: 64px;
+    height: 48px;
   }
 }

@@ -7,14 +7,19 @@ import {
   resolveRoute,
 } from './routes'
 
-const getPath = () => window.location.pathname || '/'
+const getLocationKey = () =>
+  `${window.location.pathname || '/'}${window.location.search}${window.location.hash}`
 
 export function App() {
   const { photos } = useGallery()
-  const [path, setPath] = useState(getPath)
+  const [locationKey, setLocationKey] = useState(getLocationKey)
+  const path = useMemo(
+    () => new URL(locationKey, window.location.origin).pathname,
+    [locationKey],
+  )
 
   useEffect(() => {
-    const handlePopState = () => setPath(getPath())
+    const handlePopState = () => setLocationKey(getLocationKey())
 
     window.addEventListener('popstate', handlePopState)
     return () => window.removeEventListener('popstate', handlePopState)
@@ -22,14 +27,14 @@ export function App() {
 
   const activeRoute = useMemo(() => resolveRoute(path), [path])
 
-  const navigate = (nextPath: string) => {
-    if (nextPath === path) {
+  const navigate = (nextLocation: string) => {
+    if (nextLocation === locationKey) {
       return
     }
 
-    window.history.pushState(null, '', nextPath)
+    window.history.pushState(null, '', nextLocation)
     window.scrollTo({ top: 0, behavior: 'smooth' })
-    setPath(nextPath)
+    setLocationKey(nextLocation)
   }
 
   useEffect(() => {
@@ -68,12 +73,12 @@ export function App() {
       }
 
       event.preventDefault()
-      navigate(url.pathname)
+      navigate(`${url.pathname}${url.search}${url.hash}`)
     }
 
     document.addEventListener('click', handleClick)
     return () => document.removeEventListener('click', handleClick)
-  }, [path])
+  }, [locationKey])
 
   useEffect(() => {
     const photoId = getPhotoIdFromPath(path)
@@ -90,7 +95,7 @@ export function App() {
       activePath={activeRoute.path === photoDetailRoute.path ? '/photos' : activeRoute.path}
       onNavigate={navigate}
     >
-      <Page key={path} />
+      <Page key={locationKey} />
     </SiteLayout>
   )
 }

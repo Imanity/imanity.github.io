@@ -9,6 +9,14 @@ import { useGallery } from '../gallery/GalleryProvider'
 
 export function Photos() {
   const { error, loading, photos, reload } = useGallery()
+  const requestedTags = [
+    ...new Set(
+      new URLSearchParams(window.location.search)
+        .getAll('tag')
+        .map((tag) => tag.trim())
+        .filter(Boolean),
+    ),
+  ]
   const {
     clearLocations,
     clearSearch,
@@ -18,7 +26,7 @@ export function Photos() {
     search,
     toggleLocation,
     toggleTag,
-  } = usePhotoSearch(photos)
+  } = usePhotoSearch(photos, { selectedTags: requestedTags })
   const hasFilters =
     search.selectedTags.length > 0 || search.selectedLocations.length > 0
 
