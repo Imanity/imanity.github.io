@@ -407,6 +407,7 @@ input {
 
 .photo-results-heading {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
@@ -424,6 +425,44 @@ input {
 .photo-results-heading strong {
   color: var(--text);
   font-size: 1.08rem;
+}
+
+.photo-results-controls,
+.photo-results-controls label {
+  display: flex;
+  align-items: center;
+}
+
+.photo-results-controls {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-left: auto;
+}
+
+.photo-results-controls label {
+  gap: 7px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.photo-results-controls select {
+  min-height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 0 30px 0 10px;
+  color: var(--text);
+  background: var(--surface);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+}
+
+.photo-results-controls select:hover,
+.photo-results-controls select:focus-visible {
+  border-color: var(--teal);
+  outline: none;
 }
 
 .photo-results-heading button {

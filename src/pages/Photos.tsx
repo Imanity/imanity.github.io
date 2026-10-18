@@ -1,3 +1,4 @@
+import { useMemo, useState } from 'react'
 import {
   PhotoMapFilter,
   PhotoMasonry,
@@ -6,9 +7,15 @@ import {
 } from '@imanity/tabi-gallery'
 import { PageHeader } from '../components/ui/PageHeader'
 import { useGallery } from '../gallery/GalleryProvider'
+import {
+  createRandomPhotoRanks,
+  sortPhotos,
+  type PhotoSortOrder,
+} from '../gallery/sortPhotos'
 
 export function Photos() {
   const { error, loading, photos, reload } = useGallery()
+  const [sortOrder, setSortOrder] = useState<PhotoSortOrder>('random')
   const requestedTags = [
     ...new Set(
       new URLSearchParams(window.location.search)
@@ -27,6 +34,11 @@ export function Photos() {
     toggleLocation,
     toggleTag,
   } = usePhotoSearch(photos, { selectedTags: requestedTags })
+  const randomRanks = useMemo(() => createRandomPhotoRanks(photos), [photos])
+  const sortedResults = useMemo(
+    () => sortPhotos(results, sortOrder, randomRanks),
+    [randomRanks, results, sortOrder],
+  )
   const hasFilters =
     search.selectedTags.length > 0 || search.selectedLocations.length > 0
 
@@ -52,16 +64,32 @@ export function Photos() {
                 <strong>{results.length}</strong>
                 <span> / {photos.length} 张照片</span>
               </p>
-              {hasFilters ? (
-                <button onClick={clearSearch} type="button">
-                  清除全部筛选
-                </button>
-              ) : null}
+              <div className="photo-results-controls">
+                <label>
+                  <span>排序</span>
+                  <select
+                    aria-label="照片排序"
+                    onChange={(event) =>
+                      setSortOrder(event.target.value as PhotoSortOrder)
+                    }
+                    value={sortOrder}
+                  >
+                    <option value="random">随机顺序</option>
+                    <option value="taken-at-asc">时间正序</option>
+                    <option value="taken-at-desc">时间倒序</option>
+                  </select>
+                </label>
+                {hasFilters ? (
+                  <button onClick={clearSearch} type="button">
+                    清除全部筛选
+                  </button>
+                ) : null}
+              </div>
             </header>
 
             <PhotoMasonry
               getPhotoHref={(photo) => `/photos/${encodeURIComponent(photo.id)}`}
-              photos={results}
+              photos={sortedResults}
             />
           </div>
 
