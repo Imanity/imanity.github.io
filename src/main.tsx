@@ -2,6 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import '@imanity/tabi-gallery/style.css'
 import { App } from './app/App'
+import { GalleryProvider } from './gallery/GalleryProvider'
 import './styles/global.css'
 
 const redirect = new URLSearchParams(window.location.search).get('redirect')
@@ -12,6 +13,8 @@ if (redirect) {
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <GalleryProvider>
+      <App />
+    </GalleryProvider>
   </StrictMode>,
 )

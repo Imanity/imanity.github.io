@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "25-11_china_beijing",
+  "title": "25.11_china_beijing",
+  "photos": [
+    {
+      "id": "25-11_china_beijing-27d9398113e4",
+      "title": "银杏大道",
+      "description": "银杏大道",
+      "tags": [
+        "china",
+        "autumn"
+      ],
+      "location": {
+        "label": "北京 钓鱼台银杏大道",
+        "latitude": 39.914845998427396,
+        "longitude": 116.33457677979729,
+        "country": "china"
+      },
+      "sourceHash": "27d9398113e414f6c3242b8266f9158a88de19926a804616e1a9a6629232e16a",
+      "image": {
+        "src": "/assets/photos/25-11_china_beijing/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "银杏大道"
+      }
+    },
+    {
+      "id": "25-11_china_beijing-0ecbc085147f",
+      "title": "银杏大道",
+      "description": "狗@银杏大道",
+      "tags": [
+        "china",
+        "autumn",
+        "animals"
+      ],
+      "location": {
+        "label": "北京 钓鱼台银杏大道",
+        "latitude": 39.914845998427396,
+        "longitude": 116.33457677979729,
+        "country": "china"
+      },
+      "sourceHash": "0ecbc085147f0545ef0e97d5d735216331914bd07254ce7346eabf4bf54353ff",
+      "image": {
+        "src": "/assets/photos/25-11_china_beijing/00003.jpg",
+        "width": 1280,
+        "height": 1920,
+        "alt": "银杏大道"
+      }
+    }
+  ]
+}

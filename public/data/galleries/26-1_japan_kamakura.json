@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "26-1_japan_kamakura",
+  "title": "26.1_japan_kamakura",
+  "photos": [
+    {
+      "id": "26-1_japan_kamakura-97ba302c0779",
+      "title": "鎌倉花火大会",
+      "description": "鎌倉花火大会@披露山公園",
+      "takenAt": "26.7.10",
+      "tags": [
+        "japan",
+        "fireworks"
+      ],
+      "location": {
+        "label": "鎌倉 披露山公園",
+        "latitude": 35.296486994920826,
+        "longitude": 139.56427722634973,
+        "country": "japan"
+      },
+      "sourceHash": "97ba302c0779a633f1d7c9c43a82674e1ceaa4100e57836e6c64c5e164747131",
+      "image": {
+        "src": "/assets/photos/26-1_japan_kamakura/00002.jpg",
+        "width": 1920,
+        "height": 1200,
+        "alt": "鎌倉花火大会"
+      }
+    }
+  ]
+}

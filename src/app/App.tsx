@@ -1,10 +1,16 @@
 import { useEffect, useMemo, useState } from 'react'
 import { SiteLayout } from '../components/layout/SiteLayout'
-import { notFoundRoute, routes } from './routes'
+import { useGallery } from '../gallery/GalleryProvider'
+import {
+  getPhotoIdFromPath,
+  photoDetailRoute,
+  resolveRoute,
+} from './routes'
 
 const getPath = () => window.location.pathname || '/'
 
 export function App() {
+  const { photos } = useGallery()
   const [path, setPath] = useState(getPath)
 
   useEffect(() => {
@@ -14,10 +20,7 @@ export function App() {
     return () => window.removeEventListener('popstate', handlePopState)
   }, [])
 
-  const activeRoute = useMemo(
-    () => routes.find((route) => route.path === path) ?? notFoundRoute,
-    [path],
-  )
+  const activeRoute = useMemo(() => resolveRoute(path), [path])
 
   const navigate = (nextPath: string) => {
     if (nextPath === path) {
@@ -59,7 +62,7 @@ export function App() {
 
       if (
         url.origin !== window.location.origin ||
-        !routes.some((route) => route.path === url.pathname)
+        resolveRoute(url.pathname).path === '*'
       ) {
         return
       }
@@ -73,15 +76,21 @@ export function App() {
   }, [path])
 
   useEffect(() => {
-    document.title =
-      activeRoute.path === '/' ? "RJ's Page" : `${activeRoute.title} | RJ's Page`
-  }, [activeRoute])
+    const photoId = getPhotoIdFromPath(path)
+    const photo = photoId ? photos.find((item) => item.id === photoId) : null
+    const title = photo?.title ?? activeRoute.title
+
+    document.title = activeRoute.path === '/' ? "RJ's Page" : `${title} | RJ's Page`
+  }, [activeRoute, path, photos])
 
   const Page = activeRoute.component
 
   return (
-    <SiteLayout activePath={activeRoute.path} onNavigate={navigate}>
-      <Page />
+    <SiteLayout
+      activePath={activeRoute.path === photoDetailRoute.path ? '/photos' : activeRoute.path}
+      onNavigate={navigate}
+    >
+      <Page key={path} />
     </SiteLayout>
   )
 }

@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "defaultLocale": "zh-CN",
+  "locales": [
+    "zh-CN",
+    "en",
+    "ja"
+  ],
+  "tags": [
+    {
+      "id": "terraces",
+      "labels": {
+        "zh-CN": "梯田",
+        "en": "Terraces",
+        "ja": "棚田"
+      },
+      "aliases": [
+        "梯田"
+      ]
+    },
+    {
+      "id": "dawn-glow",
+      "labels": {
+        "zh-CN": "朝霞",
+        "en": "Dawn glow",
+        "ja": "朝焼け"
+      },
+      "aliases": [
+        "朝霞"
+      ]
+    },
+    {
+      "id": "aerial",
+      "labels": {
+        "zh-CN": "航拍",
+        "en": "Aerial",
+        "ja": "空撮"
+      },
+      "aliases": [
+        "航拍"
+      ]
+    },
+    {
+      "id": "panorama",
+      "labels": {
+        "zh-CN": "全景",
+        "en": "Panorama",
+        "ja": "パノラマ"
+      },
+      "aliases": [
+        "全景"
+      ]
+    },
+    {
+      "id": "animals",
+      "labels": {
+        "zh-CN": "动物",
+        "en": "Animals",
+        "ja": "動物"
+      },
+      "aliases": [
+        "动物"
+      ]
+    },
+    {
+      "id": "cherry-blossoms",
+      "labels": {
+        "zh-CN": "樱花",
+        "en": "Cherry blossoms",
+        "ja": "桜"
+      },
+      "aliases": [
+        "樱花"
+      ]
+    },
+    {
+      "id": "birds",
+      "labels": {
+        "ja": "鳥類",
+        "zh-CN": "鸟类",
+        "en": "Birds"
+      },
+      "aliases": []
+    },
+    {
+      "id": "fireworks",
+      "labels": {
+        "en": "Fireworks",
+        "zh-CN": "烟花",
+        "ja": "花火"
+      },
+      "aliases": []
+    },
+    {
+      "id": "autumn",
+      "labels": {
+        "en": "Autumn",
+        "ja": "秋",
+        "zh-CN": "秋季"
+      },
+      "aliases": []
+    }
+  ],
+  "countries": [
+    {
+      "id": "china",
+      "labels": {
+        "zh-CN": "中国",
+        "en": "China",
+        "ja": "中国"
+      },
+      "aliases": [
+        "中国",
+        "CN",
+        "CHN"
+      ]
+    },
+    {
+      "id": "japan",
+      "labels": {
+        "zh-CN": "日本",
+        "en": "Japan",
+        "ja": "日本"
+      },
+      "aliases": []
+    }
+  ]
+}

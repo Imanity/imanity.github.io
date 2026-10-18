@@ -3,6 +3,7 @@ import { Camera, FolderGit2, Home, UserRound } from 'lucide-react'
 import { About } from '../pages/About'
 import { HomePage } from '../pages/Home'
 import { NotFound } from '../pages/NotFound'
+import { PhotoDetailPage } from '../pages/PhotoDetailPage'
 import { Photos } from '../pages/Photos'
 import { Projects } from '../pages/Projects'
 
@@ -51,4 +52,33 @@ export const notFoundRoute: AppRoute = {
   title: '未找到',
   icon: Home,
   component: NotFound,
+}
+
+export const photoDetailRoute: AppRoute = {
+  path: '/photos/:photoId',
+  label: '照片详情',
+  title: '照片详情',
+  icon: Camera,
+  component: PhotoDetailPage,
+}
+
+export function getPhotoIdFromPath(path: string) {
+  const match = path.match(/^\/photos\/([^/]+)\/?$/)
+
+  if (!match) {
+    return null
+  }
+
+  try {
+    return decodeURIComponent(match[1])
+  } catch {
+    return null
+  }
+}
+
+export function resolveRoute(path: string) {
+  return (
+    routes.find((route) => route.path === path) ??
+    (getPhotoIdFromPath(path) ? photoDetailRoute : notFoundRoute)
+  )
 }

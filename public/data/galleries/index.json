@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "taxonomy": "/data/gallery-taxonomy.json",
+  "galleries": [
+    {
+      "id": "default",
+      "title": "Default gallery",
+      "config": "/data/galleries/default.json"
+    },
+    {
+      "id": "25-12_china_yunnan",
+      "title": "25.12_china_yunnan",
+      "config": "/data/galleries/25-12_china_yunnan.json"
+    },
+    {
+      "id": "26-1_china_yunnan",
+      "title": "26.1_china_yunnan",
+      "config": "/data/galleries/26-1_china_yunnan.json"
+    },
+    {
+      "id": "26-1_japan_kamakura",
+      "title": "26.1_japan_kamakura",
+      "config": "/data/galleries/26-1_japan_kamakura.json"
+    },
+    {
+      "id": "25-11_china_beijing",
+      "title": "25.11_china_beijing",
+      "config": "/data/galleries/25-11_china_beijing.json"
+    }
+  ]
+}

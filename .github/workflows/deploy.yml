@@ -57,6 +57,8 @@ jobs:
 
       - name: Build homepage
         working-directory: imanity.github.io
+        env:
+          VITE_GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: npm run build
 
       - name: Configure Pages
