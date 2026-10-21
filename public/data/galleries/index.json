@@ -26,6 +26,16 @@
       "id": "25-11_china_beijing",
       "title": "25.11_china_beijing",
       "config": "/data/galleries/25-11_china_beijing.json"
+    },
+    {
+      "id": "25-9_china_beijing",
+      "title": "25.9_china_beijing",
+      "config": "/data/galleries/25-9_china_beijing.json"
+    },
+    {
+      "id": "25-7_japan_hokkaido",
+      "title": "25.7_japan_hokkaido",
+      "config": "/data/galleries/25-7_japan_hokkaido.json"
     }
   ]
 }

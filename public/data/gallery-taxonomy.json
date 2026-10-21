@@ -99,6 +99,87 @@
         "zh-CN": "秋季"
       },
       "aliases": []
+    },
+    {
+      "id": "astronomy",
+      "labels": {
+        "zh-CN": "天文",
+        "en": "Astronomy",
+        "ja": "天文"
+      },
+      "aliases": []
+    },
+    {
+      "id": "mountain",
+      "labels": {
+        "zh-CN": "山",
+        "ja": "山",
+        "en": "Mountain"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ocean",
+      "labels": {
+        "zh-CN": "海",
+        "ja": "海",
+        "en": "Ocean"
+      },
+      "aliases": []
+    },
+    {
+      "id": "shrine",
+      "labels": {
+        "zh-CN": "神社",
+        "en": "Shrine",
+        "ja": "神社"
+      },
+      "aliases": []
+    },
+    {
+      "id": "island",
+      "labels": {
+        "en": "Island",
+        "zh-CN": "岛屿",
+        "ja": "島"
+      },
+      "aliases": []
+    },
+    {
+      "id": "butterfly",
+      "labels": {
+        "en": "Butterfly",
+        "zh-CN": "蝴蝶",
+        "ja": "蝶"
+      },
+      "aliases": []
+    },
+    {
+      "id": "flower",
+      "labels": {
+        "zh-CN": "花",
+        "ja": "花",
+        "en": "Flower"
+      },
+      "aliases": []
+    },
+    {
+      "id": "lake",
+      "labels": {
+        "zh-CN": "湖",
+        "en": "Lake",
+        "ja": "湖"
+      },
+      "aliases": []
+    },
+    {
+      "id": "waterfall",
+      "labels": {
+        "zh-CN": "瀑布",
+        "en": "Waterfall",
+        "ja": "滝"
+      },
+      "aliases": []
     }
   ],
   "countries": [

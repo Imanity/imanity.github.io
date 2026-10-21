@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "id": "25-9_china_beijing",
+  "title": "25.9_china_beijing",
+  "photos": [
+    {
+      "id": "25-9_china_beijing-51633373e5b4",
+      "title": "月全食HDR",
+      "description": "月全食@食既阶段",
+      "takenAt": "25.9.8",
+      "tags": [
+        "china",
+        "astronomy"
+      ],
+      "location": {
+        "label": "北京 航天桥",
+        "latitude": 39.92403373687424,
+        "longitude": 116.31019213455794,
+        "country": "china"
+      },
+      "sourceHash": "51633373e5b4d7a26980d0fe901c6232d65102f5eeef0816869b4b555bbd9e45",
+      "image": {
+        "src": "/assets/photos/25-9_china_beijing/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "月全食HDR"
+      }
+    },
+    {
+      "id": "25-9_china_beijing-eefd34ffc94b",
+      "title": "月全食HDR",
+      "description": "月全食@生光阶段",
+      "takenAt": "25.9.8",
+      "tags": [
+        "china",
+        "astronomy"
+      ],
+      "location": {
+        "label": "北京 航天桥",
+        "latitude": 39.92403373687424,
+        "longitude": 116.31019213455794,
+        "country": "china"
+      },
+      "sourceHash": "eefd34ffc94b2c6c78c14345630a4b9024bcc0712cc1b48752c985c76e858c58",
+      "image": {
+        "src": "/assets/photos/25-9_china_beijing/00002.jpg",
+        "width": 1920,
+        "height": 1278,
+        "alt": "月全食HDR"
+      }
+    },
+    {
+      "id": "25-9_china_beijing-50adfb7fc8f3",
+      "title": "月全食堆栈@中央电视塔",
+      "description": "",
+      "takenAt": "25.9.8",
+      "tags": [
+        "china",
+        "astronomy"
+      ],
+      "location": {
+        "label": "北京 航天桥",
+        "latitude": 39.92403373687424,
+        "longitude": 116.31019213455794,
+        "country": "china"
+      },
+      "sourceHash": "50adfb7fc8f36b209907326f1ce4b76d16b05d2618c0ba1c67b9a62c1aff14ee",
+      "image": {
+        "src": "/assets/photos/25-9_china_beijing/00003.jpg",
+        "width": 1370,
+        "height": 1920,
+        "alt": "月全食堆栈"
+      }
+    }
+  ]
+}
