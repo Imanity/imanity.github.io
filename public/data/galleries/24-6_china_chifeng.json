@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "id": "24-6_china_chifeng",
+  "title": "24.6_china_chifeng",
+  "photos": [
+    {
+      "id": "24-6_china_chifeng-c71f242c4018",
+      "title": "乌兰布统",
+      "description": "乌兰布统",
+      "takenAt": "24.6.8",
+      "tags": [
+        "china",
+        "lake"
+      ],
+      "location": {
+        "label": "赤峰市 克什克腾旗乌兰布统",
+        "latitude": 42.58559962901005,
+        "longitude": 117.15927873627831,
+        "country": "china"
+      },
+      "sourceHash": "c71f242c40188141c434f630f8b87c638d19ea19acc3410ebbc591179505cd16",
+      "image": {
+        "src": "/assets/photos/24-6_china_chifeng/00002.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "乌兰布统"
+      }
+    },
+    {
+      "id": "24-6_china_chifeng-93774aeabbf1",
+      "title": "夏季银河@乌兰布统",
+      "description": "夏季银河@乌兰布统",
+      "takenAt": "24.6.9",
+      "tags": [
+        "china",
+        "astrophotography",
+        "astronomy"
+      ],
+      "location": {
+        "label": "赤峰市 克什克腾旗乌兰布统",
+        "latitude": 42.60084608167561,
+        "longitude": 117.15890095945893,
+        "country": "china"
+      },
+      "sourceHash": "93774aeabbf18bf92b96b348f94981ff48ad0762193b667962bde8900f7e108f",
+      "image": {
+        "src": "/assets/photos/24-6_china_chifeng/00003.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "夏季银河@乌兰布统"
+      }
+    }
+  ]
+}

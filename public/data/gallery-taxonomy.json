@@ -180,6 +180,24 @@
         "ja": "滝"
       },
       "aliases": []
+    },
+    {
+      "id": "sunset",
+      "labels": {
+        "ja": "夕焼け",
+        "en": "Sunset",
+        "zh-CN": "晚霞"
+      },
+      "aliases": []
+    },
+    {
+      "id": "astrophotography",
+      "labels": {
+        "en": "Astrophotography",
+        "zh-CN": "星空",
+        "ja": "星空"
+      },
+      "aliases": []
     }
   ],
   "countries": [

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "24-7_china_beijing",
+  "title": "24.7_china_beijing",
+  "photos": [
+    {
+      "id": "24-7_china_beijing-9db7bb665126",
+      "title": "角楼朝霞",
+      "description": "故宫角楼朝霞",
+      "takenAt": "24.7.21",
+      "tags": [
+        "china",
+        "dawn-glow"
+      ],
+      "location": {
+        "label": "北京 故宫西北角楼",
+        "latitude": 39.922868848748955,
+        "longitude": 116.39152210461516,
+        "country": "china"
+      },
+      "sourceHash": "9db7bb665126a0351d911bff42016d3c768071f0d40531bd6615a444cac0343c",
+      "image": {
+        "src": "/assets/photos/24-7_china_beijing/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "角楼朝霞"
+      }
+    }
+  ]
+}

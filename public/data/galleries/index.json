@@ -36,6 +36,36 @@
       "id": "25-7_japan_hokkaido",
       "title": "25.7_japan_hokkaido",
       "config": "/data/galleries/25-7_japan_hokkaido.json"
+    },
+    {
+      "id": "24-10_china_sichuan",
+      "title": "24.10_china_sichuan",
+      "config": "/data/galleries/24-10_china_sichuan.json"
+    },
+    {
+      "id": "24-10_china_gansu",
+      "title": "24.10_china_gansu",
+      "config": "/data/galleries/24-10_china_gansu.json"
+    },
+    {
+      "id": "24-7_china_beijing",
+      "title": "24-7_china_beijing",
+      "config": "/data/galleries/24-7_china_beijing.json"
+    },
+    {
+      "id": "24-6_china_chifeng",
+      "title": "24-6_china_chifeng",
+      "config": "/data/galleries/24-6_china_chifeng.json"
+    },
+    {
+      "id": "24-6_china_beijing",
+      "title": "24.6_china_beijing",
+      "config": "/data/galleries/24-6_china_beijing.json"
+    },
+    {
+      "id": "24-5_china_weihai",
+      "title": "24.5_china_weihai",
+      "config": "/data/galleries/24-5_china_weihai.json"
     }
   ]
 }

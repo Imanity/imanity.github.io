@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "id": "24-6_china_beijing",
+  "title": "24.6_china_beijing",
+  "photos": [
+    {
+      "id": "24-6_china_beijing-85003f0ffb1e",
+      "title": "角楼满月剪影",
+      "description": "满月@故宫西北角楼",
+      "takenAt": "24.6.22",
+      "tags": [
+        "china",
+        "astronomy"
+      ],
+      "location": {
+        "label": "北京 故宫西北角楼",
+        "latitude": 39.922863222493014,
+        "longitude": 116.39154625575725,
+        "country": "china"
+      },
+      "sourceHash": "85003f0ffb1e593d9096b2b30b185af18666a7db16a35c4478066dff22bf65d1",
+      "image": {
+        "src": "/assets/photos/24-6_china_beijing/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "角楼满月剪影"
+      }
+    },
+    {
+      "id": "24-6_china_beijing-58495c90af57",
+      "title": "角楼满月",
+      "description": "满月@故宫西北角楼",
+      "takenAt": "24.6.22",
+      "tags": [
+        "china",
+        "astronomy"
+      ],
+      "location": {
+        "label": "北京 故宫西北角楼",
+        "latitude": 39.922863222493014,
+        "longitude": 116.39154625575725,
+        "country": "china"
+      },
+      "sourceHash": "58495c90af578dd81ec22e00f97773e60a45ce8c2f6edf407b09248c64e66c9d",
+      "image": {
+        "src": "/assets/photos/24-6_china_beijing/00003.jpg",
+        "width": 1280,
+        "height": 1920,
+        "alt": "角楼满月"
+      }
+    },
+    {
+      "id": "24-6_china_beijing-2d30ab2563c1",
+      "title": "满月",
+      "description": "长焦满月",
+      "takenAt": "24.6.22",
+      "tags": [
+        "china",
+        "astronomy"
+      ],
+      "location": {
+        "label": "北京",
+        "latitude": 39.922863222493014,
+        "longitude": 116.39154625575725,
+        "country": "china"
+      },
+      "sourceHash": "2d30ab2563c1201cc4492aa2ee9f887c9172d12b590875dcbfa2028d64c67dd6",
+      "image": {
+        "src": "/assets/photos/24-6_china_beijing/00005.jpg",
+        "width": 1516,
+        "height": 1011,
+        "alt": "满月"
+      }
+    }
+  ]
+}

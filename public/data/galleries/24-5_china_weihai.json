@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "id": "24-5_china_weihai",
+  "title": "24.5_china_weihai",
+  "photos": [
+    {
+      "id": "24-5_china_weihai-da4cb5961fd2",
+      "title": "威海猫头山",
+      "description": "威海猫头山",
+      "takenAt": "24.5.17",
+      "tags": [
+        "china",
+        "ocean",
+        "island"
+      ],
+      "location": {
+        "label": "威海 猫头山",
+        "latitude": 37.53815734573097,
+        "longitude": 122.15982697143413,
+        "country": "china"
+      },
+      "sourceHash": "da4cb5961fd24a94127c8f870887826d6845368c4df1cb9c1e486f92dca122a5",
+      "image": {
+        "src": "/assets/photos/24-5_china_weihai/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "威海猫头山"
+      }
+    },
+    {
+      "id": "24-5_china_weihai-8c78c3ce9b54",
+      "title": "威海猫头山朝霞",
+      "description": "威海猫头山朝霞",
+      "takenAt": "24.5.18",
+      "tags": [
+        "china",
+        "island",
+        "ocean",
+        "dawn-glow"
+      ],
+      "location": {
+        "label": "威海 猫头山",
+        "latitude": 37.53815734573097,
+        "longitude": 122.15982697143413,
+        "country": "china"
+      },
+      "sourceHash": "8c78c3ce9b54e42f9db510256b135efc1cbdec77a0f4394375b8cc3b6b5934ec",
+      "image": {
+        "src": "/assets/photos/24-5_china_weihai/00003.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "威海猫头山"
+      }
+    },
+    {
+      "id": "24-5_china_weihai-548f628dc0c3",
+      "title": "布鲁维斯沉船",
+      "description": "布鲁维斯沉船航拍",
+      "takenAt": "24.5.19",
+      "tags": [
+        "china",
+        "ocean",
+        "aerial"
+      ],
+      "location": {
+        "label": "威海 布鲁维斯海滩",
+        "latitude": 37.39895213212542,
+        "longitude": 122.5584355207647,
+        "country": "china"
+      },
+      "sourceHash": "548f628dc0c37be1c50ec3c97302929453c2d720d6de955f2d05939890e25ee4",
+      "image": {
+        "src": "/assets/photos/24-5_china_weihai/00006.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "布鲁维斯沉船"
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "id": "24-10_china_sichuan",
+  "title": "24.10_china_sichuan",
+  "photos": [
+    {
+      "id": "24-10_china_sichuan-63aac903086b",
+      "title": "九寨沟流水",
+      "description": "九寨沟",
+      "takenAt": "24.9.29",
+      "tags": [
+        "china",
+        "waterfall"
+      ],
+      "location": {
+        "label": "四川 阿坝 九寨沟",
+        "latitude": 33.16601547283527,
+        "longitude": 103.88701512176867,
+        "country": "china"
+      },
+      "sourceHash": "63aac903086b96a1fb9ad5944ccb4f96c1bf53713d610244938c37592728f980",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00003.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "九寨沟"
+      }
+    },
+    {
+      "id": "24-10_china_sichuan-b94f367a65d7",
+      "title": "九寨沟珍珠滩瀑布",
+      "description": "珍珠滩瀑布",
+      "takenAt": "24.9.29",
+      "tags": [
+        "china",
+        "waterfall"
+      ],
+      "location": {
+        "label": "四川 阿坝 九寨沟",
+        "latitude": 33.16601547283527,
+        "longitude": 103.88701512176867,
+        "country": "china"
+      },
+      "sourceHash": "b94f367a65d702ad09f2bf75b12744eb42e2c842514a7bc964a79be2377e07bb",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00004.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "九寨沟珍珠滩瀑布"
+      }
+    },
+    {
+      "id": "24-10_china_sichuan-c56637df5022",
+      "title": "九寨沟珍珠滩瀑布",
+      "description": "珍珠滩瀑布",
+      "takenAt": "24.9.29",
+      "tags": [
+        "china",
+        "waterfall"
+      ],
+      "location": {
+        "label": "四川 阿坝 九寨沟",
+        "latitude": 33.16601547283527,
+        "longitude": 103.88701512176867,
+        "country": "china"
+      },
+      "sourceHash": "c56637df50227095fc6cfd3d685178a3973c46819d857c960ee7ceb7dbd7721e",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00005.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "九寨沟珍珠滩瀑布"
+      }
+    },
+    {
+      "id": "24-10_china_sichuan-da796fe02a2b",
+      "title": "花湖",
+      "description": "若尔盖花湖",
+      "takenAt": "24.9.30",
+      "tags": [
+        "china",
+        "lake"
+      ],
+      "location": {
+        "label": "四川 阿坝 若尔盖花湖",
+        "latitude": 33.91685598551337,
+        "longitude": 102.8169147313485,
+        "country": "china"
+      },
+      "sourceHash": "da796fe02a2b40b1afbcf19633c61ed026e131d740d03f05c235f4598ab4d062",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00012.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "花湖"
+      }
+    },
+    {
+      "id": "24-10_china_sichuan-a92a563da588",
+      "title": "花湖",
+      "description": "若尔盖花湖",
+      "takenAt": "24.9.30",
+      "tags": [
+        "china",
+        "mountain",
+        "autumn"
+      ],
+      "location": {
+        "label": "四川 阿坝 若尔盖花湖",
+        "latitude": 33.91685598551337,
+        "longitude": 102.8169147313485,
+        "country": "china"
+      },
+      "sourceHash": "a92a563da588896235a4d56a12aa18e460cd53a230033040e5b98e178d89d561",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00013.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "花湖"
+      }
+    },
+    {
+      "id": "24-10_china_sichuan-53088d953628",
+      "title": "莲宝叶则",
+      "description": "莲宝叶则",
+      "takenAt": "24.10.5",
+      "tags": [
+        "china",
+        "mountain",
+        "lake"
+      ],
+      "location": {
+        "label": "四川 阿坝 莲宝叶则",
+        "latitude": 33.07804156585454,
+        "longitude": 101.14153542003645,
+        "country": "china"
+      },
+      "sourceHash": "53088d95362827b7d462165261629bcac3dd5071da9515c61b819333f7076cf1",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00027.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "莲宝叶则"
+      }
+    },
+    {
+      "id": "24-10_china_sichuan-826e6579ddff",
+      "title": "莲宝叶则",
+      "description": "莲宝叶则",
+      "takenAt": "24.10.5",
+      "tags": [
+        "china",
+        "mountain",
+        "aerial"
+      ],
+      "location": {
+        "label": "四川 阿坝 莲宝叶则",
+        "latitude": 33.07860323088865,
+        "longitude": 101.17114793754536,
+        "country": "china"
+      },
+      "sourceHash": "826e6579ddff264062a6b2bd1450bbbe4dea84db48f6acb28c5f8f165379092d",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00028.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "莲宝叶则"
+      }
+    },
+    {
+      "id": "24-10_china_sichuan-41f88a8b474c",
+      "title": "漫泽塘",
+      "description": "漫泽塘",
+      "takenAt": "24.10.5",
+      "tags": [
+        "china",
+        "aerial"
+      ],
+      "location": {
+        "label": "四川 阿坝 漫泽塘",
+        "latitude": 33.208328757407955,
+        "longitude": 102.09130248634933,
+        "country": "china"
+      },
+      "sourceHash": "41f88a8b474c0448ffef3a3782a0ca8a45cf64ec2a851f6e4014c87594a555f0",
+      "image": {
+        "src": "/assets/photos/24-10_china_sichuan/00032.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "漫泽塘"
+      }
+    }
+  ]
+}
