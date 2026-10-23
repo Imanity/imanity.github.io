@@ -66,6 +66,16 @@
       "id": "24-5_china_weihai",
       "title": "24.5_china_weihai",
       "config": "/data/galleries/24-5_china_weihai.json"
+    },
+    {
+      "id": "24-5_china_sichuan",
+      "title": "24.5_china_sichuan",
+      "config": "/data/galleries/24-5_china_sichuan.json"
+    },
+    {
+      "id": "24-5_china_beijing",
+      "title": "24.5_china_beijing",
+      "config": "/data/galleries/24-5_china_beijing.json"
     }
   ]
 }

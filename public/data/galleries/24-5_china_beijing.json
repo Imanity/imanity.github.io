@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "24-5_china_beijing",
+  "title": "24.5_china_beijing",
+  "photos": [
+    {
+      "id": "24-5_china_beijing-52a45b115f65",
+      "title": "晚霞@清河",
+      "description": "信息路清河交叉点",
+      "takenAt": "24.5.31",
+      "tags": [
+        "china",
+        "sunset"
+      ],
+      "location": {
+        "label": "北京 信息路",
+        "latitude": 40.01863991479604,
+        "longitude": 116.31536697664421,
+        "country": "china"
+      },
+      "sourceHash": "52a45b115f65d532f9ced878358b9a54c57df4c51bd686e8b625afe18cb52f23",
+      "image": {
+        "src": "/assets/photos/24-5_china_beijing/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "晚霞@清河"
+      }
+    },
+    {
+      "id": "24-5_china_beijing-1063ace76327",
+      "title": "晚霞@清河",
+      "description": "信息路清河交叉点",
+      "takenAt": "24.5.31",
+      "tags": [
+        "china",
+        "sunset"
+      ],
+      "location": {
+        "label": "北京 信息路",
+        "latitude": 40.01863991479604,
+        "longitude": 116.31536697664421,
+        "country": "china"
+      },
+      "sourceHash": "1063ace76327bf3455b17e2fbddabedc1bc78d1e76fd8d6f12ffb4deba5f16e0",
+      "image": {
+        "src": "/assets/photos/24-5_china_beijing/00002.jpg",
+        "width": 1280,
+        "height": 1920,
+        "alt": "晚霞@清河"
+      }
+    }
+  ]
+}

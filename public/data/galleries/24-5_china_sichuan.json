@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "id": "24-5_china_sichuan",
+  "title": "24.5_china_sichuan",
+  "photos": [
+    {
+      "id": "24-5_china_sichuan-a631868c567d",
+      "title": "眺望群山@乃龙山垭口",
+      "description": "乃龙山垭口",
+      "takenAt": "24.4.30",
+      "tags": [
+        "china",
+        "mountain"
+      ],
+      "location": {
+        "label": "四川 甘孜州 甘孜县 乃龙山垭口",
+        "latitude": 31.826955505019388,
+        "longitude": 100.2776326341124,
+        "country": "china"
+      },
+      "sourceHash": "a631868c567db1413ade3a51abd512263f8818d8dafeecc8064fb3786f7b15d8",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00004.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "眺望群山@乃龙山垭口"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-5ad553ab0cf0",
+      "title": "新龙红山",
+      "description": "新龙红山",
+      "takenAt": "24.4.30",
+      "tags": [
+        "china",
+        "mountain"
+      ],
+      "location": {
+        "label": "四川 甘孜州 新龙县 新龙红山",
+        "latitude": 31.497870690674112,
+        "longitude": 99.75049798873894,
+        "country": "china"
+      },
+      "sourceHash": "5ad553ab0cf0082c215c8e9ef4547f0cf4a9b8fa52cc360502b6ec15cf37a6c3",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00005.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "新龙红山"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-2355a935ae01",
+      "title": "大噪鹛",
+      "description": "大噪鹛@稻城亚丁",
+      "takenAt": "24.5.2",
+      "tags": [
+        "china",
+        "birds"
+      ],
+      "location": {
+        "label": "四川 甘孜州 稻城县 亚丁",
+        "latitude": 28.377687906852685,
+        "longitude": 100.36397893647421,
+        "country": "china"
+      },
+      "sourceHash": "2355a935ae0159532245eef2f2d373071829833b2620f03ab03b4a9535ad6401",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00008.jpg",
+        "width": 1711,
+        "height": 1141,
+        "alt": "大噪鹛"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-aec1265e4211",
+      "title": "稻城亚丁",
+      "description": "稻城亚丁",
+      "takenAt": "24.5.2",
+      "tags": [
+        "china",
+        "mountain"
+      ],
+      "location": {
+        "label": "四川 甘孜州 稻城县 亚丁",
+        "latitude": 28.377687906852685,
+        "longitude": 100.36397893647421,
+        "country": "china"
+      },
+      "sourceHash": "aec1265e42110816a6cb54048a8e0875ff801c4d3abc5bbe21e320edc1c9f33f",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00009.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "稻城亚丁"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-5d5803c731fa",
+      "title": "稻城亚丁牛奶海",
+      "description": "稻城亚丁牛奶海",
+      "takenAt": "24.5.2",
+      "tags": [
+        "china",
+        "mountain",
+        "lake"
+      ],
+      "location": {
+        "label": "四川 甘孜州 稻城县 亚丁",
+        "latitude": 28.373630617967773,
+        "longitude": 100.34764673915825,
+        "country": "china"
+      },
+      "sourceHash": "5d5803c731fabccf1fdbea1f4e8eb86ff49dc1b61cb807957a7a33d84592c026",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00012.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "稻城亚丁牛奶海"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-347b8ea5ea30",
+      "title": "墨石公园",
+      "description": "墨石公园",
+      "takenAt": "24.5.4",
+      "tags": [
+        "china",
+        "mountain"
+      ],
+      "location": {
+        "label": "四川 甘孜州 道孚县 墨石公园",
+        "latitude": 30.440319622498546,
+        "longitude": 101.54537992387122,
+        "country": "china"
+      },
+      "sourceHash": "347b8ea5ea300a7090af7244b39249a6cbe5d92a635718dc70b2ebfc7b424f14",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00016.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "墨石公园"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-1ba2d030ccbb",
+      "title": "远眺雅拉雪山",
+      "description": "远眺雅拉雪山@新都桥",
+      "takenAt": "24.5.4",
+      "tags": [
+        "china",
+        "mountain"
+      ],
+      "location": {
+        "label": "四川 甘孜州 康定市 塔公草原",
+        "latitude": 30.321657798827285,
+        "longitude": 101.52671819747417,
+        "country": "china"
+      },
+      "sourceHash": "1ba2d030ccbb000cd0791f7f9060741e3ad94780dc669903f2bc7dec2653e95e",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00020.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "远眺雅拉雪山"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-c75048407bdc",
+      "title": "公路航拍@乃龙山垭口",
+      "description": "乃龙山垭口",
+      "takenAt": "24.4.30",
+      "tags": [
+        "china",
+        "aerial"
+      ],
+      "location": {
+        "label": "四川 甘孜州 甘孜县 乃龙山垭口",
+        "latitude": 31.826955505019388,
+        "longitude": 100.2776326341124,
+        "country": "china"
+      },
+      "sourceHash": "c75048407bdc6432b2a4a74623055f498c89f525ece28952910eddc3d9e0e16c",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00021.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "公路航拍@乃龙山垭口"
+      }
+    },
+    {
+      "id": "24-5_china_sichuan-f32b36ade2c6",
+      "title": "理塘航拍",
+      "description": "理塘航拍",
+      "takenAt": "24.5.1",
+      "tags": [
+        "china",
+        "aerial"
+      ],
+      "location": {
+        "label": "四川 甘孜州 理塘县",
+        "latitude": 29.988085216391788,
+        "longitude": 100.25202367605709,
+        "country": "china"
+      },
+      "sourceHash": "f32b36ade2c6758a87d51feef828418f0c0b07f55e6e89ae80b0c2fb7e51d988",
+      "image": {
+        "src": "/assets/photos/24-5_china_sichuan/00022.jpg",
+        "width": 1920,
+        "height": 1081,
+        "alt": "理塘航拍"
+      }
+    }
+  ]
+}
