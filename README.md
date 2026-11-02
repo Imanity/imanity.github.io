@@ -6,7 +6,7 @@ React + TypeScript + Vite personal homepage for GitHub Pages.
 
 - [Technical overview](docs/technical.md)
 - [Project progress](docs/progress.md)
-- [Google Maps API setup](docs/google-maps.md)
+- [Leaflet + OpenStreetMap setup](docs/maps.md)
 
 ## Structure
 

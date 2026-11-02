@@ -62,7 +62,6 @@ export function PhotoDetailPage() {
 
       <PhotoDetail
         getTagHref={(tag) => `/photos?tag=${encodeURIComponent(tag)}`}
-        mapApiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY}
         photo={photo}
       />
 

@@ -25,13 +25,13 @@ export function Photos() {
     ),
   ]
   const {
-    clearLocations,
+    clearMapSelection,
     clearSearch,
     clearTags,
     facets,
     results,
     search,
-    toggleLocation,
+    selectMapPhotos,
     toggleTag,
   } = usePhotoSearch(photos, { selectedTags: requestedTags })
   const randomRanks = useMemo(() => createRandomPhotoRanks(photos), [photos])
@@ -40,7 +40,7 @@ export function Photos() {
     [randomRanks, results, sortOrder],
   )
   const hasFilters =
-    search.selectedTags.length > 0 || search.selectedLocations.length > 0
+    search.selectedTags.length > 0 || search.selectedPhotoIds.length > 0
 
   return (
     <section className="page-stack photos-page">
@@ -94,18 +94,17 @@ export function Photos() {
           </div>
 
           <aside className="photo-sidebar" aria-label="照片筛选">
+            <PhotoMapFilter
+              onClear={clearMapSelection}
+              onSelectPhotos={selectMapPhotos}
+              photos={photos}
+              selectedPhotoIds={search.selectedPhotoIds}
+            />
             <PhotoTagFilter
               onClear={clearTags}
               onToggle={toggleTag}
               selectedTags={search.selectedTags}
               tags={facets.tags}
-            />
-            <PhotoMapFilter
-              apiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY}
-              onClear={clearLocations}
-              onToggleLocation={toggleLocation}
-              photos={photos}
-              selectedLocations={search.selectedLocations}
             />
           </aside>
         </div>
