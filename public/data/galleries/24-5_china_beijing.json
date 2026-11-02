@@ -14,8 +14,8 @@
       ],
       "location": {
         "label": "北京 信息路",
-        "latitude": 40.01863991479604,
-        "longitude": 116.31536697664421,
+        "latitude": 40.0173937,
+        "longitude": 116.3092089,
         "country": "china"
       },
       "sourceHash": "52a45b115f65d532f9ced878358b9a54c57df4c51bd686e8b625afe18cb52f23",
@@ -37,8 +37,8 @@
       ],
       "location": {
         "label": "北京 信息路",
-        "latitude": 40.01863991479604,
-        "longitude": 116.31536697664421,
+        "latitude": 40.0173937,
+        "longitude": 116.3092089,
         "country": "china"
       },
       "sourceHash": "1063ace76327bf3455b17e2fbddabedc1bc78d1e76fd8d6f12ffb4deba5f16e0",

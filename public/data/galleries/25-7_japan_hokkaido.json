@@ -13,8 +13,8 @@
       ],
       "location": {
         "label": "東京 羽田空港第3ターミナル",
-        "latitude": 35.5446403460627,
-        "longitude": 139.76755524642553,
+        "latitude": 35.545182,
+        "longitude": 139.7697401,
         "country": "japan"
       },
       "sourceHash": "11ed8edd85fb280c1d1d4ec480842fdb6f2bc3951ebe4c1c7be5e6659d024420",
@@ -37,8 +37,8 @@
       ],
       "location": {
         "label": "利尻島 富士見大橋",
-        "latitude": 45.23053221446262,
-        "longitude": 141.2412260854932,
+        "latitude": 45.2305245,
+        "longitude": 141.2410551,
         "country": "japan"
       },
       "sourceHash": "cb89a933579fddaf8e1eaf3762b5f426ab43a6e5af5fe7969b3259557e5743c7",
@@ -61,8 +61,8 @@
       ],
       "location": {
         "label": "利尻島 彩くるロード",
-        "latitude": 45.23281989305967,
-        "longitude": 141.15687072050514,
+        "latitude": 45.2329763,
+        "longitude": 141.1566782,
         "country": "japan"
       },
       "sourceHash": "bf5a5bb29cd0562da128cc7212b2dc698ef88b21a9b63204ea84be3da8cd1579",
@@ -86,8 +86,8 @@
       ],
       "location": {
         "label": "利尻島 龍神の岩",
-        "latitude": 45.14177317418537,
-        "longitude": 141.16682087345262,
+        "latitude": 45.1411783,
+        "longitude": 141.1649501,
         "country": "japan"
       },
       "sourceHash": "e690457642386937d73f5361a60b086c2bf7a929550338105446caa36a270fdd",
@@ -111,8 +111,8 @@
       ],
       "location": {
         "label": "利尻島 仙法志御崎公園",
-        "latitude": 45.10163279208784,
-        "longitude": 141.23196198971294,
+        "latitude": 45.1003055,
+        "longitude": 141.2278104,
         "country": "japan"
       },
       "sourceHash": "6d55f0c80bcf82279393db7a3a46ca46d068dea821adab924cf7b93fa90ca750",
@@ -135,8 +135,8 @@
       ],
       "location": {
         "label": "礼文島 澄海岬",
-        "latitude": 45.41399789675521,
-        "longitude": 140.9938742448857,
+        "latitude": 45.4115718,
+        "longitude": 140.9860468,
         "country": "japan"
       },
       "sourceHash": "131219fc5fa85aee349855433dd995acba8f7bd9dd6335d34f784b47a9bc72f3",
@@ -161,8 +161,8 @@
       ],
       "location": {
         "label": "礼文島",
-        "latitude": 45.2841114129574,
-        "longitude": 141.01844674360032,
+        "latitude": 45.2837947,
+        "longitude": 141.0209799,
         "country": "japan"
       },
       "sourceHash": "c95b4c9097e60cb2fb016805162747d02e579c2c8621ea08e1f4b0c41598801e",
@@ -186,8 +186,8 @@
       ],
       "location": {
         "label": "礼文島",
-        "latitude": 45.28329691273061,
-        "longitude": 141.02156374857722,
+        "latitude": 45.2848213,
+        "longitude": 141.0208511,
         "country": "japan"
       },
       "sourceHash": "d0d695890fff17280e78a713c41820edcbb6b9eba89709aeb15f796555d24daa",
@@ -236,8 +236,8 @@
       ],
       "location": {
         "label": "礼文島",
-        "latitude": 45.29577096377494,
-        "longitude": 141.03461750198812,
+        "latitude": 45.296128,
+        "longitude": 141.0341763,
         "country": "japan"
       },
       "sourceHash": "f6b6b4489b7f614b01c005742a3a23325ad8ab607c0b877d734d93b2d571f6e5",
@@ -468,8 +468,8 @@
       ],
       "location": {
         "label": "美瑛町 白ひげの滝",
-        "latitude": 43.47489148344586,
-        "longitude": 142.63890009820747,
+        "latitude": 43.4749972,
+        "longitude": 142.63895,
         "country": "japan"
       },
       "sourceHash": "ff4ab6ee0a63c7c730eba762b771a2262151673413740770bd008b5153bd801d",

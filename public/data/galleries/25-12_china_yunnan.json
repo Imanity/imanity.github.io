@@ -14,8 +14,8 @@
       ],
       "location": {
         "label": "云南 爱春蓝色梯田",
-        "latitude": 23.08750322353433,
-        "longitude": 102.83285763184249,
+        "latitude": 23.0898186,
+        "longitude": 102.8307867,
         "country": "china"
       },
       "sourceHash": "d530d678896a6720ac05467a38d793ff256f822444887be0d68e6268a2d256fc",
@@ -37,8 +37,8 @@
       ],
       "location": {
         "label": "云南 爱春蓝色梯田",
-        "latitude": 23.08750322353433,
-        "longitude": 102.83285763184249,
+        "latitude": 23.0898186,
+        "longitude": 102.8307867,
         "country": "china"
       },
       "sourceHash": "5bbfe51dbea36735df17d592b2eb6aeb642b84720df87d25847e269c6b2d5bfe",
@@ -62,8 +62,8 @@
       ],
       "location": {
         "label": "云南 多依树梯田",
-        "latitude": 23.090422504214317,
-        "longitude": 102.80472785981287,
+        "latitude": 23.0837192,
+        "longitude": 102.8072691,
         "country": "china"
       },
       "sourceHash": "f28e51367a53e9e0a4a0b7786da1eba940ddb7ad156c3a42a11ece7b80623804",
@@ -88,8 +88,8 @@
       ],
       "location": {
         "label": "云南 多依树梯田",
-        "latitude": 23.090422504214317,
-        "longitude": 102.80472785981287,
+        "latitude": 23.0837192,
+        "longitude": 102.8072691,
         "country": "china"
       },
       "sourceHash": "5243faa5f36dd3f81e6ab2e5d4b01b49c4349db847a7e7a175844a5a2fa7c54a",
@@ -112,8 +112,8 @@
       ],
       "location": {
         "label": "云南 桂东梯田",
-        "latitude": 23.339387721557888,
-        "longitude": 102.34586878453564,
+        "latitude": 23.3226317,
+        "longitude": 102.3297366,
         "country": "china"
       },
       "sourceHash": "8b1434974446a1575a22052a5c6776dfe870ac68f8726929b2bca910d7ae2646",
@@ -135,8 +135,8 @@
       ],
       "location": {
         "label": "云南 昆明 翠湖",
-        "latitude": 25.0492171338279,
-        "longitude": 102.70411925350112,
+        "latitude": 25.0509311,
+        "longitude": 102.7021265,
         "country": "china"
       },
       "sourceHash": "7babc48da85d151357ca2987963b78b132517af90c72d5ad033cef641eef7207",
@@ -158,8 +158,8 @@
       ],
       "location": {
         "label": "云南 昆明 翠湖",
-        "latitude": 25.0492171338279,
-        "longitude": 102.70411925350112,
+        "latitude": 25.0509311,
+        "longitude": 102.7021265,
         "country": "china"
       },
       "sourceHash": "9b11d2688a1a600237d8dbda40f217b819d88b459a843fefa84178976d6951d5",
@@ -182,8 +182,8 @@
       ],
       "location": {
         "label": "云南 龙玛梯田",
-        "latitude": 23.264296757841457,
-        "longitude": 102.36742003779008,
+        "latitude": 23.2653388,
+        "longitude": 102.3636854,
         "country": "china"
       },
       "sourceHash": "17d8643a38b3bafefe00fdf63b1195f17f2a9da4f2fde57bf4d2351f5ff74dfe",
@@ -206,8 +206,8 @@
       ],
       "location": {
         "label": "云南 龙玛梯田",
-        "latitude": 23.264296757841457,
-        "longitude": 102.36742003779008,
+        "latitude": 23.2653388,
+        "longitude": 102.3636854,
         "country": "china"
       },
       "sourceHash": "aa40c7fd9b1ab745ff40db671646223402c56765b985a33f20342ee6904b7b25",
@@ -228,8 +228,8 @@
       ],
       "location": {
         "label": "云南 龙玛梯田",
-        "latitude": 23.264296757841457,
-        "longitude": 102.36742003779008,
+        "latitude": 23.2653388,
+        "longitude": 102.3636854,
         "country": "china"
       },
       "sourceHash": "913ea2b36b33fee80074e84c0a9c36098bee875a6be0e2071b48f1ae20fbfd2d",
@@ -251,8 +251,8 @@
       ],
       "location": {
         "label": "云南 无量山樱花谷",
-        "latitude": 24.766743705685958,
-        "longitude": 100.5222895528319,
+        "latitude": 24.7698078,
+        "longitude": 100.5229926,
         "country": "china"
       },
       "sourceHash": "5674a105f224df41fbcbe2a727d20b3e02f91e96aa5f197f0c7dd099472e2923",
@@ -275,8 +275,8 @@
       ],
       "location": {
         "label": "云南 无量山樱花谷",
-        "latitude": 24.766743705685958,
-        "longitude": 100.5222895528319,
+        "latitude": 24.7698078,
+        "longitude": 100.5229926,
         "country": "china"
       },
       "sourceHash": "251a99ecdf70d23c6efe3734745c4b914e05faf54beadb6e38be4eda67b24bb7",
@@ -299,8 +299,8 @@
       ],
       "location": {
         "label": "云南 无量山樱花谷",
-        "latitude": 24.766743705685958,
-        "longitude": 100.5222895528319,
+        "latitude": 24.7698078,
+        "longitude": 100.5229926,
         "country": "china"
       },
       "sourceHash": "736a133faae5fc63b7ff0e3b76cb819e8f3c6709ce323858636b77bd2da62a19",
@@ -323,8 +323,8 @@
       ],
       "location": {
         "label": "云南 无量山樱花谷",
-        "latitude": 24.766743705685958,
-        "longitude": 100.5222895528319,
+        "latitude": 24.7698078,
+        "longitude": 100.5229926,
         "country": "china"
       },
       "sourceHash": "4ae202b5ea9977f53c11d88246c669506814982fd84f399e5bdf1a0b8b3fa051",
@@ -347,8 +347,8 @@
       ],
       "location": {
         "label": "云南 无量山樱花谷",
-        "latitude": 24.766743705685958,
-        "longitude": 100.5222895528319,
+        "latitude": 24.7698078,
+        "longitude": 100.5229926,
         "country": "china"
       },
       "sourceHash": "57442da3635cc15f0380f829eb0a62ffe2a42735debcac510653bd2cb1ffebe3",
@@ -370,8 +370,8 @@
       ],
       "location": {
         "label": "云南 无量山樱花谷",
-        "latitude": 24.766743705685958,
-        "longitude": 100.5222895528319,
+        "latitude": 24.7698078,
+        "longitude": 100.5229926,
         "country": "china"
       },
       "sourceHash": "6350cc675a14c532ed3aaae37c33124b88596735ee1fb8f8799b14fe041c289b",
@@ -395,8 +395,8 @@
       ],
       "location": {
         "label": "云南 无量山樱花谷",
-        "latitude": 24.766743705685958,
-        "longitude": 100.5222895528319,
+        "latitude": 24.7698078,
+        "longitude": 100.5229926,
         "country": "china"
       },
       "sourceHash": "3a096ebcc16c76321bb87b8be826aa9c48ff7b373b030ba84189ffdab812c056",

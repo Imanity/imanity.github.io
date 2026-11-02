@@ -14,8 +14,8 @@
       ],
       "location": {
         "label": "北京 故宫西北角楼",
-        "latitude": 39.922863222493014,
-        "longitude": 116.39154625575725,
+        "latitude": 39.9216188,
+        "longitude": 116.3852549,
         "country": "china"
       },
       "sourceHash": "85003f0ffb1e593d9096b2b30b185af18666a7db16a35c4478066dff22bf65d1",
@@ -37,8 +37,8 @@
       ],
       "location": {
         "label": "北京 故宫西北角楼",
-        "latitude": 39.922863222493014,
-        "longitude": 116.39154625575725,
+        "latitude": 39.9216188,
+        "longitude": 116.3852549,
         "country": "china"
       },
       "sourceHash": "58495c90af578dd81ec22e00f97773e60a45ce8c2f6edf407b09248c64e66c9d",
@@ -60,8 +60,8 @@
       ],
       "location": {
         "label": "北京",
-        "latitude": 39.922863222493014,
-        "longitude": 116.39154625575725,
+        "latitude": 39.9216188,
+        "longitude": 116.3852549,
         "country": "china"
       },
       "sourceHash": "2d30ab2563c1201cc4492aa2ee9f887c9172d12b590875dcbfa2028d64c67dd6",

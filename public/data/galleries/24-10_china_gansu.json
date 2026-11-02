@@ -14,8 +14,8 @@
       ],
       "location": {
         "label": "甘肃 扎尕那洛克观景台",
-        "latitude": 34.2321392375942,
-        "longitude": 103.18019526825245,
+        "latitude": 34.2338826,
+        "longitude": 103.1827569,
         "country": "china"
       },
       "sourceHash": "f992ac47f018618c1253fce5cd51617c9a760ef2519c919d59d059542a208cc4",
@@ -37,8 +37,8 @@
       ],
       "location": {
         "label": "甘肃 扎尕那洛克观景台",
-        "latitude": 34.2321392375942,
-        "longitude": 103.18019526825245,
+        "latitude": 34.2338826,
+        "longitude": 103.1827569,
         "country": "china"
       },
       "sourceHash": "4218826c06a01f75085e2b2f854e60ff01a7b036db4f51daff8e881b119ca5d1",
@@ -59,8 +59,8 @@
       ],
       "location": {
         "label": "甘肃 扎尕那",
-        "latitude": 34.2321392375942,
-        "longitude": 103.18019526825245,
+        "latitude": 34.234335,
+        "longitude": 103.1806755,
         "country": "china"
       },
       "sourceHash": "38628f4e3f25c39bca4e08accf500833f65575fc89af39ec271198130608da32",
@@ -83,8 +83,8 @@
       ],
       "location": {
         "label": "甘肃 扎尕那仙女滩观景台",
-        "latitude": 34.232857733398234,
-        "longitude": 103.19965173033088,
+        "latitude": 34.2329512,
+        "longitude": 103.1998801,
         "country": "china"
       },
       "sourceHash": "f4d1b433b18561411658163fce8f31b6a36076e963763079c80ee33b9900d8f5",
@@ -105,7 +105,7 @@
         "mountain"
       ],
       "location": {
-        "label": " 甘肃 洛克之路",
+        "label": "甘肃 洛克之路",
         "latitude": 34.27382604684048,
         "longitude": 103.01439822314241,
         "country": "china"
@@ -130,8 +130,8 @@
       ],
       "location": {
         "label": "甘肃 拉卜楞寺",
-        "latitude": 35.18938433609884,
-        "longitude": 102.51248690870385,
+        "latitude": 35.1875232,
+        "longitude": 102.5050378,
         "country": "china"
       },
       "sourceHash": "1d1da6f871ab98ed82ff0cbc59af684b90919e22772f059de9fbcccda8f76c31",
@@ -154,8 +154,8 @@
       ],
       "location": {
         "label": "甘肃 尕海湖",
-        "latitude": 34.22820891975219,
-        "longitude": 102.34616082560196,
+        "latitude": 34.2325255,
+        "longitude": 102.3503494,
         "country": "china"
       },
       "sourceHash": "a60e0a9879584664b1b079000c2e565ef02e21474bf1835037a1188e2859a452",
@@ -224,8 +224,8 @@
       ],
       "location": {
         "label": "甘肃 洛克之路",
-        "latitude": 34.28816850420528,
-        "longitude": 102.98211036551781,
+        "latitude": 34.2944831,
+        "longitude": 102.9672602,
         "country": "china"
       },
       "sourceHash": "6063b3f29f93522de17591750f90ecc12125ff506e51993842e639cce0ad8309",
@@ -247,8 +247,8 @@
       ],
       "location": {
         "label": "甘肃 郭莽湿地",
-        "latitude": 34.31005602014049,
-        "longitude": 102.31201755137488,
+        "latitude": 34.3023226,
+        "longitude": 102.299881,
         "country": "china"
       },
       "sourceHash": "bd3917eb2e5b052778cac5453ef327f98dc6e305542bcf6558504d34bd4ca519",
