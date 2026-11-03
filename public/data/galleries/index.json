@@ -76,6 +76,21 @@
       "id": "24-5_china_beijing",
       "title": "24.5_china_beijing",
       "config": "/data/galleries/24-5_china_beijing.json"
+    },
+    {
+      "id": "24-4_japan_tokyo",
+      "title": "24.4_japan_tokyo",
+      "config": "/data/galleries/24-4_japan_tokyo.json"
+    },
+    {
+      "id": "24-1_japan_nara",
+      "title": "24.1_japan_nara",
+      "config": "/data/galleries/24-1_japan_nara.json"
+    },
+    {
+      "id": "23-9_china_chengde",
+      "title": "23.9_china_chengde",
+      "config": "/data/galleries/23-9_china_chengde.json"
     }
   ]
 }

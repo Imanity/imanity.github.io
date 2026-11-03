@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "24-1_japan_nara",
+  "title": "24.1_japan_nara",
+  "photos": [
+    {
+      "id": "24-1_japan_nara-6368d2d8ba03",
+      "title": "鹿＠奈良春日大社",
+      "description": "鹿＠奈良春日大社",
+      "takenAt": "24.1.6",
+      "tags": [
+        "japan",
+        "animals"
+      ],
+      "location": {
+        "label": "奈良 春日大社",
+        "latitude": 34.6808068,
+        "longitude": 135.8474171,
+        "country": "japan"
+      },
+      "sourceHash": "6368d2d8ba038dd1883baccdc4f6fbc4e83a430d8de5ad6c58e6e47a340d1989",
+      "image": {
+        "src": "/assets/photos/24-1_japan_nara/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "鹿＠奈良春日大社"
+      }
+    }
+  ]
+}
