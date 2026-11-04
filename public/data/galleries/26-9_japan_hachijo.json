@@ -1,0 +1,466 @@
+{
+  "version": 1,
+  "id": "26-9_japan_hachijo",
+  "title": "26.9_japan_hachijo",
+  "photos": [
+    {
+      "id": "26-9_japan_hachijo-c691de22d1b0",
+      "title": "彼岸花",
+      "description": "彼岸花@八丈島",
+      "takenAt": "26.9.19",
+      "tags": [
+        "japan",
+        "flower"
+      ],
+      "location": {
+        "label": "東京都 八丈町",
+        "latitude": 33.081204,
+        "longitude": 139.8041153,
+        "country": "japan"
+      },
+      "sourceHash": "c691de22d1b038945106fdb668612049790efe97c80208509fb878df56c1e1b0",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "彼岸花"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-d55f9e1d9e66",
+      "title": "紫陽花",
+      "description": "ラセイタタマアジサイ（羅背板玉紫陽花）@八丈島",
+      "takenAt": "26.9.19",
+      "tags": [
+        "japan",
+        "flower"
+      ],
+      "location": {
+        "label": "東京都 八丈町 硫黄沼",
+        "latitude": 33.0839548,
+        "longitude": 139.8068082,
+        "country": "japan"
+      },
+      "sourceHash": "d55f9e1d9e665183aa59b2cadbd7f15bf7e4c02c278a85ca6a3e11c16f0d834c",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00002.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "紫陽花"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-ec499bc90663",
+      "title": "ホテル廃墟",
+      "description": "廃ホテル跡@八丈ロイヤルホテル",
+      "takenAt": "26.9.19",
+      "tags": [
+        "japan"
+      ],
+      "location": {
+        "label": "東京都 八丈町 八丈ロイヤルホテル",
+        "latitude": 33.1272011,
+        "longitude": 139.8097801,
+        "country": "japan"
+      },
+      "sourceHash": "ec499bc906635acfacfa779b2e87911f79052ec3eddc199592ed55cc355b1e70",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00003.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "ホテル廃墟"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-c548599927c5",
+      "title": "ホテル廃墟",
+      "description": "廃ホテル跡@八丈ロイヤルホテル",
+      "takenAt": "26.9.19",
+      "tags": [
+        "japan"
+      ],
+      "location": {
+        "label": "東京都 八丈町 八丈ロイヤルホテル",
+        "latitude": 33.1272011,
+        "longitude": 139.8097801,
+        "country": "japan"
+      },
+      "sourceHash": "c548599927c50c8f54a0e442b73767b0cbc1beb46c22d4a4191b3850d8e799d4",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00004.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "ホテル廃墟"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-eaaa2a56ed7d",
+      "title": "台風前日の神湊漁港",
+      "description": "台風前日の神湊漁港",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 底土海水浴場",
+        "latitude": 33.1240294,
+        "longitude": 139.8174083,
+        "country": "japan"
+      },
+      "sourceHash": "eaaa2a56ed7dcbe602567824cb2968c11ca68e80d31dacc6ac539c12532db134",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00005.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の神湊漁港"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-743fc50d4a9c",
+      "title": "台風前日の神湊漁港",
+      "description": "台風前日の神湊漁港",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 底土海水浴場",
+        "latitude": 33.1240294,
+        "longitude": 139.8174083,
+        "country": "japan"
+      },
+      "sourceHash": "743fc50d4a9c8d0c585d621da810b44ffe7ef1e66ca7acea74ec6f3462287009",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00006.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の神湊漁港"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-5c99c23f7143",
+      "title": "台風前日のヤケンヶ浜",
+      "description": "台風前日のヤケンヶ浜",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 ヤケンヶ浜見晴台",
+        "latitude": 33.0999095,
+        "longitude": 139.7700727,
+        "country": "japan"
+      },
+      "sourceHash": "5c99c23f7143f52e671f53fb417e33eb974f053b8051eebb20379bfec12477cf",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00007.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日のヤケンヶ浜"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-7b8624ef8ac0",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "7b8624ef8ac09dcfa1302f0db86f0f8c446111be633dcbdc7e5ae2517f843227",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00009.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-7791e9f23d3e",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "7791e9f23d3e8160af060acca42acdf4878d7442d0894f6b8ca54494a9bdf375",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00011.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-1fff03d17379",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "1fff03d17379e594ca8387ff2823ed5a6ef1c08b442cb14a28e7ad9a05c6d58a",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00013.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-ae6eea23894d",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "ae6eea23894d3aa271b495caf169ed1dab4f267c76c551c2c26b191add8178c1",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00014.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-430f5d4fbac5",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "430f5d4fbac578f81104c92f48092b33707cab977263fe1f608eb41eb812241f",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00015.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-4960668d12b4",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "4960668d12b4eb408168dabc9165a2f9fcf6a23d4c809d88abb8230efea038e7",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00017.jpg",
+        "width": 1920,
+        "height": 1920,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-53911510400a",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "53911510400aad406ef1181ddaab877d300a14131aefafb8b8895e008de1a746",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00018.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-c07722d4e679",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "c07722d4e6797b01cbbba5b78d39e25bb83b5c4fe5d57204c73c2dc17c7f5c94",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00019.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-44df72b25c90",
+      "title": "台風前日の南原千畳岩海岸",
+      "description": "台風前日の南原千畳岩海岸",
+      "takenAt": "26.9.20",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "44df72b25c90c54700a3aa9311d60e0e8fed9f26464d6fd507e1c96d63188be5",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00020.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風前日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-c05e815b3775",
+      "title": "台風日の南原千畳岩海岸",
+      "description": "台風日の南原千畳岩海岸",
+      "takenAt": "26.9.21",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 南原千畳岩海岸",
+        "latitude": 33.1061738,
+        "longitude": 139.753958,
+        "country": "japan"
+      },
+      "sourceHash": "c05e815b37755a9b16a9aba7d2124f4552d4815f21a064b60955b7114053711a",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00021.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "台風日の南原千畳岩海岸"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-4a9a7318d362",
+      "title": "八丈富士",
+      "description": "八丈富士@大坂トンネル展望台",
+      "takenAt": "26.9.22",
+      "tags": [
+        "japan",
+        "mountain",
+        "ocean"
+      ],
+      "location": {
+        "label": "東京都 八丈町 大坂トンネル展望台",
+        "latitude": 33.0848897,
+        "longitude": 139.7839022,
+        "country": "japan"
+      },
+      "sourceHash": "4a9a7318d362baae730890a4ff786772b87a152ba15743b9b27361c7ab0398ac",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00022.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "八丈富士"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-53f8b23964d0",
+      "title": "猫",
+      "description": "猫たち@八重根港船客待合所",
+      "takenAt": "26.9.23",
+      "tags": [
+        "japan",
+        "animals"
+      ],
+      "location": {
+        "label": "東京都 八丈町 八重根港船客待合所",
+        "latitude": 33.099541,
+        "longitude": 139.7717464,
+        "country": "japan"
+      },
+      "sourceHash": "53f8b23964d0133a1a7a3fae6197affeab64fdcd98b523029f22bef9666a4c1e",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00023.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "猫"
+      }
+    },
+    {
+      "id": "26-9_japan_hachijo-98be0ad8552c",
+      "title": "猫",
+      "description": "猫たち@八重根港船客待合所",
+      "takenAt": "26.9.23",
+      "tags": [
+        "japan",
+        "animals"
+      ],
+      "location": {
+        "label": "東京都 八丈町 八重根港船客待合所",
+        "latitude": 33.099541,
+        "longitude": 139.7717464,
+        "country": "japan"
+      },
+      "sourceHash": "98be0ad8552c9b519ce47838f565ca4ac5a25f81f1ff27b32d0b1130818132b6",
+      "image": {
+        "src": "/assets/photos/26-9_japan_hachijo/00025.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "猫"
+      }
+    }
+  ]
+}

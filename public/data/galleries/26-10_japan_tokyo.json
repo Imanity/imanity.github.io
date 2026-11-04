@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "26-10_japan_tokyo",
+  "title": "26.10_japan_tokyo",
+  "photos": [
+    {
+      "id": "26-10_japan_tokyo-4938a62374ea",
+      "title": "光の軌跡@永代橋",
+      "description": "屋形船の光跡@永代橋",
+      "takenAt": "26.10.12",
+      "tags": [
+        "japan",
+        "night"
+      ],
+      "location": {
+        "label": "東京都 中央区 永代橋",
+        "latitude": 35.6762281,
+        "longitude": 139.7875178,
+        "country": "japan"
+      },
+      "sourceHash": "4938a62374ead32cf14f3fa4d3fc043f1ce00112a536ee1dc2e8cdc09e7acdc6",
+      "image": {
+        "src": "/assets/photos/26-10_japan_tokyo/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "光の軌跡@永代橋"
+      }
+    }
+  ]
+}

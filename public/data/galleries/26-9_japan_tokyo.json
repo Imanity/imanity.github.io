@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "id": "26-9_japan_tokyo",
+  "title": "26.9_japan_tokyo",
+  "photos": [
+    {
+      "id": "26-9_japan_tokyo-ac80981b98dc",
+      "title": "雨の夜",
+      "description": "ティルトシフトレンズで撮影した、自宅マンションの下",
+      "takenAt": "26.9.13",
+      "tags": [
+        "japan",
+        "night"
+      ],
+      "location": {
+        "label": "東京都 文京区 千駄木",
+        "latitude": 35.7319942,
+        "longitude": 139.759132,
+        "country": "japan"
+      },
+      "sourceHash": "ac80981b98dc0bf0322ac376e821bebe5e45cd90c7f20ebe459f291fb4af1a0b",
+      "image": {
+        "src": "/assets/photos/26-9_japan_tokyo/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "雨の夜"
+      }
+    }
+  ]
+}

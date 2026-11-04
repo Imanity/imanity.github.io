@@ -91,6 +91,26 @@
       "id": "23-9_china_chengde",
       "title": "23.9_china_chengde",
       "config": "/data/galleries/23-9_china_chengde.json"
+    },
+    {
+      "id": "26-11_japan_nikko",
+      "title": "26.11_japan_nikko",
+      "config": "/data/galleries/26-11_japan_nikko.json"
+    },
+    {
+      "id": "26-10_japan_tokyo",
+      "title": "26.10_japan_tokyo",
+      "config": "/data/galleries/26-10_japan_tokyo.json"
+    },
+    {
+      "id": "26-9_japan_hachijo",
+      "title": "26.9_japan_hachijo",
+      "config": "/data/galleries/26-9_japan_hachijo.json"
+    },
+    {
+      "id": "26-9_japan_tokyo",
+      "title": "26.9_japan_tokyo",
+      "config": "/data/galleries/26-9_japan_tokyo.json"
     }
   ]
 }

@@ -198,6 +198,24 @@
         "ja": "星空"
       },
       "aliases": []
+    },
+    {
+      "id": "cloud",
+      "labels": {
+        "zh-CN": "云",
+        "en": "Cloud",
+        "ja": "雲"
+      },
+      "aliases": []
+    },
+    {
+      "id": "night",
+      "labels": {
+        "zh-CN": "夜景",
+        "en": "Night",
+        "ja": "夜景"
+      },
+      "aliases": []
     }
   ],
   "countries": [
