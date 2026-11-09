@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "id": "26-8_japan_kagoshima",
+  "title": "26.8_japan_kagoshima",
+  "photos": [
+    {
+      "id": "26-8_japan_kagoshima-dd6d43088221",
+      "title": "夕焼けに染まるひまわり畑",
+      "description": "西大山駅南のひまわり畑群",
+      "takenAt": "26.8.11",
+      "tags": [
+        "japan",
+        "flower",
+        "sunset",
+        "mountain"
+      ],
+      "location": {
+        "label": "鹿児島 指宿市 西大山駅南のひまわり畑群",
+        "latitude": 31.1826128,
+        "longitude": 130.5838904,
+        "country": "japan"
+      },
+      "sourceHash": "dd6d43088221856c97ca95bb0970e811f65c24c192e475166187ebfa097ec7e8",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00001.jpg",
+        "width": 1920,
+        "height": 1245,
+        "alt": "夕焼けに染まるひまわり畑"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-b096138ac1e2",
+      "title": "日本最南端のJR駅",
+      "description": "日本最南端のJR駅 西大山駅",
+      "takenAt": "26.8.11",
+      "tags": [
+        "japan",
+        "cloud"
+      ],
+      "location": {
+        "label": "鹿児島 指宿市 西大山駅",
+        "latitude": 31.1904435,
+        "longitude": 130.5766296,
+        "country": "japan"
+      },
+      "sourceHash": "b096138ac1e255359357b7b3bb43486ceb53363974b6c3820a3d8661dbb6fa14",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00002.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "00002"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-69b61e0a6195",
+      "title": "猫神社",
+      "description": "仙巌園 猫神社",
+      "takenAt": "26.8.10",
+      "tags": [
+        "japan",
+        "shrine"
+      ],
+      "location": {
+        "label": "鹿児島県 鹿児島市 仙巌園 猫神社",
+        "latitude": 31.6196342,
+        "longitude": 130.5800226,
+        "country": "japan"
+      },
+      "sourceHash": "69b61e0a61954e5b53da21b8595f0ef1d9fc8bdc9c19473cee6528a1cebeb4d6",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00003.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "猫神社"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-88de7016d0ec",
+      "title": "樱岛",
+      "description": "樱岛",
+      "takenAt": "26.8.8",
+      "tags": [
+        "japan",
+        "island",
+        "mountain",
+        "ocean"
+      ],
+      "location": {
+        "label": "鹿儿岛县 鹿儿岛市 樱岛赤水町",
+        "latitude": 31.5264586,
+        "longitude": 130.6274414,
+        "country": "japan"
+      },
+      "sourceHash": "88de7016d0ec6894d6f5b3b496811429a63978676692836ee1ce5fc3a4de1fd8",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00005.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "樱岛"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-ba7ffb575f4e",
+      "title": "日本本土の最南端 佐多岬",
+      "description": "佐多岬展望台",
+      "takenAt": "26.8.9",
+      "tags": [
+        "japan",
+        "ocean"
+      ],
+      "location": {
+        "label": "鹿儿岛县 南大隅町 佐多岬",
+        "latitude": 30.9970345,
+        "longitude": 130.6591076,
+        "country": "japan"
+      },
+      "sourceHash": "ba7ffb575f4ea1b8c1378249675b4feb0def5ac70c56ceb11816d903131cb653",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00007.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "日本本土の最南端 佐多岬"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-e63bd6683d6b",
+      "title": "夕焼けに染まる海",
+      "description": "樱岛-垂水",
+      "takenAt": "26.8.10",
+      "tags": [
+        "japan",
+        "ocean",
+        "sunset"
+      ],
+      "location": {
+        "label": "鹿儿岛县 鹿儿岛市 樱岛赤水町",
+        "latitude": 31.5264586,
+        "longitude": 130.6274414,
+        "country": "japan"
+      },
+      "sourceHash": "e63bd6683d6b48bf9921e9f6471798d91185a3a6b783fb5f9dbe76acff223eb7",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00008.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "夕焼けに染まる海"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-9eab655574f0",
+      "title": "打ち上げられたH3ロケット",
+      "description": "150秒の長時間露光で捉えたロケット打ち上げの光跡",
+      "takenAt": "26.8.11",
+      "tags": [
+        "japan",
+        "astrophotography",
+        "astronomy",
+        "ocean"
+      ],
+      "location": {
+        "label": "鹿儿岛县 指宿市 指宿港",
+        "latitude": 31.2400956,
+        "longitude": 130.6513882,
+        "country": "japan"
+      },
+      "sourceHash": "9eab655574f0bbd0a070fa1e0cc5f40902d587ea9ec50be4b03f159615663a51",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00009.jpg",
+        "width": 1920,
+        "height": 1440,
+        "alt": "打ち上げられたH3ロケット"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-eba62b833316",
+      "title": "指宿枕崎線@日本最南端のJR駅",
+      "description": "日本最南端のJR駅 西大山駅",
+      "takenAt": "26.8.11",
+      "tags": [
+        "japan",
+        "mountain"
+      ],
+      "location": {
+        "label": "鹿児島 指宿市 西大山駅",
+        "latitude": 31.190302,
+        "longitude": 130.5762407,
+        "country": "japan"
+      },
+      "sourceHash": "eba62b8333161c653954e66ebdac655f86990e510005dd4528fa4f08becdb09a",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00010.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "指宿枕崎線@日本最南端のJR駅"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-68d1ab77f2ec",
+      "title": "流星群の下のひまわり畑",
+      "description": "ペルセウス座流星群",
+      "takenAt": "26.8.12",
+      "tags": [
+        "japan",
+        "astrophotography",
+        "astronomy",
+        "mountain",
+        "flower"
+      ],
+      "location": {
+        "label": "鹿児島 指宿市 西大山駅南のひまわり畑群",
+        "latitude": 31.1826128,
+        "longitude": 130.5838904,
+        "country": "japan"
+      },
+      "sourceHash": "68d1ab77f2ecf16e1cda222008c424f810bcbb2b2293582ab080de40b54eb3e1",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00013.jpg",
+        "width": 1920,
+        "height": 1273,
+        "alt": "流星群の下のひまわり畑"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-c44e6809956a",
+      "title": "流星とひまわり畑",
+      "description": "ペルセウス座流星群",
+      "takenAt": "26.8.12",
+      "tags": [
+        "japan",
+        "astrophotography",
+        "astronomy",
+        "mountain",
+        "flower"
+      ],
+      "location": {
+        "label": "鹿児島 指宿市 西大山駅南のひまわり畑群",
+        "latitude": 31.1826128,
+        "longitude": 130.5838904,
+        "country": "japan"
+      },
+      "sourceHash": "c44e6809956af07453adf807238471eed74b68f4e58a9643518163e34db97309",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00014.jpg",
+        "width": 1920,
+        "height": 1253,
+        "alt": "流星とひまわり畑"
+      }
+    },
+    {
+      "id": "26-8_japan_kagoshima-cf6543ea22ec",
+      "title": "鹿児島市の全景",
+      "description": "城山公園展望台",
+      "takenAt": "26.8.13",
+      "tags": [
+        "japan",
+        "panorama"
+      ],
+      "location": {
+        "label": "鹿儿岛县 鹿儿岛市 城山公園展望台",
+        "latitude": 31.5962645,
+        "longitude": 130.5500852,
+        "country": "japan"
+      },
+      "sourceHash": "cf6543ea22ecaea4330842a1be252d0ff6020d31fb738ffe60b0a4ec7cafa264",
+      "image": {
+        "src": "/assets/photos/26-8_japan_kagoshima/00015.jpg",
+        "width": 1920,
+        "height": 924,
+        "alt": "鹿児島市の全景"
+      }
+    }
+  ]
+}

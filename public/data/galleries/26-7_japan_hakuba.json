@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "id": "26-7_japan_hakuba",
+  "title": "26.7_japan_hakuba",
+  "photos": [
+    {
+      "id": "26-7_japan_hakuba-efb6a49b7aaf",
+      "title": "白馬村の全景",
+      "description": "白馬村の全景@どんぐりパノラマ展望台",
+      "takenAt": "26.7.19",
+      "tags": [
+        "japan",
+        "panorama",
+        "aerial"
+      ],
+      "location": {
+        "label": "長野県 白馬村 どんぐりパノラマ展望台",
+        "latitude": 36.7121555,
+        "longitude": 137.8478301,
+        "country": "japan"
+      },
+      "sourceHash": "efb6a49b7aaf17047f213e35543c8660a76d8015b6da349b40b1e753118e83d5",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00001.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "白馬村の全景"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-1f3aa81e1b2a",
+      "title": "黄葉",
+      "description": "黄葉@栂池自然園",
+      "takenAt": "26.7.18",
+      "tags": [
+        "japan"
+      ],
+      "location": {
+        "label": "長野県 白馬村 栂池自然園",
+        "latitude": 36.771944,
+        "longitude": 137.816298,
+        "country": "japan"
+      },
+      "sourceHash": "1f3aa81e1b2a6ee6c3df7cdeee3e45dcc20e074d1afb31058c866dae33965467",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00003.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "黄葉"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-19e7de16e870",
+      "title": "栂池自然園",
+      "description": "栂池自然園",
+      "takenAt": "26.7.18",
+      "tags": [
+        "japan",
+        "flower",
+        "lake"
+      ],
+      "location": {
+        "label": "長野県 白馬村 栂池自然園",
+        "latitude": 36.7692454,
+        "longitude": 137.8052902,
+        "country": "japan"
+      },
+      "sourceHash": "19e7de16e870f4ed712562c9b13f03c97812b68c7f6849df1cc8399989f52a11",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00004.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "栂池自然園"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-7d5416affe0e",
+      "title": "白馬の夏",
+      "description": "松川河川公園",
+      "takenAt": "26.7.19",
+      "tags": [
+        "japan",
+        "mountain"
+      ],
+      "location": {
+        "label": "長野県 白馬村 松川河川公園",
+        "latitude": 36.7062057,
+        "longitude": 137.8564453,
+        "country": "japan"
+      },
+      "sourceHash": "7d5416affe0e94ff17f5718871fa5baa3266fb9d47cc4ef1f0f593f8fc9b8037",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00007.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "白馬の夏"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-544e931f6f37",
+      "title": "雲の隙間の光",
+      "description": "チンダル光@須坂市",
+      "takenAt": "26.7.19",
+      "tags": [
+        "japan",
+        "cloud"
+      ],
+      "location": {
+        "label": "長野県 須坂市",
+        "latitude": 36.638233,
+        "longitude": 138.3137619,
+        "country": "japan"
+      },
+      "sourceHash": "544e931f6f3732989149ce59a5f2cc5a8b3621d120ac19258d68ff273e05354d",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00011.jpg",
+        "width": 1440,
+        "height": 1920,
+        "alt": "雲の隙間の光"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-3e3f77aca787",
+      "title": "雲の隙間の光",
+      "description": "チンダル光@須坂市",
+      "takenAt": "26.7.19",
+      "tags": [
+        "japan",
+        "cloud"
+      ],
+      "location": {
+        "label": "長野県 須坂市",
+        "latitude": 36.638233,
+        "longitude": 138.3137619,
+        "country": "japan"
+      },
+      "sourceHash": "3e3f77aca787981ee927177eb6787f2536e4a0189a9205a5ba43b869c3adbf47",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00012.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "雲の隙間の光"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-f2dcf9ee02b6",
+      "title": "須坂花火大会",
+      "description": "須坂花火大会",
+      "takenAt": "26.7.19",
+      "tags": [
+        "japan",
+        "fireworks"
+      ],
+      "location": {
+        "label": "長野県 須坂市",
+        "latitude": 36.6403249,
+        "longitude": 138.3073568,
+        "country": "japan"
+      },
+      "sourceHash": "f2dcf9ee02b680b5c9f5e4ab6978d8b3510539404900a49475106c908dcef9de",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00013.jpg",
+        "width": 1280,
+        "height": 1920,
+        "alt": "須坂花火大会"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-70af9360d757",
+      "title": "須坂花火大会",
+      "description": "須坂花火大会",
+      "takenAt": "26.7.19",
+      "tags": [
+        "japan",
+        "fireworks"
+      ],
+      "location": {
+        "label": "長野県 須坂市",
+        "latitude": 36.6403249,
+        "longitude": 138.3073568,
+        "country": "japan"
+      },
+      "sourceHash": "70af9360d757734822b2603a0a8a06a7b4f01de1cd302a371a932fe15a49d072",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00015.jpg",
+        "width": 1280,
+        "height": 1920,
+        "alt": "須坂花火大会"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-d10666d6836f",
+      "title": "須坂花火大会",
+      "description": "須坂花火大会",
+      "takenAt": "26.7.19",
+      "tags": [
+        "japan",
+        "fireworks"
+      ],
+      "location": {
+        "label": "長野県 須坂市",
+        "latitude": 36.6403249,
+        "longitude": 138.3073568,
+        "country": "japan"
+      },
+      "sourceHash": "d10666d6836f8a5cca68c525e66889721b78264786db3bda2a4d8625f31b56c1",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00017.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "須坂花火大会"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-3615b2c1766e",
+      "title": "夏の八方尾根",
+      "description": "八方ケルン",
+      "takenAt": "26.7.20",
+      "tags": [
+        "japan",
+        "flower",
+        "mountain"
+      ],
+      "location": {
+        "label": "長野県 白馬村 八方ケルン",
+        "latitude": 36.6960897,
+        "longitude": 137.7896261,
+        "country": "japan"
+      },
+      "sourceHash": "3615b2c1766e511f08ed9e3cdab8d6d765bb352ccb837f362573222e2a3ae624",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00019.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "夏の八方尾根"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-cd91790a743d",
+      "title": "八方池",
+      "description": "八方池",
+      "takenAt": "26.7.20",
+      "tags": [
+        "japan",
+        "lake"
+      ],
+      "location": {
+        "label": "長野県 白馬村 八方池",
+        "latitude": 36.694438,
+        "longitude": 137.7843261,
+        "country": "japan"
+      },
+      "sourceHash": "cd91790a743db2ebe483a48179a00f053fb91c38c2524d14278160bf2e2f5c32",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00020.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "八方池"
+      }
+    },
+    {
+      "id": "26-7_japan_hakuba-9058e5d4753e",
+      "title": "八方池",
+      "description": "八方池",
+      "takenAt": "26.7.20",
+      "tags": [
+        "japan",
+        "lake"
+      ],
+      "location": {
+        "label": "長野県 白馬村 八方池",
+        "latitude": 36.694438,
+        "longitude": 137.7843261,
+        "country": "japan"
+      },
+      "sourceHash": "9058e5d4753e896659d4eb0a6bf92512e4ab81ccf929042634332c8812068c5e",
+      "image": {
+        "src": "/assets/photos/26-7_japan_hakuba/00021.jpg",
+        "width": 1920,
+        "height": 1200,
+        "alt": "八方池"
+      }
+    }
+  ]
+}

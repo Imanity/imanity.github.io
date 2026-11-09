@@ -111,6 +111,21 @@
       "id": "26-9_japan_tokyo",
       "title": "26.9_japan_tokyo",
       "config": "/data/galleries/26-9_japan_tokyo.json"
+    },
+    {
+      "id": "26-9_japan_saitama",
+      "title": "26.9_japan_saitama",
+      "config": "/data/galleries/26-9_japan_saitama.json"
+    },
+    {
+      "id": "26-7_japan_hakuba",
+      "title": "26.7_japan_hakuba",
+      "config": "/data/galleries/26-7_japan_hakuba.json"
+    },
+    {
+      "id": "26-8_japan_kagoshima",
+      "title": "26.8_japan_kagoshima",
+      "config": "/data/galleries/26-8_japan_kagoshima.json"
     }
   ]
 }
