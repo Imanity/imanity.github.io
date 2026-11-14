@@ -1,0 +1,1222 @@
+{
+  "version": 1,
+  "id": "25-4_newzealand",
+  "title": "25.4_newzealand",
+  "photos": [
+    {
+      "id": "25-4_newzealand-f5cbafb91b57",
+      "title": "Sea lions",
+      "description": "Sea lions @ Wharariki Beach",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "animals",
+        "ocean"
+      ],
+      "location": {
+        "label": "Wharariki Beach, Pūponga",
+        "latitude": -40.5001273,
+        "longitude": 172.6757884,
+        "country": "newzealand"
+      },
+      "sourceHash": "f5cbafb91b578412df4cf25b4b389dd409f3bc2d2e14bab3e35cfaf6f8f34ede",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Sea lions"
+      }
+    },
+    {
+      "id": "25-4_newzealand-76c8a506bd3e",
+      "title": "Sea lions",
+      "description": "Sea lions @ Wharariki Beach",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "animals",
+        "ocean"
+      ],
+      "location": {
+        "label": "Wharariki Beach, Pūponga",
+        "latitude": -40.5001273,
+        "longitude": 172.6757884,
+        "country": "newzealand"
+      },
+      "sourceHash": "76c8a506bd3ed90a1a56fcfc09bc45eb1b31b19564599bcfa3bca9bcd2fa97a9",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00002.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Sea lions"
+      }
+    },
+    {
+      "id": "25-4_newzealand-3e646f51500f",
+      "title": "Seagulls on the beach",
+      "description": "Seagulls @ Wharariki Beach",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "birds",
+        "ocean"
+      ],
+      "location": {
+        "label": "Wharariki Beach, Pūponga",
+        "latitude": -40.5001273,
+        "longitude": 172.6757884,
+        "country": "newzealand"
+      },
+      "sourceHash": "3e646f51500f9724821b96dbf2524a804bea838a3cdb26a22aa4ea6eee0c1924",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00003.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Seagulls on the beach"
+      }
+    },
+    {
+      "id": "25-4_newzealand-2f0b2589c695",
+      "title": "Rainbow on the Beach",
+      "description": "Wharariki Beach",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "ocean"
+      ],
+      "location": {
+        "label": "-43.348004, 171.047946",
+        "latitude": -40.502379,
+        "longitude": 172.675252,
+        "country": "newzealand"
+      },
+      "sourceHash": "2f0b2589c6956dc069d2714d4c8f18c4c8437239274e9d2b1bab5c18bc59b50e",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00004.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Rainbow on the Beach"
+      }
+    },
+    {
+      "id": "25-4_newzealand-99917ac771b9",
+      "title": "Seagulls",
+      "description": "Seagulls @ Wharariki Beach",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "birds",
+        "ocean"
+      ],
+      "location": {
+        "label": "-43.348004, 171.047946",
+        "latitude": -40.502379,
+        "longitude": 172.675252,
+        "country": "newzealand"
+      },
+      "sourceHash": "99917ac771b98fbfe08ee3492b9c900dd20142bf46ffa8f39e6630ff9980e385",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00005.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Seagulls"
+      }
+    },
+    {
+      "id": "25-4_newzealand-5c7755dee943",
+      "title": "Win10",
+      "description": "Win10 Desktop @ Wharariki Beach",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "ocean"
+      ],
+      "location": {
+        "label": "-43.348004, 171.047946",
+        "latitude": -40.5040595,
+        "longitude": 172.6733959,
+        "country": "newzealand"
+      },
+      "sourceHash": "5c7755dee943dc1479a4f5172daa959f36e696f2ba39ab1496fa644bacdb20ac",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00007.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Win10"
+      }
+    },
+    {
+      "id": "25-4_newzealand-cff95f37c59b",
+      "title": "Win10",
+      "description": "Win10 Lock Screen @ Wharariki Beach",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "ocean"
+      ],
+      "location": {
+        "label": "-43.348004, 171.047946",
+        "latitude": -40.5047937,
+        "longitude": 172.6734281,
+        "country": "newzealand"
+      },
+      "sourceHash": "cff95f37c59b9d61436bc7409b81196b62330842665fd392933239158271951c",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00008.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Win10"
+      }
+    },
+    {
+      "id": "25-4_newzealand-6b672948986f",
+      "title": "Pancake Rocks",
+      "description": "Pancake Rocks",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "ocean"
+      ],
+      "location": {
+        "label": "Pancake Rocks and Blowholes Walk, West Coast",
+        "latitude": -42.1134306,
+        "longitude": 171.326766,
+        "country": "newzealand"
+      },
+      "sourceHash": "6b672948986f43e9771db3d0a69c87e5bc3038f5d6594a5e36d8353ac0a36018",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00009.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Pancake Rocks"
+      }
+    },
+    {
+      "id": "25-4_newzealand-dd9db371524a",
+      "title": "Glow Worm Dell",
+      "description": "Glow Worm Dell",
+      "takenAt": "25.4.22",
+      "tags": [
+        "newzealand",
+        "animals"
+      ],
+      "location": {
+        "label": "Glow Worm Dell, Hokitika",
+        "latitude": -42.7084138,
+        "longitude": 170.9749514,
+        "country": "newzealand"
+      },
+      "sourceHash": "dd9db371524a67e678619f983336569566f9e50838dd0e9359da74e6071c6333",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00010.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Glow Worm Dell"
+      }
+    },
+    {
+      "id": "25-4_newzealand-6680ead8e844",
+      "title": "Roys Peak",
+      "description": "Sun rise @ Roys Peak",
+      "takenAt": "25.4.26",
+      "tags": [
+        "newzealand",
+        "dawn-glow",
+        "autumn",
+        "mountain",
+        "lake"
+      ],
+      "location": {
+        "label": "Roys Peak Lookout, Glendhu Bay",
+        "latitude": -44.6894032,
+        "longitude": 169.0498924,
+        "country": "newzealand"
+      },
+      "sourceHash": "6680ead8e84445eaac86fa0ee1f614c0ceae01bc2d1fc51f5305d170bdfc642b",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00013.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Roys Peak"
+      }
+    },
+    {
+      "id": "25-4_newzealand-8f8908cfdc16",
+      "title": "Arrow River Trail",
+      "description": "Arrow River Trail @ Arrowtown",
+      "takenAt": "25.4.27",
+      "tags": [
+        "newzealand",
+        "autumn",
+        "mountain"
+      ],
+      "location": {
+        "label": "Arrow River Trail, Arrowtown",
+        "latitude": -44.9282124,
+        "longitude": 168.8398433,
+        "country": "newzealand"
+      },
+      "sourceHash": "8f8908cfdc16591a2b5131453e0fafa0eebaa6b04a8568d670cdce024448361e",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00015.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Arrow River Trail"
+      }
+    },
+    {
+      "id": "25-4_newzealand-b939c78a775c",
+      "title": "Arrowtown from Feehly Hill",
+      "description": "Feehly Hill @ Arrowtown",
+      "takenAt": "25.4.27",
+      "tags": [
+        "newzealand",
+        "mountain",
+        "autumn"
+      ],
+      "location": {
+        "label": "Feehly Hill, Arrowtown",
+        "latitude": -44.9403703,
+        "longitude": 168.8249999,
+        "country": "newzealand"
+      },
+      "sourceHash": "b939c78a775c93567a28bf1ca9e95621baf0b8bd8b72ea2c105be8c66d2ddaa1",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00019.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Arrowtown from Feehly Hill"
+      }
+    },
+    {
+      "id": "25-4_newzealand-5dde7efcc394",
+      "title": "Arrowtown from Feehly Hill",
+      "description": "Feehly Hill @ Arrowtown",
+      "takenAt": "25.4.27",
+      "tags": [
+        "newzealand",
+        "autumn",
+        "mountain",
+        "lake"
+      ],
+      "location": {
+        "label": "Feehly Hill, Arrowtown",
+        "latitude": -44.9403703,
+        "longitude": 168.8249999,
+        "country": "newzealand"
+      },
+      "sourceHash": "5dde7efcc394d89be920cb4f71bee1f3c2d90a94f88a5ce5849ebc94c95297c9",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00020.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Arrowtown from Feehly Hill"
+      }
+    },
+    {
+      "id": "25-4_newzealand-862b0d4bc271",
+      "title": "Milford Sound",
+      "description": "Milford Sound",
+      "takenAt": "25.4.29",
+      "tags": [
+        "newzealand",
+        "waterfall"
+      ],
+      "location": {
+        "label": "Milford Sound",
+        "latitude": -44.6111233,
+        "longitude": 167.8704071,
+        "country": "newzealand"
+      },
+      "sourceHash": "862b0d4bc27115448995dd0f75bbe2f10d02e4639e1423eaaed3c9c8e4e988fa",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00023.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Milford Sound"
+      }
+    },
+    {
+      "id": "25-4_newzealand-89ba6779c2ae",
+      "title": "Milford Sound",
+      "description": "Milford Sound",
+      "takenAt": "25.4.29",
+      "tags": [
+        "newzealand",
+        "waterfall"
+      ],
+      "location": {
+        "label": "Milford Sound",
+        "latitude": -44.6111233,
+        "longitude": 167.8704071,
+        "country": "newzealand"
+      },
+      "sourceHash": "89ba6779c2aec5665a2259be12119e6d3f333b431a98307c7e94a07b44e28647",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00024.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Milford Sound"
+      }
+    },
+    {
+      "id": "25-4_newzealand-24059ccff542",
+      "title": "Kea",
+      "description": "Kea @ Milford Sound",
+      "takenAt": "25.4.29",
+      "tags": [
+        "newzealand",
+        "birds"
+      ],
+      "location": {
+        "label": "Milford Sound",
+        "latitude": -44.6756722,
+        "longitude": 167.9296732,
+        "country": "newzealand"
+      },
+      "sourceHash": "24059ccff5425bfd6196ee4bacfe19231132c7195eb23a39d44af7e8f720529c",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00026.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Kea"
+      }
+    },
+    {
+      "id": "25-4_newzealand-2fff056e7501",
+      "title": "Sunset Pier",
+      "description": "Long-exposure Sunset Glow @ Te Anau",
+      "takenAt": "25.4.28",
+      "tags": [
+        "newzealand",
+        "sunset",
+        "lake"
+      ],
+      "location": {
+        "label": "Marakura Wharf, Te Anau",
+        "latitude": -45.4271302,
+        "longitude": 167.7147853,
+        "country": "newzealand"
+      },
+      "sourceHash": "2fff056e75019e4283c92cb49c8cc1dfeab65f9cb7e61add4db040250275c804",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00027.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Sunset Pier"
+      }
+    },
+    {
+      "id": "25-4_newzealand-1a240e6829f1",
+      "title": "Sunset Pier",
+      "description": "Sunset Glow @ Te Anau",
+      "takenAt": "25.4.28",
+      "tags": [
+        "newzealand",
+        "sunset",
+        "lake"
+      ],
+      "location": {
+        "label": "Marakura Wharf, Te Anau",
+        "latitude": -45.4271302,
+        "longitude": 167.7147853,
+        "country": "newzealand"
+      },
+      "sourceHash": "1a240e6829f10345a6956475bb35f17269fb91f2b60436d164972a1f9aa20754",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00028.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Sunset Pier"
+      }
+    },
+    {
+      "id": "25-4_newzealand-ff9ebf5c3700",
+      "title": "Eudyptula minor",
+      "description": "Eudyptula minor @ Dunedin",
+      "takenAt": "25.5.1",
+      "tags": [
+        "newzealand",
+        "birds"
+      ],
+      "location": {
+        "label": "Blue Penguins Pukekura, Harington Point",
+        "latitude": -45.7771374,
+        "longitude": 170.7284161,
+        "country": "newzealand"
+      },
+      "sourceHash": "ff9ebf5c37009c4765459f90d38636d7150aa369bc64c824823f896404c750b3",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00032.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Eudyptula minor"
+      }
+    },
+    {
+      "id": "25-4_newzealand-da580fbcae11",
+      "title": "Dewdrop",
+      "description": "Dewdrop",
+      "takenAt": "25.5.2",
+      "tags": [
+        "newzealand"
+      ],
+      "location": {
+        "label": "Baldwin Street, Dunedin",
+        "latitude": -45.8497278,
+        "longitude": 170.534935,
+        "country": "newzealand"
+      },
+      "sourceHash": "da580fbcae11596568bd0f1bdc2d80797c742616d08fa5ebb014fdec00f974c2",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00034.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Dewdrop"
+      }
+    },
+    {
+      "id": "25-4_newzealand-a03b49299c8c",
+      "title": "Fur Seal",
+      "description": "Fur Seal @ Katiki Point",
+      "takenAt": "25.5.2",
+      "tags": [
+        "newzealand",
+        "ocean",
+        "animals"
+      ],
+      "location": {
+        "label": "Katiki Point, Moeraki",
+        "latitude": -45.396205,
+        "longitude": 170.8681726,
+        "country": "newzealand"
+      },
+      "sourceHash": "a03b49299c8cf7ecf006884f7164faaa9f7fe37df17f4a9e8916452b018fc46d",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00036.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Fur Seal"
+      }
+    },
+    {
+      "id": "25-4_newzealand-39854d24ea97",
+      "title": "Fur Seal",
+      "description": "Fur Seal @ Katiki Point",
+      "takenAt": "25.5.2",
+      "tags": [
+        "newzealand",
+        "animals"
+      ],
+      "location": {
+        "label": "Katiki Point, Moeraki",
+        "latitude": -45.396205,
+        "longitude": 170.8681726,
+        "country": "newzealand"
+      },
+      "sourceHash": "39854d24ea97264b471d5833b25a2eb741dc861b7d3110607330116ce30b05c7",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00037.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Fur Seal"
+      }
+    },
+    {
+      "id": "25-4_newzealand-0668961f5803",
+      "title": "Fur Seal",
+      "description": "Fur Seal @ Katiki Point",
+      "takenAt": "25.5.2",
+      "tags": [
+        "newzealand",
+        "animals",
+        "ocean"
+      ],
+      "location": {
+        "label": "Katiki Point, Moeraki",
+        "latitude": -45.396205,
+        "longitude": 170.8681726,
+        "country": "newzealand"
+      },
+      "sourceHash": "0668961f58032509b481ebd2764764a61284de7a7be6f140996a45fc392afafc",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00038.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Fur Seal"
+      }
+    },
+    {
+      "id": "25-4_newzealand-5951f261a9d1",
+      "title": "Sea Fog",
+      "description": "Sea Fog @ Katiki Point",
+      "takenAt": "25.5.2",
+      "tags": [
+        "newzealand",
+        "ocean"
+      ],
+      "location": {
+        "label": "Katiki Point, Moeraki",
+        "latitude": -45.3950598,
+        "longitude": 170.8678722,
+        "country": "newzealand"
+      },
+      "sourceHash": "5951f261a9d11aa5cb9c82cef528ffc8a6a06c761b1c18fd6176d88e456c30ef",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00039.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Sea Fog"
+      }
+    },
+    {
+      "id": "25-4_newzealand-03ec54c45ced",
+      "title": "Rainbow Amidst the Waves",
+      "description": "Waves @ Katiki Point",
+      "takenAt": "25.5.2",
+      "tags": [
+        "newzealand",
+        "ocean"
+      ],
+      "location": {
+        "label": "Katiki Point, Moeraki",
+        "latitude": -45.3950598,
+        "longitude": 170.8678722,
+        "country": "newzealand"
+      },
+      "sourceHash": "03ec54c45cedb3b931820fc1f0ab66d88e466fbfaef2adaccbf684914a139701",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00040.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Rainbow Amidst the Waves"
+      }
+    },
+    {
+      "id": "25-4_newzealand-385ae0acad3f",
+      "title": "Katiki Point",
+      "description": "Katiki Point",
+      "takenAt": "25.5.2",
+      "tags": [
+        "newzealand",
+        "ocean"
+      ],
+      "location": {
+        "label": "Katiki Point, Moeraki",
+        "latitude": -45.3924379,
+        "longitude": 170.8665419,
+        "country": "newzealand"
+      },
+      "sourceHash": "385ae0acad3f640c4a7b098cc79cbd46565ca7cc2ff6dd523efb7c0a9318d3c1",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00041.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Katiki Point"
+      }
+    },
+    {
+      "id": "25-4_newzealand-6d4360164e72",
+      "title": "Lake Benmore",
+      "description": "Lake Benmore",
+      "takenAt": "25.5.3",
+      "tags": [
+        "newzealand",
+        "lake",
+        "autumn",
+        "mountain"
+      ],
+      "location": {
+        "label": "Sailors Cutting, Benmore",
+        "latitude": -44.5451932,
+        "longitude": 170.0857642,
+        "country": "newzealand"
+      },
+      "sourceHash": "6d4360164e72765f4de39ad9d058edff8f79986f0744def2d11671150306c93d",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00042.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Lake Benmore"
+      }
+    },
+    {
+      "id": "25-4_newzealand-977473774c9e",
+      "title": "Aurora",
+      "description": "Aurora @ Twizel",
+      "takenAt": "25.5.3",
+      "tags": [
+        "newzealand",
+        "astrophotography",
+        "astronomy"
+      ],
+      "location": {
+        "label": "Lake Ruataniwha, Twizel",
+        "latitude": -44.2775201,
+        "longitude": 170.0821298,
+        "country": "newzealand"
+      },
+      "sourceHash": "977473774c9e3126e7bd485530a893da2fb71c094ffd08da6f6836f885dc712a",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00044.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Aurora"
+      }
+    },
+    {
+      "id": "25-4_newzealand-c8b96e11e224",
+      "title": "Aurora & Milky Way",
+      "description": "Aurora @ Twizel",
+      "takenAt": "25.5.3",
+      "tags": [
+        "newzealand",
+        "astrophotography",
+        "astronomy",
+        "panorama"
+      ],
+      "location": {
+        "label": "Lake Ruataniwha, Twizel",
+        "latitude": -44.2775201,
+        "longitude": 170.0821298,
+        "country": "newzealand"
+      },
+      "sourceHash": "c8b96e11e22426724b1e1dac0f4cc01d9236f0c2d3d333617d0b766805f642f2",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00045.jpg",
+        "width": 1920,
+        "height": 1132,
+        "alt": "Aurora & Milky Way"
+      }
+    },
+    {
+      "id": "25-4_newzealand-f0b12e86c38c",
+      "title": "Aurora & Meteor",
+      "description": "Aurora @ Twizel",
+      "takenAt": "25.5.3",
+      "tags": [
+        "newzealand",
+        "astrophotography",
+        "astronomy"
+      ],
+      "location": {
+        "label": "Lake Ruataniwha, Twizel",
+        "latitude": -44.2775201,
+        "longitude": 170.0821298,
+        "country": "newzealand"
+      },
+      "sourceHash": "f0b12e86c38cb3862b780281a19ecaef0ea8d6b72bea791a6f3025c6d9bb45f7",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00046.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Aurora & Meteor"
+      }
+    },
+    {
+      "id": "25-4_newzealand-c271c66f6c03",
+      "title": "Scorpius Palette",
+      "description": "Rho Ophiuchi Cloud Complex",
+      "takenAt": "25.5.3",
+      "tags": [
+        "newzealand",
+        "astrophotography",
+        "astronomy"
+      ],
+      "location": {
+        "label": "Lake Ruataniwha, Twizel",
+        "latitude": -44.2775201,
+        "longitude": 170.0821298,
+        "country": "newzealand"
+      },
+      "sourceHash": "c271c66f6c03d2fc2b44f2b32dae5b3c9961f185a514de252b1a40cdf52f4543",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00047.jpg",
+        "width": 1280,
+        "height": 1920,
+        "alt": "Scorpius Palette"
+      }
+    },
+    {
+      "id": "25-4_newzealand-c2f15265c231",
+      "title": "Red Tarns",
+      "description": "Red Tarns",
+      "takenAt": "25.5.4",
+      "tags": [
+        "newzealand",
+        "mountain",
+        "lake"
+      ],
+      "location": {
+        "label": "Red Tarns Track, Mount Cook",
+        "latitude": -43.7495483,
+        "longitude": 170.1030618,
+        "country": "newzealand"
+      },
+      "sourceHash": "c2f15265c231904941d7cad8d2720b36b85e3c5b228269cbd7d64ccf32fbc0a7",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00049.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Red Tarns"
+      }
+    },
+    {
+      "id": "25-4_newzealand-40ec8e7ad69c",
+      "title": "Red Tarns",
+      "description": "Red Tarns",
+      "takenAt": "25.5.4",
+      "tags": [
+        "newzealand",
+        "mountain",
+        "lake",
+        "panorama"
+      ],
+      "location": {
+        "label": "Red Tarns Track, Mount Cook",
+        "latitude": -43.7495483,
+        "longitude": 170.1030618,
+        "country": "newzealand"
+      },
+      "sourceHash": "40ec8e7ad69c8766e8058029750b7753ec66e0dbe695f820f578c30726320bca",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00050.jpg",
+        "width": 1920,
+        "height": 1344,
+        "alt": "Red Tarns"
+      }
+    },
+    {
+      "id": "25-4_newzealand-b7f5a302f8f7",
+      "title": "Mount Cook & Moon",
+      "description": "Mount Cook & Moon",
+      "takenAt": "25.5.4",
+      "tags": [
+        "newzealand",
+        "mountain"
+      ],
+      "location": {
+        "label": "Mount Cook",
+        "latitude": -43.7408403,
+        "longitude": 170.1270676,
+        "country": "newzealand"
+      },
+      "sourceHash": "b7f5a302f8f705f0faa5da5eed012141b80ff40f425b906260b9df1e20c47719",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00051.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Mount Cook & Moon"
+      }
+    },
+    {
+      "id": "25-4_newzealand-557d228c3126",
+      "title": "John Summit",
+      "description": "John Summit @ Lake Tekapo",
+      "takenAt": "25.5.5",
+      "tags": [
+        "newzealand",
+        "mountain",
+        "lake"
+      ],
+      "location": {
+        "label": "John Summit, Lake Tekapo",
+        "latitude": -43.9886463,
+        "longitude": 170.4638672,
+        "country": "newzealand"
+      },
+      "sourceHash": "557d228c31269b563525aa8c41bccc814cd9e14f5c7659d546ef7fe680953d18",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00053.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "John Summit"
+      }
+    },
+    {
+      "id": "25-4_newzealand-f212675aa09a",
+      "title": "The Church of the Good Shepherd",
+      "description": "The Church of the Good Shepherd from Maclaren Footbridge",
+      "takenAt": "25.5.6",
+      "tags": [
+        "newzealand",
+        "mountain",
+        "lake",
+        "autumn"
+      ],
+      "location": {
+        "label": "Maclaren Footbridge, Lake Tekapo",
+        "latitude": -44.0048852,
+        "longitude": 170.4810655,
+        "country": "newzealand"
+      },
+      "sourceHash": "f212675aa09a3d7503c57f28c99d2f48f247b3f1787ae199aa5fc17b5a943f61",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00054.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "The Church of the Good Shepherd"
+      }
+    },
+    {
+      "id": "25-4_newzealand-8497544a90c1",
+      "title": "Lake McGregor",
+      "description": "Lake McGregor",
+      "takenAt": "25.5.6",
+      "tags": [
+        "newzealand",
+        "autumn",
+        "lake",
+        "mountain"
+      ],
+      "location": {
+        "label": "Lake McGregor, Lake Tekapo",
+        "latitude": -43.9382034,
+        "longitude": 170.4674077,
+        "country": "newzealand"
+      },
+      "sourceHash": "8497544a90c1a7bd1bee9781d231bb1945c86794caab81399cad04bb18368478",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00056.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Lake McGregor"
+      }
+    },
+    {
+      "id": "25-4_newzealand-17574046fe15",
+      "title": "Star Trails @ Lake McGregor",
+      "description": "Star Trails @ Lake McGregor",
+      "takenAt": "25.5.6",
+      "tags": [
+        "newzealand",
+        "mountain",
+        "lake",
+        "autumn",
+        "astrophotography"
+      ],
+      "location": {
+        "label": "Lake McGregor, Lake Tekapo",
+        "latitude": -43.9382034,
+        "longitude": 170.4674077,
+        "country": "newzealand"
+      },
+      "sourceHash": "17574046fe155cc7382ce85de33c181d7747201a1b27492f4f3757099c87b5dd",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00057.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Star Trails @ Lake McGregor"
+      }
+    },
+    {
+      "id": "25-4_newzealand-d0fafe5946c5",
+      "title": "Hydrangea",
+      "description": "Hydrangea @ Christchurch Botanic Gardens",
+      "takenAt": "25.5.7",
+      "tags": [
+        "newzealand",
+        "flower"
+      ],
+      "location": {
+        "label": "Christchurch Botanic Gardens, Christchurch",
+        "latitude": -43.5316443,
+        "longitude": 172.6203171,
+        "country": "newzealand"
+      },
+      "sourceHash": "d0fafe5946c5e1431d68e9ef2fdf5d8e0d488d5f2d8e6900995eddc8dd04e8c8",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00058.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Hydrangea"
+      }
+    },
+    {
+      "id": "25-4_newzealand-c00f0770a7e5",
+      "title": "Milky Way @ Lake McGregor",
+      "description": "Milky Way @ Lake McGregor",
+      "takenAt": "25.5.6",
+      "tags": [
+        "newzealand",
+        "mountain",
+        "autumn",
+        "lake",
+        "astrophotography"
+      ],
+      "location": {
+        "label": "Lake McGregor, Lake Tekapo",
+        "latitude": -43.9382034,
+        "longitude": 170.4674077,
+        "country": "newzealand"
+      },
+      "sourceHash": "c00f0770a7e58279d1e88b75dd7e46cf8650b3820e9ff625311a79f26522d49f",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00059.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Milky Way @ Lake McGregor"
+      }
+    },
+    {
+      "id": "25-4_newzealand-6aba3964302b",
+      "title": "Bea",
+      "description": "Bea @ Christchurch Botanic Gardens",
+      "takenAt": "25.5.7",
+      "tags": [
+        "newzealand",
+        "animals"
+      ],
+      "location": {
+        "label": "Christchurch Botanic Gardens, Christchurch",
+        "latitude": -43.5316443,
+        "longitude": 172.6203171,
+        "country": "newzealand"
+      },
+      "sourceHash": "6aba3964302b432e0d5148456ec9c59390c62a106b49f474420e43e64d638a97",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00060.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Bea"
+      }
+    },
+    {
+      "id": "25-4_newzealand-496aa348c9b3",
+      "title": "Bea",
+      "description": "Bea @ Christchurch Botanic Gardens",
+      "takenAt": "25.5.7",
+      "tags": [
+        "newzealand",
+        "animals"
+      ],
+      "location": {
+        "label": "Christchurch Botanic Gardens, Christchurch",
+        "latitude": -43.5316443,
+        "longitude": 172.6203171,
+        "country": "newzealand"
+      },
+      "sourceHash": "496aa348c9b3e30db70e406884dcfcac2cb0e967ca8d1609d3a61a84f608fed8",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00061.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Bea"
+      }
+    },
+    {
+      "id": "25-4_newzealand-8192958b2122",
+      "title": "Leftover",
+      "description": "Whale Watch Kaikoura",
+      "takenAt": "25.4.20",
+      "tags": [
+        "newzealand",
+        "animals",
+        "ocean",
+        "birds"
+      ],
+      "location": {
+        "label": "Kaikoura",
+        "latitude": -42.3915157,
+        "longitude": 173.7195969,
+        "country": "newzealand"
+      },
+      "sourceHash": "8192958b212245397be7d5f5585525c454dedd0ae968043c053ad81cdb9d517f",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00063.jpg",
+        "width": 1440,
+        "height": 1920,
+        "alt": "Leftover"
+      }
+    },
+    {
+      "id": "25-4_newzealand-6898a4e41c55",
+      "title": "Dolphin",
+      "description": "Whale Watch Kaikoura",
+      "takenAt": "25.4.20",
+      "tags": [
+        "newzealand",
+        "animals",
+        "ocean"
+      ],
+      "location": {
+        "label": "Kaikoura",
+        "latitude": -42.3915157,
+        "longitude": 173.7195969,
+        "country": "newzealand"
+      },
+      "sourceHash": "6898a4e41c55ce4d4ac374f783ab5f737e643298ed4e5550135dee5f7748bfff",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00064.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Dolphin"
+      }
+    },
+    {
+      "id": "25-4_newzealand-145ad82ca5d4",
+      "title": "Dolphins",
+      "description": "Whale Watch Kaikoura",
+      "takenAt": "25.4.20",
+      "tags": [
+        "newzealand",
+        "ocean",
+        "animals"
+      ],
+      "location": {
+        "label": "Kaikoura",
+        "latitude": -42.3915157,
+        "longitude": 173.7195969,
+        "country": "newzealand"
+      },
+      "sourceHash": "145ad82ca5d433c53ecf0ba3773ecfa5ab864c78d5428bd61a3b806ab425dbad",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00065.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Dolphins"
+      }
+    },
+    {
+      "id": "25-4_newzealand-0cde36fc13b4",
+      "title": "Fur Seal",
+      "description": "Fur Seal @ Kaikoura",
+      "takenAt": "25.4.20",
+      "tags": [
+        "newzealand",
+        "animals",
+        "ocean"
+      ],
+      "location": {
+        "label": "Kaikoura Peninsula Walkway, Kaikoura",
+        "latitude": -42.4246207,
+        "longitude": 173.7142968,
+        "country": "newzealand"
+      },
+      "sourceHash": "0cde36fc13b4ddabdb7fcc1d064fbde67d5230ce98a4f9321a8d32cfaa7fb9e5",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00066.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Fur Seal"
+      }
+    },
+    {
+      "id": "25-4_newzealand-819909221ed1",
+      "title": "Seagull",
+      "description": "Seagull @ Kaikoura",
+      "takenAt": "25.4.20",
+      "tags": [
+        "newzealand",
+        "birds"
+      ],
+      "location": {
+        "label": "Kaikoura Peninsula Walkway, Kaikoura",
+        "latitude": -42.4246207,
+        "longitude": 173.7142968,
+        "country": "newzealand"
+      },
+      "sourceHash": "819909221ed105550b103502d8f08935b84503ff17eb93d22ff300c0c855485d",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00067.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Seagull"
+      }
+    },
+    {
+      "id": "25-4_newzealand-d01341944132",
+      "title": "Fur Seal",
+      "description": "Fur Seal @ Kaikoura",
+      "takenAt": "25.4.20",
+      "tags": [
+        "newzealand",
+        "animals"
+      ],
+      "location": {
+        "label": "Kaikoura Peninsula Walkway, Kaikoura",
+        "latitude": -42.4246207,
+        "longitude": 173.7142968,
+        "country": "newzealand"
+      },
+      "sourceHash": "d01341944132ff1fa9fd175a513723152a16c20ee6bb191e57031d6b015cfa25",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00068.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Fur Seal"
+      }
+    },
+    {
+      "id": "25-4_newzealand-da80cad53712",
+      "title": "Lake Wānaka",
+      "description": "Lake Wānaka in Autumn",
+      "takenAt": "25.4.25",
+      "tags": [
+        "newzealand",
+        "autumn",
+        "lake"
+      ],
+      "location": {
+        "label": "Lake Wānaka, Wānaka",
+        "latitude": -44.69732,
+        "longitude": 169.1298866,
+        "country": "newzealand"
+      },
+      "sourceHash": "da80cad53712dc6fdb9da3aea94eeea27c27208f1efb0ab6b421cac58dc03efa",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00069.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Lake Wānaka"
+      }
+    },
+    {
+      "id": "25-4_newzealand-42e25f82e679",
+      "title": "Little Shag",
+      "description": "Little Shag @ Kaikoura",
+      "takenAt": "25.4.20",
+      "tags": [
+        "newzealand",
+        "birds"
+      ],
+      "location": {
+        "label": "Kaikoura Peninsula Walkway, Kaikoura",
+        "latitude": -42.4246207,
+        "longitude": 173.7142968,
+        "country": "newzealand"
+      },
+      "sourceHash": "42e25f82e6791038cc2936b16e25f8f7dc72a97dfb4d22a5bf418c795d85b446",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00071.jpg",
+        "width": 1920,
+        "height": 1280,
+        "alt": "Little Shag"
+      }
+    },
+    {
+      "id": "25-4_newzealand-84e9bfeb4eac",
+      "title": "Milky Way",
+      "description": "Milky Way @ Franz Josef",
+      "takenAt": "25.4.23",
+      "tags": [
+        "newzealand",
+        "astrophotography",
+        "panorama"
+      ],
+      "location": {
+        "label": "Franz Josef",
+        "latitude": -43.3879534,
+        "longitude": 170.1830211,
+        "country": "newzealand"
+      },
+      "sourceHash": "84e9bfeb4eacc4011451dd8f82a2a7f41b9c355bbab6196555a375b0c3f589fd",
+      "image": {
+        "src": "/assets/photos/25-4_newzealand/00072.jpg",
+        "width": 1920,
+        "height": 1109,
+        "alt": "Milky Way"
+      }
+    }
+  ]
+}

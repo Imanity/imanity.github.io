@@ -240,6 +240,15 @@
         "ja": "日本"
       },
       "aliases": []
+    },
+    {
+      "id": "newzealand",
+      "labels": {
+        "zh-CN": "新西兰",
+        "en": "New Zealand",
+        "ja": "ニュージーランド"
+      },
+      "aliases": []
     }
   ]
 }

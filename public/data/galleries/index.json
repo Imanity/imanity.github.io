@@ -126,6 +126,11 @@
       "id": "26-8_japan_kagoshima",
       "title": "26.8_japan_kagoshima",
       "config": "/data/galleries/26-8_japan_kagoshima.json"
+    },
+    {
+      "id": "25-4_newzealand",
+      "title": "25.4_newzealand",
+      "config": "/data/galleries/25-4_newzealand.json"
     }
   ]
 }
