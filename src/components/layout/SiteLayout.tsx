@@ -1,6 +1,9 @@
 import type { MouseEvent, ReactNode } from 'react'
-import { ExternalLink, Mail } from 'lucide-react'
+import { Mail } from 'lucide-react'
 import { routes } from '../../app/routes'
+import { profile } from '../../content/profile'
+import { GithubIcon } from '../ui/GithubIcon'
+import { ThemeToggle } from '../ui/ThemeToggle'
 
 type SiteLayoutProps = {
   activePath: string
@@ -18,18 +21,16 @@ export function SiteLayout({ activePath, children, onNavigate }: SiteLayoutProps
   return (
     <div className="site-shell">
       <header className="site-header">
-        <a className="brand" href="/" onClick={handleNavigate('/')}>
-          <span>
-            <strong>RJ's Page</strong>
-            <small>imanity.github.io</small>
-          </span>
-        </a>
+        <div className="site-header-inner">
+          <a aria-label="RJ's Page 主页" className="brand" href="/" onClick={handleNavigate('/')}>
+            <span aria-hidden="true" className="brand-mark">
+              RJ
+            </span>
+            <span className="brand-text">RJ's Page</span>
+          </a>
 
-        <nav className="site-nav" aria-label="Site navigation">
-          {routes.map((route) => {
-            const Icon = route.icon
-
-            return (
+          <nav className="site-nav" aria-label="站点导航">
+            {routes.map((route) => (
               <a
                 key={route.path}
                 aria-current={activePath === route.path ? 'page' : undefined}
@@ -37,27 +38,44 @@ export function SiteLayout({ activePath, children, onNavigate }: SiteLayoutProps
                 href={route.path}
                 onClick={handleNavigate(route.path)}
               >
-                <Icon size={18} strokeWidth={1.8} />
-                <span>{route.label}</span>
+                {route.label}
               </a>
-            )
-          })}
-        </nav>
+            ))}
+          </nav>
+
+          <div className="header-actions">
+            <a
+              aria-label="GitHub"
+              className="icon-button header-github"
+              href={profile.links.github}
+              rel="noreferrer"
+              target="_blank"
+              title="GitHub"
+            >
+              <GithubIcon size={16} />
+            </a>
+            <ThemeToggle />
+          </div>
+        </div>
       </header>
 
       <main className="site-main">{children}</main>
 
       <footer className="site-footer">
-        <span>© {new Date().getFullYear()} Imanity</span>
-        <div className="footer-links">
-          <a href="https://github.com/Imanity" rel="noreferrer" target="_blank">
-            <ExternalLink size={17} strokeWidth={1.8} />
-            GitHub
-          </a>
-          <a href="mailto:imanity14@gmail.com">
-            <Mail size={17} strokeWidth={1.8} />
-            Contact
-          </a>
+        <div className="site-footer-inner">
+          <span>
+            © {new Date().getFullYear()} {profile.name} · {profile.city}
+          </span>
+          <div className="footer-links">
+            <a href={profile.links.github} rel="noreferrer" target="_blank">
+              <GithubIcon size={15} />
+              GitHub
+            </a>
+            <a href={`mailto:${profile.links.email}`}>
+              <Mail aria-hidden="true" size={16} strokeWidth={1.8} />
+              Email
+            </a>
+          </div>
         </div>
       </footer>
     </div>

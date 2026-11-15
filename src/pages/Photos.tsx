@@ -7,11 +7,18 @@ import {
 } from '@imanity/tabi-gallery'
 import { PageHeader } from '../components/ui/PageHeader'
 import { useGallery } from '../gallery/GalleryProvider'
+import { getGalleryStats } from '../gallery/galleryStats'
 import {
   createRandomPhotoRanks,
   sortPhotos,
   type PhotoSortOrder,
 } from '../gallery/sortPhotos'
+
+const sortOptions: Array<{ value: PhotoSortOrder; label: string }> = [
+  { value: 'random', label: '随机' },
+  { value: 'taken-at-desc', label: '最新' },
+  { value: 'taken-at-asc', label: '最早' },
+]
 
 export function Photos() {
   const { error, loading, photos, reload } = useGallery()
@@ -39,18 +46,25 @@ export function Photos() {
     () => sortPhotos(results, sortOrder, randomRanks),
     [randomRanks, results, sortOrder],
   )
+  const stats = useMemo(() => getGalleryStats(photos), [photos])
   const hasFilters =
     search.selectedTags.length > 0 || search.selectedPhotoIds.length > 0
+  const description =
+    !loading && !error && stats.photoCount > 0
+      ? `${stats.photoCount} 张照片，拍摄于 ${stats.placeCount} 个地点${
+          stats.countries.length > 0 ? `，足迹遍及${stats.countries.join('、')}` : ''
+        }。可以在地图上点选地点，或按标签筛选。`
+      : undefined
 
   return (
     <section className="page-stack photos-page">
-      <PageHeader eyebrow="Photos" title="照片" />
+      <PageHeader description={description} eyebrow="Photographs" title="照片" />
 
       {loading ? <p className="gallery-load-state">正在加载照片……</p> : null}
       {error ? (
         <div className="gallery-load-state gallery-load-error" role="alert">
           <p>照片配置加载失败：{error}</p>
-          <button onClick={reload} type="button">
+          <button className="button button-ghost" onClick={reload} type="button">
             重新加载
           </button>
         </div>
@@ -62,28 +76,26 @@ export function Photos() {
             <header className="photo-results-heading">
               <p>
                 <strong>{results.length}</strong>
-                <span> / {photos.length} 张照片</span>
+                <span>/ {photos.length} 张照片</span>
               </p>
               <div className="photo-results-controls">
-                <label>
-                  <span>排序</span>
-                  <select
-                    aria-label="照片排序"
-                    onChange={(event) =>
-                      setSortOrder(event.target.value as PhotoSortOrder)
-                    }
-                    value={sortOrder}
-                  >
-                    <option value="random">随机顺序</option>
-                    <option value="taken-at-asc">时间正序</option>
-                    <option value="taken-at-desc">时间倒序</option>
-                  </select>
-                </label>
                 {hasFilters ? (
-                  <button onClick={clearSearch} type="button">
+                  <button className="text-button" onClick={clearSearch} type="button">
                     清除全部筛选
                   </button>
                 ) : null}
+                <div aria-label="照片排序" className="segmented" role="group">
+                  {sortOptions.map((option) => (
+                    <button
+                      aria-pressed={sortOrder === option.value}
+                      key={option.value}
+                      onClick={() => setSortOrder(option.value)}
+                      type="button"
+                    >
+                      {option.label}
+                    </button>
+                  ))}
+                </div>
               </div>
             </header>
 
@@ -99,12 +111,14 @@ export function Photos() {
               onSelectPhotos={selectMapPhotos}
               photos={photos}
               selectedPhotoIds={search.selectedPhotoIds}
+              title="地点"
             />
             <PhotoTagFilter
               onClear={clearTags}
               onToggle={toggleTag}
               selectedTags={search.selectedTags}
               tags={facets.tags}
+              title="标签"
             />
           </aside>
         </div>

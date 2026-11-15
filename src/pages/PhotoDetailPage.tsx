@@ -55,8 +55,8 @@ export function PhotoDetailPage() {
           <ArrowLeft aria-hidden="true" size={18} />
           返回照片集
         </a>
-        <span>
-          {photoIndex + 1} / {photos.length}
+        <span className="photo-counter">
+          <strong>{photoIndex + 1}</strong> / {photos.length}
         </span>
       </nav>
 

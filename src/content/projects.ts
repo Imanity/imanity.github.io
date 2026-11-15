@@ -5,6 +5,12 @@ export type Project = {
   tags: string[]
 }
 
+export const projectStatusLabel: Record<Project['status'], string> = {
+  active: '进行中',
+  planning: '规划中',
+  archived: '已归档',
+}
+
 export const projects: Project[] = [
   {
     name: 'Personal Homepage',

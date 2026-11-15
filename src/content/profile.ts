@@ -11,6 +11,12 @@ export const profile = {
   name: 'Tang RJ',
   role: 'Tang RJ',
   location: '现居日本',
+  city: '东京',
+  timeZone: 'Asia/Tokyo',
+  links: {
+    github: 'https://github.com/Imanity',
+    email: 'imanity14@gmail.com',
+  },
   intro:
     '1997.2 生于天津，后学习&工作于北京，现居日本东京。主要从事软件开发相关工作，爱好摄影旅拍。',
   focus: [],
@@ -58,4 +64,13 @@ export const profile = {
       highlights: [],
     }
   ] satisfies ProfileExperience[],
+}
+
+/** "2025.8 - Present" -> "2025.8 – 至今" */
+export function formatPeriod(period: string) {
+  return period.replace(/\s*-\s*/, ' – ').replace(/present/i, '至今')
+}
+
+export function isCurrentPeriod(period: string) {
+  return /present/i.test(period)
 }
