@@ -10,15 +10,16 @@ import { useGallery } from '../gallery/GalleryProvider'
 import { getGalleryStats } from '../gallery/galleryStats'
 import {
   createRandomPhotoRanks,
-  createScorePhotoRanks,
+  createDefaultPhotoRanks,
   getPhotoSortSeed,
   renewPhotoSortSeed,
   sortPhotos,
   type PhotoSortOrder,
 } from '../gallery/sortPhotos'
 
-const sortOptions: Array<{ value: PhotoSortOrder; label: string }> = [
-  { value: 'score-weighted', label: '评分优先' },
+const sortOptions: Array<{ value: PhotoSortOrder; label: string; description?: string }> = [
+  { value: 'default', label: '默认', description: '高分优先，在相近分数间随机排列' },
+  { value: 'score-desc', label: '评分', description: '按评分从高到低排列，未评分照片位于最后' },
   { value: 'random', label: '随机' },
   { value: 'taken-at-desc', label: '最新' },
   { value: 'taken-at-asc', label: '最早' },
@@ -29,9 +30,10 @@ export function Photos() {
   const [sortOrder, setSortOrder] = useState<PhotoSortOrder>(() => {
     try {
       const saved = sessionStorage.getItem('gallery:sort-order')
+      if (saved === 'score-weighted') return 'default'
       if (sortOptions.some(option => option.value === saved)) return saved as PhotoSortOrder
     } catch { /* Use the default without storage. */ }
-    return 'score-weighted'
+    return 'default'
   })
   const [seed, setSeed] = useState(getPhotoSortSeed)
   const requestedTags = [
@@ -53,10 +55,10 @@ export function Photos() {
     toggleTag,
   } = usePhotoSearch(photos, { selectedTags: requestedTags })
   const randomRanks = useMemo(() => createRandomPhotoRanks(photos, seed), [photos, seed])
-  const scoreRanks = useMemo(() => createScorePhotoRanks(photos, seed), [photos, seed])
+  const defaultRanks = useMemo(() => createDefaultPhotoRanks(photos, seed), [photos, seed])
   const sortedResults = useMemo(
-    () => sortPhotos(results, sortOrder, randomRanks, scoreRanks),
-    [randomRanks, results, sortOrder, scoreRanks],
+    () => sortPhotos(results, sortOrder, randomRanks, defaultRanks),
+    [randomRanks, results, sortOrder, defaultRanks],
   )
   const stats = useMemo(() => getGalleryStats(photos), [photos])
   const hasFilters =
@@ -101,6 +103,7 @@ export function Photos() {
                     <button
                       aria-pressed={sortOrder === option.value}
                       key={option.value}
+                      title={option.description}
                       onClick={() => {
                         setSortOrder(option.value)
                         try { sessionStorage.setItem('gallery:sort-order', option.value) } catch { /* Optional persistence. */ }
@@ -111,7 +114,7 @@ export function Photos() {
                     </button>
                   ))}
                 </div>
-                {sortOrder === 'random' || sortOrder === 'score-weighted' ? (
+                {sortOrder === 'random' || sortOrder === 'default' ? (
                   <button className="text-button" onClick={() => setSeed(renewPhotoSortSeed())} type="button">换一组</button>
                 ) : null}
               </div>

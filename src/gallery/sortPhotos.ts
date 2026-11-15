@@ -1,7 +1,7 @@
-import { createPhotoRandomValues, formatPhotoDateTime, rankPhotosByScore } from '@imanity/tabi-gallery'
+import { createPhotoRandomValues, formatPhotoDateTime, rankPhotosByScore, sortPhotosByScore } from '@imanity/tabi-gallery'
 import type { Photo } from '@imanity/tabi-gallery'
 
-export type PhotoSortOrder = 'score-weighted' | 'random' | 'taken-at-asc' | 'taken-at-desc'
+export type PhotoSortOrder = 'default' | 'score-desc' | 'random' | 'taken-at-asc' | 'taken-at-desc'
 
 export function createRandomPhotoRanks(photos: Photo[], seed = getPhotoSortSeed()) {
   const values = createPhotoRandomValues(photos, seed)
@@ -9,7 +9,7 @@ export function createRandomPhotoRanks(photos: Photo[], seed = getPhotoSortSeed(
   return new Map(ids.map((id, index) => [id, index]))
 }
 
-export function createScorePhotoRanks(photos: Photo[], seed: string) {
+export function createDefaultPhotoRanks(photos: Photo[], seed: string) {
   return new Map(rankPhotosByScore(photos, createPhotoRandomValues(photos, seed))
     .map((photo, index) => [photo.id, index]))
 }
@@ -55,10 +55,11 @@ export function sortPhotos(
   photos: Photo[],
   order: PhotoSortOrder,
   randomRanks: ReadonlyMap<string, number>,
-  scoreRanks: ReadonlyMap<string, number> = randomRanks,
+  defaultRanks: ReadonlyMap<string, number> = randomRanks,
 ) {
+  if (order === 'score-desc') return sortPhotosByScore(photos)
   return [...photos].sort((left, right) => {
-    if (order === 'score-weighted') return compareRandomRank(left, right, scoreRanks)
+    if (order === 'default') return compareRandomRank(left, right, defaultRanks)
     if (order === 'random') {
       return compareRandomRank(left, right, randomRanks)
     }
