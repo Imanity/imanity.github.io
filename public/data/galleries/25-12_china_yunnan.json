@@ -19,6 +19,20 @@
         "country": "china"
       },
       "sourceHash": "d530d678896a6720ac05467a38d793ff256f822444887be0d68e6268a2d256fc",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "梯田的弧线从前景交错延伸，将视线带向左侧村舍；水面、田埂与树木形成丰富的层次，大片云雾则赋予画面安静、湿润的氛围。柔和的散射光保留了雾气的细腻变化，冷蓝灰色与土屋的暖褐色相互衬托，色彩克制而协调。不过，房屋与树林的明度接近，主体略显沉暗；右上方大面积雾区细节较少，视觉重量偏向左下，使画面的感染力更多来自气氛，视觉焦点还不够鲜明。最值得改进的是取景比例：适度裁去上方及右侧部分雾区，保留云雾与山影的呼应，让村舍和梯田曲线成为更明确的中心。整体是一张构图扎实、氛围出色，但主体凝聚力仍可加强的风景照片。",
+          "en": "Interlocking terrace curves lead from the foreground toward the houses on the left. Water, embankments and trees create rich layers, while the broad sweep of mist gives the scene a quiet, damp atmosphere. Soft, diffuse light preserves subtle variations in the fog, and the cool blue-grey palette complements the warm brown houses with restrained harmony. However, the houses and woodland have similar brightness, leaving the subject somewhat subdued. The large, sparsely detailed fog area at upper right shifts the visual weight toward the lower left, so the photograph gains more impact from atmosphere than from a distinct focal point. The most useful improvement would be a tighter framing: trim some mist from the top and right while retaining its relationship with the mountain silhouettes, giving the houses and terrace curves greater prominence. This is a strongly composed, atmospheric landscape whose focal clarity could still improve.",
+          "ja": "前景で交差する棚田の曲線が、左側の家々へと視線を導いています。水面、畦、木々が豊かな奥行きを生み、広く漂う霧が静かで湿潤な空気を伝えています。柔らかな拡散光は霧の繊細な濃淡を残し、青みのある灰色と家屋の暖かな褐色も、控えめに調和しています。一方で、家屋と林の明るさが近く、主役がやや沈んで見えます。右上には変化の少ない霧の面積が大きく、視覚的な重みが左下に偏るため、明確な注視点よりも雰囲気で見せる写真になっています。最も改善したいのは画角です。霧と山影の呼応を残しながら、上部と右側の霧を少し切り詰めると、家々と棚田の曲線がより際立ちます。構図と空気感に強みがある風景写真ですが、主役への視線の集まりには、まだ改善の余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "34ade7a6e6907d00fd82139503f1943b69f143b894979cb81ac904f5b5cc197c",
+        "evaluatedAt": "2026-11-15T18:08:42.604Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00001.jpg",
         "width": 1920,
@@ -42,6 +56,20 @@
         "country": "china"
       },
       "sourceHash": "5bbfe51dbea36735df17d592b2eb6aeb642b84720df87d25847e269c6b2d5bfe",
+      "aiReview": {
+        "score": 83,
+        "comments": {
+          "zh-CN": "梯田蜿蜒的田埂形成流畅而有层次的线条，将视线从前景带向雾中的树林；中右部的小人物提供了尺度，也给安静的景观添了一点生活气息。漫射光柔和，冷蓝色水面与褐色田埂协调，雾气让远近层次自然消退，整体有清冷、沉静的感染力。不足是上方大片天空与浓雾的变化较少，视觉重量偏轻，而下方线条丰富，主体重心略显分散。最值得改进的是适度裁去顶部约六分之一的画面，保留雾中树影，让梯田的曲线和人物更集中地承担表达。照片的优势在于空间组织和氛围，光线本身的表现力则相对克制。",
+          "en": "The winding terrace banks create flowing, layered lines that lead the eye from the foreground toward the trees in the mist. The tiny figure right of center supplies scale and a trace of everyday life within the quiet landscape. Soft, diffuse light and the harmony between cool blue water and brown banks support the atmosphere, while the fog gently separates the spatial layers. The result feels cool and contemplative. The main weakness is the large upper area of sky and dense mist: it offers little variation or visual weight compared with the intricate lower portion, leaving the emphasis somewhat dispersed. The most useful improvement would be to crop roughly one-sixth of the image height from the top, retaining the silhouetted trees while giving the terrace curves and figure more prominence. Spatial organization and atmosphere are the photograph’s strengths; the light itself is relatively restrained.",
+          "ja": "曲がりくねった棚田の畦が、流れるような重層的な線をつくり、手前から霧の中の木々へと視線を導いています。中央右寄りの小さな人物は風景の大きさを伝え、静かな景色に暮らしの気配を添えています。柔らかな拡散光の下、青みのある水面と褐色の畦が調和し、霧によって遠近の層が穏やかに薄れていくため、ひんやりとした静けさが感じられます。惜しいのは、上部を広く占める空と濃霧の変化が乏しく、線の豊かな下部に比べて視覚的な重みが弱いため、画面の焦点がやや散漫になっている点です。最も効果的な改善は、霧の中の木影を残しながら、上端から画面の高さの約6分の1を切り詰めることです。棚田の曲線と人物がより際立つでしょう。空間構成と雰囲気に強みがある一方、光そのものの表現力は比較的控えめです。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "89872f33468e55770f97b0eba622ebdb02ab7c00b491df46b056565e6a648a9e",
+        "evaluatedAt": "2026-11-15T18:09:08.427Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00002.jpg",
         "width": 1920,
@@ -67,6 +95,20 @@
         "country": "china"
       },
       "sourceHash": "f28e51367a53e9e0a4a0b7786da1eba940ddb7ad156c3a42a11ece7b80623804",
+      "aiReview": {
+        "score": 86,
+        "comments": {
+          "zh-CN": "梯田蜿蜒的田埂形成细密而富有节奏的线条，从前景延伸到右上方，与左上方柔软的云雾构成漂亮的虚实对照，空间层次鲜明。水面反射的粉色暖光与蓝灰色雾气相互衬托，色彩克制，气氛宁静而有感染力。主体表达主要依靠梯田的整体纹理，右侧较大的水面为密集线条提供了停顿，但画面缺少一个特别明确的视觉落点，视线容易在各处游走。最值得改进的是下方偏暗、较厚重的前景：适度裁去底部，保留主要田埂的延伸，会让反光梯田更集中，也让云雾与田地之间的呼应更有力量。整体是一张光色出色、构图扎实的风光照片，距离更高水平主要差在视觉重心的凝练。",
+          "en": "The winding terrace banks create intricate, rhythmic lines that lead from the foreground toward the upper right, contrasting beautifully with the soft mist in the upper left and giving the scene clear depth. Warm pink reflections play against blue-grey fog; the restrained palette feels quiet and evocative. The subject comes through primarily as an overall pattern, with the larger pools on the right offering pauses among the dense lines. However, there is no particularly clear visual anchor, so the eye tends to wander. The most useful improvement would be to reduce the dark, heavy foreground: cropping some of the bottom while preserving the main terrace lines would concentrate attention on the reflective fields and strengthen their relationship with the mist. Overall, this is an excellent landscape with compelling light and colour and solid composition; a more concentrated visual focus would lift it further.",
+          "ja": "曲がりくねる棚田の畦が緻密でリズミカルな線を描き、前景から右上へと視線を導いています。左上の柔らかな霧との対比も美しく、奥行きが明確です。水面に映る暖かなピンクと青灰色の霧が引き立て合い、控えめな色彩が静かで心に響く雰囲気を生んでいます。主題は棚田全体の模様として伝わり、右側の広い水面が密集した線の中に余白を作っています。ただ、視線を強く留める場所がやや曖昧で、目が画面内をさまよいやすくなっています。最も改善したいのは、暗く重い下部の前景です。主要な畦の流れを残しつつ下端を少し切り詰めると、反射する棚田に視線が集まり、霧との呼応も強まるでしょう。光と色に優れ、構図もしっかりした風景写真ですが、視覚的な重心をさらに絞ることで、もう一段上の表現になります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d3037d72a60580bdb6d43adab4c3b1b3e0ba596d0f6af1c5d5c6749bfb1a292a",
+        "evaluatedAt": "2026-11-15T18:09:33.718Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00004.jpg",
         "width": 1920,
@@ -93,6 +135,20 @@
         "country": "china"
       },
       "sourceHash": "5243faa5f36dd3f81e6ab2e5d4b01b49c4349db847a7e7a175844a5a2fa7c54a",
+      "aiReview": {
+        "score": 88,
+        "comments": {
+          "zh-CN": "梯田的曲线从前景向山谷层层延伸，右侧村落提供尺度与生活气息，云海则把复杂的地形组织出清晰层次。暖粉色天光映入水田，与青灰色山体形成柔和而统一的冷暖关系；云雾遮掩山脊，也让画面有流动感和空间深度。主体表达上，梯田、村庄与自然环境的关系比单一景物更动人，整体有开阔而宁静的感染力。最值得改进的是亮度分配：中央偏左的天空过亮，细节较弱，而下方两角阴暗且占据较多面积，使视线容易被天空抢走。若拍摄时更好地保留高光，并在后期适度提亮梯田、压低天空亮度，让水田纹理成为更明确的视觉中心，画面会更凝练。",
+          "en": "The terraces sweep from the foreground into the valley, while the village on the right provides scale and a sense of everyday life. The sea of clouds gives the complex terrain clear layers. Warm pink light reflected in the paddies pairs harmoniously with the cool grey-green mountains; clouds veiling the ridge add movement and depth. The relationship between cultivated land, settlement and nature is more compelling than any isolated feature, giving the photograph an expansive, tranquil impact. The main improvement is the distribution of brightness: the sky just left of centre is excessively bright with weak detail, while the dark lower corners occupy considerable space, allowing the sky to draw attention away from the terraces. Better highlight retention at capture, followed by restrained brightening of the terraces and darkening of the sky, would make the paddy patterns a clearer visual centre and tighten the image.",
+          "ja": "前景から谷へと続く棚田の曲線が視線を導き、右側の集落がスケール感と暮らしの気配を添えています。雲海は複雑な地形に明確な層をつくっています。水田に映る暖かなピンクの光と、青みを帯びた灰緑色の山々との色調も調和しており、稜線を隠す雲が動きと奥行きを生んでいます。個々の風物以上に、棚田と集落、自然の関係が印象的で、広がりと静けさが伝わる写真です。最も改善したいのは明るさの配分です。中央左寄りの空は明るすぎて細部が乏しく、一方で下部の両隅は暗い面積が大きいため、棚田より空へ視線が引かれます。撮影時にハイライトをより保ち、仕上げで棚田を控えめに明るく、空を少し暗くすれば、水田の模様がより明確な視覚的中心となり、画面が引き締まるでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a3f75dd1cc287bfbefa6d493ab106254745d674fb686cf72cc9c41fc583ceafb",
+        "evaluatedAt": "2026-11-15T18:09:59.922Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00005.jpg",
         "width": 1920,
@@ -117,6 +173,20 @@
         "country": "china"
       },
       "sourceHash": "8b1434974446a1575a22052a5c6776dfe870ac68f8726929b2bca910d7ae2646",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "这张照片的优势是空间层次与柔和的侧光：近处粉色花树、中景梯田和远处层叠山岭形成清楚的纵深，右侧薄雾让山谷显得辽阔而安静。粉色与蓝绿色的对照自然，梯田的曲线也提供了耐看的纹理。构图两侧的花树有框景作用，但下方尤其右下角的暗枝较杂，天空占比也偏大，使画面最有特点的梯田没有获得足够强调。整体氛围优美，不过视觉中心稍散，感染力更多来自景色本身。最值得改进的是取景：适当收紧天空和底部杂枝，让梯田成为更明确的主体，同时保留两侧适量花色作为陪衬。",
+          "en": "The photograph’s strengths are its depth and gentle sidelight: pink flowering trees in the foreground, terraces in the middle distance, and successive mountain ridges create clear spatial layers, while the haze on the right gives the valley a quiet, expansive feel. The pink and blue-green colours work naturally together, and the terraces offer engaging curved patterns. Flowers on both sides frame the view, but the dark branches below, especially at the lower right, are cluttered. The large area of sky also leaves the distinctive terraces insufficiently emphasized. The atmosphere is beautiful, though the visual focus is somewhat dispersed, and much of the impact comes from the scenery itself. The most useful improvement is tighter framing: reduce some sky and tangled foreground branches so the terraces become the clear subject, retaining enough flowers at the sides to support them.",
+          "ja": "この写真の長所は、奥行きと柔らかな斜光です。手前のピンクの花木、中景の棚田、幾重にも重なる山並みが明確な距離感を生み、右側の霞が谷の広さと静けさを伝えています。ピンクと青緑の色の対比も自然で、棚田の曲線には見応えがあります。両側の花木は額縁の役割を果たしていますが、下部、とくに右下の暗い枝が入り組み、空の割合も大きいため、特徴的な棚田の存在感がやや弱まっています。雰囲気は美しいものの、視線の中心が少し散漫で、印象の強さは風景自体の魅力に頼る部分があります。最も改善したいのは画面の絞り込みです。空と下部の雑然とした枝を少し減らし、両側の花を適度に残して脇役にすることで、棚田をより明確な主役にできます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "0852c01e56fbd10856f4632cdf843f0e09ca8979951e22fba7738a8775f52a24",
+        "evaluatedAt": "2026-11-15T18:10:22.695Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00006.jpg",
         "width": 1920,
@@ -140,6 +210,20 @@
         "country": "china"
       },
       "sourceHash": "7babc48da85d151357ca2987963b78b132517af90c72d5ad033cef641eef7207",
+      "aiReview": {
+        "score": 80,
+        "comments": {
+          "zh-CN": "松鼠双爪捧食、直视镜头的瞬间很有亲近感，眼睛和面部细节清楚，是照片最有吸引力的部分。右侧树干提供环境交代，斜向树枝也让画面有支撑，但树干占比偏大、纹理醒目，与主体争夺注意力；底部尾巴被截断，也略显局促。柔和光线保留了毛发质感，不过松鼠面部和腹部偏暗，左上方的明亮散景容易把视线拉走。粉紫与嫩绿的背景色彩优美，虚化有效地分离了主体，让普通的进食场景带有春日般的轻盈感。整体是一张有感染力的动物肖像，最值得改进的是主体与背景的明暗关系：适度提亮面部、压低左上亮斑，会让目光更集中在松鼠的神态上。",
+          "en": "The squirrel holding food in both paws and looking toward the camera creates an engaging, intimate moment. Clear eyes and facial detail are the photograph’s strongest features. The trunk on the right establishes the setting, and the diagonal branches give the composition structure, but the trunk’s size and prominent texture compete with the subject; the cropped tail also makes the lower edge feel slightly cramped. Soft light preserves fur texture, although the face and belly look dark, while bright bokeh in the upper left draws attention away. The pink-purple and fresh green background is attractive, and its blur separates the squirrel effectively, lending an everyday feeding scene a light, springlike atmosphere. This is an expressive animal portrait. The most worthwhile improvement is the tonal balance between subject and background: gently brighten the face and subdue the upper-left highlights to keep attention on the squirrel’s expression.",
+          "ja": "両手で食べ物を持ち、こちらを見つめるリスの姿に親しみが感じられます。目と顔の細部が明瞭で、そこが写真の最大の魅力です。右の幹は生息環境を伝え、斜めの枝も構図を支えていますが、幹の面積が大きく、樹皮の模様も目立つため、主役と視線を奪い合っています。下端で尾が切れている点にも、少し窮屈さがあります。柔らかな光は毛並みの質感を残していますが、顔と腹部は暗めで、左上の明るい玉ボケに目が引かれます。背景のピンクがかった紫と若葉色は美しく、ボケによってリスがよく浮かび上がり、日常的な食事の場面に春らしい軽やかさを添えています。全体として表情の伝わる動物ポートレートです。最も改善したいのは主役と背景の明暗のバランスで、顔を適度に明るくし、左上のハイライトを抑えると、リスの表情に視線が集まります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "792d347065fc2da62a8f236d97caacc581d877b30b3c5c899809b197239f433d",
+        "evaluatedAt": "2026-11-15T18:10:41.365Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00007.jpg",
         "width": 1920,
@@ -163,6 +247,20 @@
         "country": "china"
       },
       "sourceHash": "9b11d2688a1a600237d8dbda40f217b819d88b459a843fefa84178976d6951d5",
+      "aiReview": {
+        "score": 77,
+        "comments": {
+          "zh-CN": "松鼠穿行于粉色花簇之间，姿态舒展，眼睛清晰可见，形成了有趣而生动的瞬间。斜向枝条带出运动方向，弯曲的尾巴与周围花枝呼应；背景的青绿色屋顶也为画面增添了环境特色。粉紫花朵与青绿、暖褐色搭配协调，但主体处于阴影中，毛色与背景树干接近，视觉突出程度有限。构图最明显的问题是右上方粗大的树干占据较多空间，与松鼠争夺注意力，整体枝条也略显繁杂。最值得改进的是拍摄机位：稍微移动位置，让松鼠衬在更干净、明亮的背景前，并减少右上粗干的占比，会比单纯提高饱和度更有效。整体是一张情境鲜活、色彩悦目的动物照片，但画面组织和主体分离尚未达到非常精炼的程度。",
+          "en": "The squirrel stretching through clusters of pink blossoms makes for a lively, engaging moment, with its eye clearly visible. Diagonal branches suggest movement, while the curved tail echoes the surrounding flowering twigs; the turquoise roof adds a distinctive sense of place. Pink-purple flowers work harmoniously with turquoise and warm brown, but the squirrel sits in shadow, and its fur blends somewhat with the background trunks. The main compositional weakness is the large trunk in the upper right, which takes up considerable space and competes with the squirrel; the network of branches also feels busy. The most useful improvement would be a change of viewpoint: move slightly to place the squirrel against a cleaner, brighter background and reduce the upper-right trunk’s prominence. That would help more than simply increasing saturation. Overall, this is a lively wildlife photograph with pleasing colour, though the composition and subject separation could be more refined.",
+          "ja": "ピンクの花房の間を進むリスの伸びやかな姿と、はっきり見える目が、生き生きとした魅力的な瞬間を作っています。斜めの枝が動きの方向を示し、曲がった尾が周囲の花枝と呼応しています。背景の青緑色の屋根も、その場所らしい雰囲気を添えています。紫がかったピンクの花と青緑、暖かな茶色の組み合わせは調和していますが、リスが日陰にいて、毛色が背景の幹に近いため、主役の存在感がやや弱まっています。構図で最も気になるのは、右上の太い幹が大きな面積を占め、リスから視線を奪う点です。枝の重なりも少し込み入っています。最も改善したいのは撮影位置で、少し移動してリスの背後をすっきりした明るい背景にし、右上の幹の比重を減らすと、単に彩度を上げるより効果的です。全体として、場面の生気と色彩に魅力のある動物写真ですが、構図の整理と主役の分離には、さらに磨ける余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "b6592f84f65e93c3019e3170852b26f9e2cbe84cc3e776250aca881e3c475fa6",
+        "evaluatedAt": "2026-11-15T18:11:04.104Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00008.jpg",
         "width": 1920,
@@ -187,6 +285,20 @@
         "country": "china"
       },
       "sourceHash": "17d8643a38b3bafefe00fdf63b1195f17f2a9da4f2fde57bf4d2351f5ff74dfe",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "这张照片的优势在于山坡、梯田与云海形成的空间层次：山脊斜向右下延伸，右侧翻涌的云雾与梯田细密的曲线相互映衬，村落则提供了尺度感和生活气息。柔和的散射光保留了云层与地表细节，蓝灰、墨绿和土褐色调统一，呈现出清冷、宁静的氛围。不过，光线偏平，梯田与林地的明暗、色彩差异不够鲜明，左侧密集的村落和树林也分散了注意力，使画面更像宽广的环境记录，主体凝聚力稍弱。最值得改进的是构图取舍：拍摄时将视角更集中于中下部梯田与右侧云雾交接的位置，减少左侧杂乱区域，让“梯田隐入云海”成为明确的视觉中心。整体景观有感染力，但尚缺少足以牢牢抓住视线的光线或核心细节。",
+          "en": "The photograph’s strength lies in the depth created by the hillside, terraces and sea of clouds. The ridge slopes diagonally down to the right, while the billowing mist complements the terraces’ intricate curves; the villages add scale and a sense of human life. Soft, diffuse light preserves detail in both clouds and terrain, and the cohesive blue-grey, dark green and earthy brown palette creates a cool, tranquil atmosphere. However, the light is rather flat, with limited tonal and colour separation between terraces and woodland. The dense villages and trees on the left also compete for attention, making this feel more like a broad environmental record than a tightly focused composition. The most valuable improvement would be more selective framing: concentrate on the meeting of the lower-central terraces and the mist on the right, reducing the busy left side so that “terraces disappearing into clouds” becomes the clear visual focus. The landscape is evocative, but lacks the distinctive light or central detail needed to hold the eye firmly.",
+          "ja": "この写真の魅力は、山腹、棚田、雲海がつくる奥行きにあります。尾根が右下へ斜めに伸び、右側の湧き立つ霧と棚田の緻密な曲線が響き合っています。集落も風景のスケールと人の暮らしを伝えています。柔らかな拡散光によって雲と地表の細部が残り、青灰色、深緑、土褐色の統一感が、ひんやりと静かな空気を生んでいます。一方、光はやや平坦で、棚田と森林の明暗や色の差が乏しく、左側に密集する集落や木々にも視線が分散します。そのため、主題を絞った構図というより、広い環境を記録した印象が強くなっています。最も改善したいのは画面の取捨選択です。中央下部の棚田と右側の霧が接する場所に画角を絞り、左側の込み入った部分を減らすと、「雲海に消えていく棚田」が明確な視覚的中心になります。情緒のある風景ですが、視線を強く引き留める光や中心的な細部には、もう一歩の強さが欲しいところです。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "68d29a0c4757664094ebb4c864f0a1e3f827195ff2474203631b8c501cc58f51",
+        "evaluatedAt": "2026-11-15T18:11:31.139Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00011.jpg",
         "width": 1920,
@@ -211,6 +323,20 @@
         "country": "china"
       },
       "sourceHash": "aa40c7fd9b1ab745ff40db671646223402c56765b985a33f20342ee6904b7b25",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "梯田层层弯曲的田埂形成丰富的节奏，中央斜向延伸的水田串联画面，右侧较宽的曲线与左侧细密的纹理形成对照，构图有较强的秩序感。高角度、几乎铺满画面的取景突出了土地的肌理，但各区域视觉分量接近，视线容易游移，缺少明确的落点。光线勾出了田埂的立体感和水面的银亮反光，不过左下反光偏抢眼，远处的蓝灰雾感也削弱了层次。土褐、灰蓝与零星绿色自然协调，但整体色彩略显平淡。主体表达清楚，梯田的规模与人工塑造的曲线颇有感染力，只是更偏向景观记录。最值得改进的是取景：收紧到中央斜向水田与右侧弧形梯田的关系，减少左下强反光和底部零碎区域，让曲线形成更集中的视觉中心。",
+          "en": "The curving terrace edges create a rich rhythm, while the diagonal chain of flooded paddies through the center connects the scene. Broad curves on the right contrast with finer textures on the left, giving the composition a strong sense of order. The elevated, nearly frame-filling view emphasizes the land’s texture, but similar visual weight across the image lets the eye wander without a clear resting point. The light gives the banks dimension and the water silvery reflections, though the lower-left glare draws too much attention and the distant blue-gray haze weakens tonal separation. Earth browns, gray blues, and scattered greens feel harmonious but somewhat subdued. The subject is clear, and the scale and human-shaped curves are compelling, although the image feels primarily descriptive. The most useful improvement would be tighter framing around the relationship between the central diagonal paddies and the sweeping terraces on the right, reducing the bright lower-left reflections and fragmented bottom edge to establish a more concentrated visual center.",
+          "ja": "幾重にも曲がる棚田の畦が豊かなリズムを生み、中央を斜めに連なる水田が画面をつないでいます。右側の大きな曲線と左側の細かな模様の対比には、構図としての秩序があります。高い視点から棚田でほぼ画面を埋めたことで土地の質感が際立つ一方、各部分の視覚的な重みが近く、視線が定まる場所はやや曖昧です。光は畦の立体感と水面の銀色の反射を引き出していますが、左下の反射が目立ちすぎ、遠景の青灰色の霞も階調の分離を弱めています。土の茶色、灰青色、点在する緑は自然に調和していますが、全体の色彩はやや地味です。棚田という主題は明快で、その規模と人の手が作った曲線には訴求力がありますが、印象は景観の記録に寄っています。最も改善したいのは切り取り方です。中央の斜めの水田と右側の大きくうねる棚田の関係に絞り、左下の強い反射と下端の細かな要素を減らすと、視覚的な中心がより明確になります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "c8b81207e3f07975e7efc8aba17df49c8f0b66ddc2a9f610a90e1d0de87e91e7",
+        "evaluatedAt": "2026-11-15T18:11:58.926Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00012.jpg",
         "width": 1920,
@@ -233,6 +359,20 @@
         "country": "china"
       },
       "sourceHash": "913ea2b36b33fee80074e84c0a9c36098bee875a6be0e2071b48f1ae20fbfd2d",
+      "aiReview": {
+        "score": 77,
+        "comments": {
+          "zh-CN": "梯田的弧线与水面反光构成了照片最有力的部分，从前景向村落延伸，让竖幅画面有明确的纵深；中部房屋及其倒影也提供了视觉落点。逆光下的山体层次和偏冷的蓝绿色调，传达出安静、清寒的乡村气息，右上角的阳光带来一点温度。不过，村落建筑较杂，右侧贴边的大楼略显拥挤，主体表达不够集中。最值得改进的是明暗分配：上方大片接近纯白的天空抢眼，下方村落和田埂却偏暗，细节与质感受到压制。拍摄时减少天空占比，并适度改善暗部层次，会让梯田与村落之间的关系更突出。整体构图扎实、氛围鲜明，但光比控制限制了感染力。",
+          "en": "The curved terraces and reflected sky are the photograph’s strongest elements, leading from the foreground toward the village and giving the vertical frame clear depth. The central house and its reflection also provide a visual anchor. Layered backlit mountains and cool blue-green tones convey a quiet, chilly rural atmosphere, with sunlight in the upper right adding some warmth. However, the village buildings are visually busy, and the large building pressed against the right edge feels cramped, weakening the subject’s focus. The main improvement would be the distribution of brightness: the broad, nearly white sky draws attention while the darker village and terrace banks lose detail and texture. Including less sky when framing and gently improving shadow separation would strengthen the relationship between the terraces and village. The composition is solid and the atmosphere distinctive, but the handling of contrast limits its emotional impact.",
+          "ja": "棚田の曲線と水面の反射が、この写真の最も魅力的な部分です。前景から集落へと視線を導き、縦位置の画面に明確な奥行きを生んでいます。中央の家屋とその映り込みも、視線の落ち着く場所になっています。逆光で重なる山並みと青緑寄りの冷たい色調が、静かで肌寒い山村の空気を伝え、右上の陽光がわずかな暖かさを添えています。一方、集落の建物はやや雑然としており、右端に接する大きな建物も窮屈で、主題への集中を弱めています。最も改善したいのは明暗の配分です。上部の広い、ほぼ白い空が目を引く一方、暗い集落や畦では細部と質感が埋もれています。撮影時に空の割合を減らし、暗部の階調を適度に整えると、棚田と集落の関係がより際立つでしょう。構図は堅実で雰囲気も明確ですが、明暗差の扱いが訴求力を抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "3cb1156f93c43298258a1923eeb87e2398bc4932de6e865b6c464b61a821fbe7",
+        "evaluatedAt": "2026-11-15T18:12:22.951Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00013.jpg",
         "width": 1280,
@@ -256,6 +396,20 @@
         "country": "china"
       },
       "sourceHash": "5674a105f224df41fbcbe2a727d20b3e02f91e96aa5f197f0c7dd099472e2923",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "构图以斜向铺开的茶园作前景，粉色花树连接中景，远山层层退后，空间层次清楚。云隙洒下的光束是最有吸引力的部分，让山谷具有安静而略带戏剧性的气氛；冷蓝山色与暖粉花树形成克制、自然的对照。不过前景茶园偏暗且占比稍大，天空的大片亮部也分散了视线，横穿花树的电线进一步干扰画面。主体表达因此更接近一幅有气氛的环境记录，尚缺少明确的视觉落点。最值得改进的是取景的集中度：适当减少底部茶园与顶部天空，让光束照射的山体和花树成为更紧凑的核心。整体光线和层次出色，但构图仍有精简空间。",
+          "en": "The diagonally spreading tea garden anchors the foreground, pink flowering trees connect the middle ground, and successive mountain ridges create clear depth. The shafts of sunlight through the clouds are the strongest feature, giving the valley a quiet yet slightly dramatic atmosphere; cool blue mountains and warm pink blossoms form a restrained, natural contrast. However, the dark tea garden occupies slightly too much space, broad bright areas in the sky divert attention, and wires crossing the flowering trees add distraction. The subject consequently reads more as an atmospheric landscape record than a clearly focused visual statement. The most useful improvement would be tighter framing: reduce some of the tea garden below and sky above so that the illuminated mountains and flowering trees form a more concentrated core. The light and depth are strong, but the composition could be simplified.",
+          "ja": "斜めに広がる茶畑が前景を支え、ピンクの花木が中景をつなぎ、幾重にも重なる山並みが明確な奥行きを生んでいます。最も魅力的なのは雲間から差す光で、谷に静けさとほのかな劇的効果を与えています。青みのある山々と暖かなピンクの花の対比も、控えめで自然です。ただし、暗い茶畑の面積がやや大きく、空の広い明部にも視線が分散します。花木を横切る電線も画面のまとまりを妨げています。そのため、主題を明確に見せるというより、雰囲気のある風景の記録という印象が強くなっています。最も改善したいのはフレーミングの集中度です。下部の茶畑と上部の空を少し減らし、光の当たる山と花木をより凝縮した中心にすると効果的でしょう。光と奥行きは優れていますが、構図には整理の余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "33bfc18b24c1bc0fbe9662228580e1e5cff70025ae052b856a989fabb5c28af9",
+        "evaluatedAt": "2026-11-15T18:12:43.876Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00014.jpg",
         "width": 1920,
@@ -280,6 +434,20 @@
         "country": "china"
       },
       "sourceHash": "251a99ecdf70d23c6efe3734745c4b914e05faf54beadb6e38be4eda67b24bb7",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "茶垄的弧线与右下方延伸的小路形成引导，粉红花树、深绿茶园和层叠蓝山构成鲜明而协调的色彩关系，远山的空气透视尤其出色，让画面兼有细节与辽阔感。侧逆光勾出了山谷层次，但前景阴影偏重，右上天空过亮，明暗分配稍显失衡。主体更偏向整片山地花园的景观，而非某个明确焦点；中央建筑和右侧停车带也削弱了自然景致的沉浸感。最值得改进的是取景：适当收紧上方天空与右侧区域，让花树和茶垄占据更明确的视觉重心。整体是一张层次丰富、色彩动人的风景照，但视觉凝聚力尚未达到优秀作品的程度。",
+          "en": "The curved tea rows and the path extending from the lower right guide the eye, while pink blossoms, deep green tea fields and layered blue mountains create a vivid yet harmonious palette. Atmospheric perspective in the distant mountains is particularly effective, giving the scene both detail and breadth. The back-side lighting reveals the valley’s layers, but heavy foreground shadows and the overly bright upper-right sky leave the tonal balance somewhat uneven. The subject is the mountain garden as a whole, with no single clear focal point; the central building and parking area on the right also weaken the sense of immersion in nature. The most valuable improvement would be tighter framing: reduce the sky and the right-hand area so the flowering trees and tea rows form a clearer visual center. This is a richly layered, colorful landscape, though its visual cohesion falls short of the excellent range.",
+          "ja": "茶畑の畝が描く曲線と右下から伸びる小道が視線を導き、ピンクの花、深緑の茶畑、幾重にも重なる青い山々が、鮮やかで調和のある配色を生んでいます。特に遠山の空気遠近感がよく、細部の豊かさと雄大さを両立しています。斜め後方からの光は谷の重なりを引き立てていますが、前景の影が重く、右上の空は明るすぎるため、明暗の配分にはやや偏りがあります。主題は山の庭園全体で、明確な一点に視線が定まりにくく、中央の建物と右側の駐車スペースも自然への没入感を弱めています。最も改善したいのはフレーミングです。上部の空と右側を適度に切り詰め、花木と茶畑の畝に視覚的な重心を置くと、よりまとまります。奥行きと色彩が魅力的な風景写真ですが、優秀作と呼ぶには画面の求心力がもう一歩です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "9f5318908a6c7933ec5ecdbbd4893a0fd27b0dd756f1ed8b00aa54e0693e6829",
+        "evaluatedAt": "2026-11-15T18:13:09.697Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00015.jpg",
         "width": 1920,
@@ -304,6 +472,20 @@
         "country": "china"
       },
       "sourceHash": "736a133faae5fc63b7ff0e3b76cb819e8f3c6709ce323858636b77bd2da62a19",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "前景弧形茶垄形成有力的引导线，粉色花树与深绿色茶园交错，远山逐层淡去，让画面兼具纹理、色彩和空间纵深。斜射的阳光强化了茶垄的立体感，云影也使山坡有明暗变化；但中景大片阴影略显沉闷，天空亮部则稍抢眼。主体表达以整片山地茶园的景观为主，规模感鲜明，却缺少一个能让视线停驻的明确中心，因此感染力更多来自铺陈，而非凝练的视觉重点。最值得改进的是取景：适当收紧画面，减少上方天空及远山的占比，让茶垄与花树成为更集中的主角。整体是一张色彩动人、层次丰富的风光照片，但视觉重心还可更明确。",
+          "en": "The curved tea rows create strong leading lines in the foreground, while pink flowering trees interwoven with deep green planting and progressively paler mountains give the image texture, colour and depth. Angled sunlight brings out the dimensional form of the rows, and cloud shadows add variation across the hills; however, the broad shaded middle ground feels somewhat subdued, while the bright sky draws a little too much attention. The subject is the mountain tea landscape as a whole, with a convincing sense of scale but no clear focal point where the eye can settle. Its impact therefore comes more from its expansive display than from a concentrated visual statement. The most useful improvement would be tighter framing: reduce the proportion of sky and distant mountains so the tea rows and flowering trees become a more concentrated subject. Overall, this is a landscape with appealing colour and rich layers, though its visual focus could be clearer.",
+          "ja": "前景の湾曲した茶畑の畝が力強く視線を導き、濃い緑の間に点在するピンクの花木と、奥へ行くほど淡くなる山並みが、質感、彩り、奥行きを生んでいます。斜めから差す日光は畝の立体感を引き出し、雲の影も山肌に明暗の変化を与えています。ただ、中景の広い日陰はやや沈んで見え、明るい空には少し視線を奪われます。山あいの茶園全体を主題とした雄大さは伝わりますが、視線が落ち着く明確な焦点に乏しく、印象の強さは凝縮された表現よりも景色の広がりによるものです。最も改善したいのはフレーミングです。上部の空と遠山の割合を減らし、茶畑の畝と花木をより集中的に見せるとよいでしょう。色彩が魅力的で幾重もの奥行きがある風景写真ですが、画面の中心となる要素をさらに明確にできます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "6e3a2250caedac0c26cc9a46352e53665b249c10b6c1a5c87c029af8e245a1a8",
+        "evaluatedAt": "2026-11-15T18:13:32.951Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00016.jpg",
         "width": 1920,
@@ -328,6 +510,20 @@
         "country": "china"
       },
       "sourceHash": "4ae202b5ea9977f53c11d88246c669506814982fd84f399e5bdf1a0b8b3fa051",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这张航拍的优势是粉红花树与深绿茶垄形成鲜明对照，梯田的弧线和蜿蜒道路让山坡具有丰富的节奏，也清楚呈现了花树散布茶园的景观特色。斜射的暖光照亮右侧山坡，与左侧偏蓝的阴影形成冷暖层次，整体有春日般的明快与开阔感。不过，画面各处细节较多，中央亮白建筑和道路比花树更抢眼，视线容易停在建筑群上；远山的雾感也使上部略显松散。最值得改进的是取景重心：适当收紧左侧和上方，把右下方茶垄曲线与花树作为主要视觉区域，并在拍摄时调整角度，降低中央建筑的存在感，会让主体更集中、感染力更强。整体属于色彩与地形表现出色，但视觉焦点仍可提炼的作品。",
+          "en": "The strength of this aerial photograph is the vivid contrast between pink flowering trees and dark green tea rows. The terraced curves and winding roads give the hillside a rich rhythm and clearly convey the distinctive landscape of blossoms scattered through a tea plantation. Warm, angled light on the right contrasts with the bluish shadows on the left, creating depth and an expansive, springlike brightness. However, detail competes throughout the frame, and the bright central buildings and roads attract more attention than the blossoms, pulling the eye toward the building complex. Haze also leaves the upper mountain area feeling somewhat loose. The most worthwhile improvement is a more focused framing: trim some of the left and upper areas, emphasize the tea-row curves and flowering trees at the lower right, and adjust the shooting angle to reduce the prominence of the central buildings. This would give the subject greater coherence and emotional impact. Overall, the color and terrain are strongly rendered, but the visual focus could be more refined.",
+          "ja": "この空撮の長所は、ピンクの花木と濃緑の茶畑が生む鮮やかな対比です。段々畑の曲線と曲がりくねった道が斜面に豊かなリズムを与え、茶園に花木が点在する景観の特徴もよく伝わります。右側を照らす斜めからの暖かな光と、左側の青みを帯びた影が奥行きを生み、春を思わせる明るさと広がりがあります。一方、画面全体に細部が多く、中央の白く明るい建物や道が花木よりも目立つため、視線が建物群に引き寄せられます。遠山の霞も、画面上部をやや散漫に見せています。最も改善したいのは、構図の重心です。左側と上部を少し切り詰め、右下の茶畑の曲線と花木を中心に据え、撮影時の角度で中央の建物の存在感を抑えると、主題がまとまり、印象も強まります。色彩と地形の表現は優れていますが、視線の焦点にはさらに磨く余地がある作品です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "c84449cf502bff8c743678aefcdac879b125daef2a41bbed0ad5f469b556306a",
+        "evaluatedAt": "2026-11-15T18:13:58.266Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00017.jpg",
         "width": 1920,
@@ -352,6 +548,20 @@
         "country": "china"
       },
       "sourceHash": "57442da3635cc15f0380f829eb0a62ffe2a42735debcac510653bd2cb1ffebe3",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "构图以近处茶垄和粉色花树铺开，再由山脊引向层叠远山，空间纵深出色；茶垄的弧线也为画面提供了细腻的节奏。逆光与山间薄雾形成柔和的蓝色层次，粉花与青绿茶园的冷暖对照自然，是照片最有吸引力的部分。不过，天空偏亮，前景阴影较重，花树的鲜活感有所削弱；山顶建筑、停车区域和左下小屋也分散了注意力，使主体停留在一片漂亮景观，缺少更明确的视觉落点。整体开阔、清雅，感染力主要来自景色与色彩。最值得改进的是取景：适当收紧画面，减少上方亮天空和左侧零散景物，让花树与弧形茶垄占据更明确的主导位置，同时保留远山的层次。",
+          "en": "The foreground tea rows and pink flowering trees lead into successive mountain ridges, creating excellent depth, while the curved rows give the image a delicate rhythm. Backlight and haze produce soft blue layers, and the warm pink blossoms against the cool green plantation are the photograph’s strongest attraction. However, the bright sky and heavy foreground shadows reduce the blossoms’ vitality. The hilltop buildings, parking area and small house at lower left also compete for attention, leaving a beautiful landscape without a clear visual anchor. The overall mood is expansive and serene, with its impact coming chiefly from the scenery and colour. The most valuable improvement would be tighter framing: reduce the bright sky and scattered details on the left, giving the flowering trees and curved tea rows greater prominence while retaining the layered mountains.",
+          "ja": "手前の茶畑の畝とピンクの花木から、幾重にも重なる遠山へと視線が進み、奥行きがよく表現されています。畝の曲線も画面に繊細なリズムを与えています。逆光と山あいの霞が柔らかな青の階調を生み、ピンクの花と青緑の茶畑の暖冷対比が、この写真の最も魅力的な部分です。一方、空が明るく、前景の影が重いため、花の生き生きとした印象はやや弱まっています。山頂の建物や駐車場、左下の小屋にも注意が分散し、美しい景観ではあるものの、視線を留める中心が少し曖昧です。全体として広がりと静けさがあり、風景と色彩が主な訴求力になっています。最も改善したいのはフレーミングです。上部の明るい空と左側の散漫な要素を少し減らし、遠山の重なりを残しながら、花木と曲線を描く茶畑をより明確な主役にするとよいでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d2adad35d07ad171e0fd683a1ba0d42efbeb766be5b873f6f293b611b7b6f4fc",
+        "evaluatedAt": "2026-11-15T18:14:21.586Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00018.jpg",
         "width": 1920,
@@ -375,6 +585,20 @@
         "country": "china"
       },
       "sourceHash": "6350cc675a14c532ed3aaae37c33124b88596735ee1fb8f8799b14fe041c289b",
+      "aiReview": {
+        "score": 86,
+        "comments": {
+          "zh-CN": "这张照片最出色的是逆光下的空间层次：前景茶垄、中景花树与薄雾、远处逐渐淡去的山脊，让画面有很好的纵深。左侧红花形成自然边框，与右侧金色天光相互呼应；冷蓝天空和暖红花木的对照，也强化了清晨般的清透与温暖。天空中的云层有变化，使大面积留白并不空洞，散落的人物则提供了尺度与生活气息。不足在于视觉中心稍显分散：左侧鲜艳而密集的花枝很抢眼，下方多株树木和人物又同时争夺注意力，使山间光雾这一最动人的部分未能完全成为主角。最值得改进的是收紧取景，适当减少左侧花枝和底部较暗茶垄的占比，让视线更集中于被暖光照亮的山谷。整体光色优美、氛围鲜明，但构图还可以更有取舍。",
+          "en": "The photograph’s strongest quality is its depth in backlight: foreground tea rows, flowering trees and mist in the middle distance, and progressively paler mountain ridges create a convincing sense of space. Red blossoms on the left form a natural frame and echo the golden light on the right; the contrast between the cool blue sky and warm red foliage adds clarity and warmth reminiscent of early morning. Varied clouds keep the large expanse of sky engaging, while scattered figures provide scale and a sense of everyday life. The weakness is a somewhat divided visual focus: the bright, dense blossoms on the left draw strong attention, while several trees and people below also compete, preventing the luminous mountain mist—the most compelling element—from fully taking the lead. The most useful improvement would be tighter framing, reducing the share of blossoms on the left and dark tea rows at the bottom to concentrate attention on the warmly lit valley. Beautiful light and colour give it a distinct atmosphere, though the composition could be more selective.",
+          "ja": "この写真の最大の魅力は、逆光が生む奥行きです。手前の茶畑の畝、中景の花木と薄霧、遠くなるほど淡くなる山並みが、豊かな空間を感じさせます。左側の赤い花は自然な額縁となり、右側の金色の光と呼応しています。青く涼やかな空と暖かな赤い木々の対比も、早朝を思わせる透明感とぬくもりを強めています。雲に変化があるため広い空も単調にならず、点在する人物は風景の大きさと暮らしの気配を伝えています。一方、視線の中心はやや分散しています。左側の鮮やかで密集した花が強く目を引き、下部の複数の木や人物にも注意が向くため、最も魅力的な山あいの光と霧が主役になりきれていません。最も改善したいのは画角の整理です。左側の花枝と下端の暗い茶畑の割合を少し減らせば、暖かな光に包まれた谷へ視線が集まります。光と色が美しく、雰囲気も鮮明ですが、構図にはもう一段の取捨選択がほしい一枚です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d4ad59ac04800a255dbabc524b0cd63a6e6893a634d739e14c38427b2ad657ad",
+        "evaluatedAt": "2026-11-15T18:14:50.912Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00019.jpg",
         "width": 1920,
@@ -400,6 +624,20 @@
         "country": "china"
       },
       "sourceHash": "3a096ebcc16c76321bb87b8be826aa9c48ff7b373b030ba84189ffdab812c056",
+      "aiReview": {
+        "score": 86,
+        "comments": {
+          "zh-CN": "茶垄的弧线、左侧近景花枝与层叠远山构成了清楚的空间层次，右侧贴着山脊的太阳又与左侧繁花形成呼应。逆光照亮花瓣，山谷中的薄雾强化了纵深，冷蓝山影与暖橙霞光的对比很有感染力。主体表达更偏向“花开茶山的晨昏气氛”，而非某一株树，整体成立。最值得改进的是色彩处理：粉红与洋红偏浓，尤其左侧花枝过于抢眼，与太阳争夺注意力，也削弱了山谷本来的细腻感。适度降低花朵的饱和度和局部对比，会让视线更顺畅地进入远山。画面光线和层次出色，但色彩略显用力，因此评为86分。",
+          "en": "The curved tea rows, close blossom branches on the left, and receding mountains establish clear spatial depth, while the sun touching the ridge on the right counterbalances the mass of flowers. Backlighting illuminates the petals, mist deepens the valley, and the contrast between cool blue mountains and warm orange sky gives the scene considerable emotional impact. The subject is the atmosphere of flowering tea hills around sunrise or sunset rather than any single tree, and that approach works. The most worthwhile improvement is the colour treatment: pinks and magentas feel too intense, especially in the left-hand branches, competing with the sun and diminishing the valley’s subtlety. Moderately reducing blossom saturation and local contrast would lead the eye more naturally toward the distant mountains. Excellent light and depth, with somewhat heavy-handed colour, earn it 86.",
+          "ja": "茶畑の畝の曲線、左手前の花枝、幾重にも続く遠山が明快な奥行きをつくり、右の稜線に接する太陽が左側の豊かな花と呼応しています。逆光に透ける花びらと谷間の薄霧が立体感を深め、青い山影と暖かなオレンジ色の空の対比にも強い情感があります。主題は一本の木というより、日の出か日没の頃の、花咲く茶山の空気感として伝わっています。最も改善したいのは色の仕上げです。ピンクやマゼンタが強く、特に左の花枝が太陽と視線を奪い合い、谷の繊細さを弱めています。花の彩度と局所的なコントラストを適度に抑えると、遠山へより自然に視線が流れるでしょう。光と奥行きは秀逸ですが、色の強調がやや過剰なため、86点と評価します。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a8eb97599a8285a04a7583b7c1bf6a3dac80841d951b2d57e5c51f3cf59a790a",
+        "evaluatedAt": "2026-11-15T18:15:15.006Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-12_china_yunnan/00020.jpg",
         "width": 1920,

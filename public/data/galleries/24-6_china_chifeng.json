@@ -19,6 +19,20 @@
         "country": "china"
       },
       "sourceHash": "c71f242c40188141c434f630f8b87c638d19ea19acc3410ebbc591179505cd16",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "画面以水面、草丘和天空形成清晰的横向层次，云影与前景水草增加了空间感，岸边的马群也为辽阔景色提供了尺度和生活气息。日光让草丘的起伏与云层细节较为清楚，但光线偏直白，缺少更有表现力的明暗变化。蓝绿配色鲜明统一，不过饱和度偏高，尤其蓝色水面略显浓重。构图最值得改进的是主体的分量：水面占据过半画幅，而马群很小，视线容易停留在大片蓝色中。适当收紧取景、减少下方水面，让马群与丘陵的关系更突出，会增强视觉重心和感染力。整体是一张舒展、悦目的风景照片，但主体表达还不够鲜明。",
+          "en": "The water, grassy hills and sky create clear horizontal layers, while cloud reflections and foreground reeds add depth. The horses along the bank give the expansive landscape scale and a sense of life. Daylight renders the hill contours and cloud detail clearly, but feels fairly straightforward, with limited expressive variation in light and shadow. The blue-green palette is vivid and cohesive, though saturation is somewhat high, particularly in the heavy blue water. The main improvement concerns the subject’s visual weight: water occupies more than half the frame, while the horses remain small, so attention tends to linger in the broad blue area. A tighter composition with less water at the bottom would emphasize the relationship between the horses and hills, strengthening focus and impact. Overall, this is a spacious, pleasing landscape, but its subject could be expressed more distinctly.",
+          "ja": "水面、草地の丘、空が明快な横の層をつくり、雲の映り込みと手前の水草が奥行きを加えています。岸辺の馬たちも、広大な風景にスケール感と暮らしの気配を添えています。日中の光で丘の起伏や雲の細部はよく見えますが、光はやや平板で、陰影の表情には物足りなさがあります。青と緑の配色は鮮やかで統一感がある一方、彩度は少し高く、特に水面の青が重く感じられます。最も改善したいのは主題の存在感です。水面が画面の半分以上を占めるのに対し、馬たちは小さく、広い青の領域に視線がとどまりがちです。下部の水面を減らして構図を絞り、馬と丘の関係を際立たせると、視線の中心と訴求力が強まるでしょう。全体として開放的で心地よい風景写真ですが、主題の表現にはもう一段の明確さがほしいところです。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "86c7e030508b83a5fc80ed06019709de5162410d180d56b2e99a546e12e96046",
+        "evaluatedAt": "2026-11-15T17:44:57.646Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/24-6_china_chifeng/00002.jpg",
         "width": 1920,
@@ -43,6 +57,20 @@
         "country": "china"
       },
       "sourceHash": "93774aeabbf18bf92b96b348f94981ff48ad0762193b667962bde8900f7e108f",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "银河从左上斜贯至中下部，形成明确的视觉动线；低置的地平线把大部分画面留给星空，小帐篷则提供了尺度和露营的叙事。银河尘带层次可辨，地景仍保留细节，整体有开阔、安静的感染力。冷蓝青色与银河的淡紫色协调，但天空偏亮、青色略重，削弱了夜空的深邃感；地平线上的亮点也会分散注意力。最值得改进的是局部光线控制：适度压暗地平线光晕和天空背景，同时保留银河亮部与尘带的层次，让银河更集中地成为视觉主体。",
+          "en": "The Milky Way runs diagonally from the upper left toward the lower centre, creating a clear visual path. The low horizon gives the sky ample space, while the small tent adds scale and a camping narrative. The galactic dust lanes are discernible, and the landscape retains detail, giving the image an expansive, quiet appeal. Cool cyan-blue tones harmonize with the Milky Way’s pale violet, but the bright sky and somewhat heavy cyan cast reduce the sense of nighttime depth; bright points along the horizon also distract. The most valuable improvement would be local light control: moderately darken the horizon glow and sky background while preserving detail in the Milky Way’s highlights and dust lanes, making it a more concentrated visual focal point.",
+          "ja": "天の川が左上から中央下部へ斜めに伸び、明確な視線の流れを生んでいます。低く置いた地平線が星空に十分な広がりを与え、小さなテントがスケール感とキャンプの物語を添えています。天の川の暗黒帯が読み取れ、地上にも細部が残っており、広々とした静けさが伝わります。冷たい青やシアンと天の川の淡い紫は調和していますが、空の明るさとやや強いシアンが夜空の奥深さを弱め、地平線上の光点も視線を散らします。最も改善したいのは局所的な明るさの調整です。地平線の光のにじみと空の背景を適度に抑え、天の川の明部と暗黒帯の階調を保つことで、主役への視線をより集中させられます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "358542633049cc306d3563fe1e14786bfa923c6e10acf88632c07c7f7fad121e",
+        "evaluatedAt": "2026-11-15T17:45:18.413Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/24-6_china_chifeng/00003.jpg",
         "width": 1920,

@@ -19,6 +19,20 @@
         "country": "japan"
       },
       "sourceHash": "6368d2d8ba038dd1883baccdc4f6fbc4e83a430d8de5ad6c58e6e47a340d1989",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "鹿直视镜头，竖起的双耳与清楚的眼神带来亲近感，是照片最有吸引力的部分。两侧石碑形成框景，左侧刻字与背景青苔也让环境具有辨识度。柔和的散射光保留了毛发和石材的质感，灰褐与苔绿的配色自然、沉静，但明暗层次稍平，鹿的身体与背景分离不足。最值得改进的是画面各部分的视觉分量：左侧石碑占幅较大，下方身体又在边缘截断，使画面略显拥挤。拍摄时稍微调整机位、减少左侧石碑占比，并更明确地取舍半身或全身，会让注意力更集中在鹿的神态上。整体是一张有现场气息、主体生动的动物肖像，但构图的凝练程度仍有提升空间。",
+          "en": "The deer’s direct gaze, upright ears and clearly visible eyes create a sense of connection and are the photograph’s strongest attraction. The stone monuments frame it on both sides, while the inscription on the left and moss behind it give the setting a distinct character. Soft, diffuse light preserves texture in the fur and stone, and the grey-brown and moss-green palette feels natural and quiet. However, the tonal separation is somewhat flat, leaving the deer’s body insufficiently distinct from the background. The main improvement would be the balance of visual weight: the left monument occupies considerable space, while the body is cut off at the bottom, making the composition feel slightly cramped. A small change in viewpoint to reduce the left monument’s share, along with a more deliberate choice between a partial and full-body portrait, would focus attention more firmly on the deer’s expression. This is a lively animal portrait with a strong sense of place, though the composition could be more refined.",
+          "ja": "こちらを見つめる鹿の視線と立った両耳、はっきり見える目が親近感を生み、この写真のいちばんの魅力になっています。左右の石碑が額縁の役割を果たし、左の刻字と背景の苔が場所の個性も伝えています。柔らかな拡散光は毛並みと石の質感を保ち、灰褐色と苔の緑の組み合わせも自然で落ち着いています。一方、明暗の変化はやや平坦で、鹿の胴体が背景に埋もれ気味です。最も改善したいのは画面内の視覚的な重みの配分です。左の石碑が大きな面積を占め、胴体も下端で切れているため、少し窮屈に感じます。撮影位置を少し変えて左の石碑の占める割合を減らし、半身か全身かをより明確に選ぶと、鹿の表情に視線が集まりやすくなります。場所の空気と生き生きした姿が伝わる動物ポートレートですが、構図をさらに整理する余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "9839f994d85a608d373e891c212659a3082c31a997027caaa66c958379cf011c",
+        "evaluatedAt": "2026-11-15T17:33:48.725Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/24-1_japan_nara/00001.jpg",
         "width": 1920,

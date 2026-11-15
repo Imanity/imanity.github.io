@@ -8,6 +8,7 @@ import {
   useState,
 } from 'react'
 import type { Photo } from '@imanity/tabi-gallery'
+import { parsePhotoAiReview } from '@imanity/tabi-gallery'
 
 type GalleryManifestEntry = {
   id: string
@@ -255,6 +256,7 @@ function parsePhoto(
     tags,
     location,
     sourceHash: typeof value.sourceHash === 'string' ? value.sourceHash : undefined,
+    aiReview: parsePhotoAiReview(value.aiReview),
     image: {
       src: requireString(value.image.src, `Photo ${index + 1} image src`),
       srcSet: typeof value.image.srcSet === 'string' ? value.image.srcSet : undefined,

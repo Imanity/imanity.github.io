@@ -74,6 +74,15 @@ npm run tools:gallery -- --open
 
 The manager can create and switch galleries, import additional batches, preview images, and edit JSON metadata with autosave.
 
+New imports also queue AI reviews through your signed-in Codex CLI. In the manager's
+**AI photo reviews** section, customize the critique prompt, check the login, and
+manage automatic evaluation, retries, and existing-photo reviews. Settings/tasks
+stay in the ignored `.tabi-gallery/` directory; scores/comments are saved in photo
+JSON and published with the site. Each evaluation includes Chinese, English and
+Japanese text with one shared score; the detail view follows the page language.
+Use `--no-ai` on `tools:images` to skip evaluation.
+See [AI review setup and commands](../tabi-gallery/docs/ai-photo-reviews.md).
+
 ## Git LFS
 
 Common binary image and video formats are configured for Git LFS through `.gitattributes`. SVG files remain in regular Git so they can be reviewed as text.

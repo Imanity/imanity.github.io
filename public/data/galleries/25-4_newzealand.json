@@ -20,6 +20,20 @@
         "country": "newzealand"
       },
       "sourceHash": "f5cbafb91b578412df4cf25b4b389dd409f3bc2d2e14bab3e35cfaf6f8f34ede",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "前景海豹扑水的瞬间和后方海豹昂首的姿态形成动静呼应，飞溅的水珠带来现场感，两个主体的前后层次也很清楚。柔和的阴天光保留了湿润皮毛与水面的质感，灰蓝、墨绿的低饱和色彩协调，符合海岸环境的清冷气息。不过，主体面部偏暗，眼神交流较弱，上方大片明亮而平淡的水面又分散了注意力，使整体感染力更多来自可爱的动作，而非凝练的视觉表达。最值得改进的是构图：适度裁去上方空白，保留前景水花及左侧海豹的抬头空间，让两个姿态之间的联系更集中。",
+          "en": "The foreground seal splashing through the water contrasts nicely with the raised, still pose of the seal behind it. Flying droplets give the scene immediacy, and the two subjects establish clear depth. Soft overcast light preserves texture in the wet fur and water, while muted blue-grey and dark green tones suit the cool coastal atmosphere. However, the faces are dark and eye contact is limited. The large, bright, largely featureless area of water above them also draws attention away, so the image’s appeal comes more from the charming action than from a tightly resolved composition. The most useful improvement would be to crop some of the empty upper area, retaining the foreground splash and room above the left seal’s raised head to concentrate the relationship between the two poses.",
+          "ja": "手前のアザラシが水を跳ね上げる動きと、奥の一頭が頭を上げた静かな姿がよい対比になっています。飛び散る水滴には臨場感があり、二頭の前後関係も明瞭です。曇天の柔らかな光は濡れた毛や水面の質感を残し、青みのある灰色と深い緑の控えめな色調も、海岸のひんやりした空気に合っています。一方、顔が暗く、目の表情は伝わりにくいです。上部に広がる明るく変化の少ない水面も視線を散らすため、全体の魅力は構図の凝縮感より、動作の愛らしさに支えられています。最も改善したいのは構図です。手前の水しぶきと左の一頭が頭を上げる余地を残しながら、上部の余白を適度に切り詰めると、二つの姿の関係がより強く伝わります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a90293b9a4c982e77ccf812b1223e312c84feeb65be085fc4de65a39ce5c5aa3",
+        "evaluatedAt": "2026-11-15T17:11:07.621Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00001.jpg",
         "width": 1920,
@@ -44,6 +58,20 @@
         "country": "newzealand"
       },
       "sourceHash": "76c8a506bd3ed90a1a56fcfc09bc45eb1b31b19564599bcfa3bca9bcd2fa97a9",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "这张照片的优势是抓住了两只动物互动的瞬间：左侧个体向上挺起，右侧个体仰头回应，身体的斜线与飞溅的水花形成鲜明动势，湿润皮毛的质感也很突出。主体朝向右上方，前方留白基本舒服，但下方水面略多，上沿的碎石岸线有些分散注意力。光线柔和，水花细节清楚，不过深色身体的阴影较重，眼部不够醒目，使互动的情绪表达稍弱。蓝黑色皮毛与青绿色水面协调，冷色调强化了现场的清凉感，但主体与背景的明度分离还可以更好。整体是一张有现场感、动作表现强的野生动物照片。最值得改进的是局部提亮头部与眼周的暗部，同时保留皮毛的黑色层次，让视线更快落到两者的互动上。",
+          "en": "The photograph’s strength is the moment of interaction: the animal on the left rises while the one on the right looks up toward it. Their diagonal forms and the flying spray create strong movement, and the wet fur has striking texture. There is comfortable space toward the upper right, where the main subject faces, although the lower water takes up slightly too much room and the stony shoreline along the top is distracting. Soft light preserves clear detail in the splashes, but heavy shadows on the dark bodies leave the eyes less prominent, weakening the emotional connection slightly. Blue-black fur and teal water work well together, giving the scene a cool atmosphere, though greater tonal separation would help the subjects stand out. Overall, this is a strong wildlife photograph with immediacy and energetic action. The most useful improvement would be to selectively lift the shadows around the heads and eyes while preserving the rich blacks, drawing attention more directly to the interaction.",
+          "ja": "この写真の強みは、左の個体が体を起こし、右の個体がそれを見上げる、やり取りの瞬間を捉えている点です。体がつくる斜線と飛び散る水しぶきが躍動感を生み、濡れた毛の質感も印象的です。主役が向く右上には適度な余白がありますが、下部の水面はやや多く、上端の石だらけの岸辺も少し目を引きます。柔らかな光で水しぶきの細部はよく見える一方、暗い体の陰影が深く、目が目立たないため、やり取りの感情がやや伝わりにくくなっています。青黒い毛と青緑の水面は調和し、涼やかな空気感がありますが、被写体と背景の明暗差はもう少し欲しいところです。全体として、臨場感と動きの表現に優れた野生動物写真です。最も改善したいのは、黒の階調を保ちながら頭部と目の周囲の暗部を部分的に明るくし、二頭のやり取りへ視線を導くことです。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "8d21c6e0f82b143e01b16428dc21c651a700e2a5b0f10d43b01f3f25a56db929",
+        "evaluatedAt": "2026-11-15T17:11:35.066Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00002.jpg",
         "width": 1920,
@@ -68,6 +96,20 @@
         "country": "newzealand"
       },
       "sourceHash": "3e646f51500f9724821b96dbf2524a804bea838a3cdb26a22aa4ea6eee0c1924",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "构图最出色的是海鸥、倒影与沙纹之间的呼应：主体位于画面右侧，左侧留白顺着它的朝向展开，前景细密的纹理又为平静场景增加了节奏。迈步的姿态和脚边涟漪让画面有轻微的动态，倒影也保留得完整。柔和的侧光使白色羽毛呈现层次，冷蓝色水面与红色喙、脚形成克制而有效的对比。主体清楚，但情绪主要来自宁静的环境，视觉冲击力不算突出。最值得改进的是上方留白的比例：大面积亮水面的信息较少，略微分散注意力；适度裁去顶部，保留左侧空间和完整倒影，会让视线更集中，构图更紧凑。",
+          "en": "The strongest compositional feature is the interplay between the gull, its reflection and the sand ripples. Placing the bird on the right leaves space in the direction it faces, while the fine foreground textures give the quiet scene rhythm. Its stepping pose and the ripples around its feet add gentle movement, and the reflection is fully retained. Soft side light gives the white plumage dimension, with the red bill and legs providing a restrained, effective contrast against the cool blue water. The subject reads clearly, though the mood comes mainly from the peaceful setting rather than striking visual impact. The most useful improvement would be to reduce the space above: the broad expanse of bright water carries little information and slightly disperses attention. A modest crop from the top, preserving the space on the left and the full reflection, would focus the eye and tighten the composition.",
+          "ja": "構図のいちばんの魅力は、カモメとその映り込み、砂の波模様の呼応です。右側に置いた鳥の向く先に余白が広がり、前景の細かな模様が静かな情景にリズムを与えています。歩く姿と足元の波紋には穏やかな動きがあり、映り込みも全体が収まっています。柔らかな横からの光が白い羽に立体感を与え、赤いくちばしと脚が冷たい青の水面に対して控えめながら効果的なアクセントになっています。主役は明確ですが、印象の中心は穏やかな環境にあり、強い視覚的インパクトまではありません。最も改善したいのは上部の余白の量です。明るい水面が広く、情報が少ないため、視線がやや散ります。左側の空間と映り込み全体を残しつつ上部を少し切り詰めると、視線が集中し、構図が引き締まります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a8298100da404a93107e31dbef30ff7f538a6d4149b650c1fd27d699ea95de7c",
+        "evaluatedAt": "2026-11-15T17:11:55.499Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00003.jpg",
         "width": 1920,
@@ -91,6 +133,20 @@
         "country": "newzealand"
       },
       "sourceHash": "2f0b2589c6956dc069d2714d4c8f18c4c8437239274e9d2b1bab5c18bc59b50e",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这张海滩风景的优势在于平静而连贯的空间感：右侧弧形浪线把视线带向远处海岸，湿沙上的倒影与天空呼应，细密水纹也让前景有了质感。柔和的侧光给岩壁添上暖色，与蓝色天空、海水及深绿植被形成自然对照，亮部层次保留良好。不过，山坡和倒影偏暗，大片天空与前景虽营造了开阔感，也稀释了视觉重心；淡淡的彩虹是有趣的细节，却不足以成为明确主体。整体舒展、安静，但感染力更多来自环境氛围，缺少一个让目光停留的突出点。最值得改进的是构图取舍：适当裁去上方天空和底部较空的水面，让弧形浪线、岩壁与倒影占据更大比例，画面会更集中。",
+          "en": "The strength of this beach landscape is its calm, coherent sense of space: the curving wave on the right leads the eye toward the distant coast, reflections in the wet sand echo the sky, and fine ripples give the foreground texture. Soft sidelight adds warmth to the cliffs, creating a natural contrast with the blue sky and water and the dark green vegetation, while retaining good highlight detail. However, the hills and their reflections are rather dark, and the large areas of sky and foreground dilute the visual focus even as they convey openness. The faint rainbow is an appealing detail, but it is not strong enough to establish a clear subject. The overall feeling is spacious and tranquil, with its impact resting more on atmosphere than on a compelling point of attention. The most useful improvement would be tighter framing: trim some sky and the relatively empty water at the bottom so the curved wave, cliffs and reflections carry more weight.",
+          "ja": "この海辺の風景の長所は、穏やかでまとまりのある奥行きです。右側の弧を描く波が遠くの海岸へ視線を導き、濡れた砂浜の映り込みが空と呼応し、細かな波紋が前景に質感を与えています。柔らかな斜光が崖に暖色を添え、青い空や水面、深緑の植生と自然な対比をつくっています。明るい部分の階調もよく残っています。一方、丘とその映り込みはやや暗く、広い空と前景は開放感を生むと同時に、視線の集中を弱めています。淡い虹は魅力的な細部ですが、明確な主題となるほどの存在感はありません。全体として伸びやかで静かな写真ですが、印象は主に雰囲気に支えられ、目を留める強い焦点には欠けます。最も改善したいのは構図の絞り込みです。上部の空と下部の変化が少ない水面を少し切り、弧状の波、崖、映り込みの比重を高めると、画面がより引き締まります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "df4aeab36f507f19114ad24058783aa0d7153ba3b774197de96eeac0f16867be",
+        "evaluatedAt": "2026-11-15T17:12:22.328Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00004.jpg",
         "width": 1920,
@@ -115,6 +171,20 @@
         "country": "newzealand"
       },
       "sourceHash": "99917ac771b98fbfe08ee3492b9c900dd20142bf46ffa8f39e6630ff9980e385",
+      "aiReview": {
+        "score": 77,
+        "comments": {
+          "zh-CN": "两只鸟前后错落，朝向一致，与水中的倒影形成有节奏的呼应；一只缩颈蓬羽、一只挺立的姿态差异，也让画面有了细微的趣味。蓝色浅水与暖褐色反光搭配自然，橙色鸟喙提供了醒目的色彩焦点。光线足以交代羽毛和水纹，但白羽局部偏亮，质感稍弱，整体光影也比较平直。主体表达清楚，氛围安静，不过两只鸟在画面中占比偏小，上方水面较多且波纹略分散注意力，使感染力更多停留在舒服、耐看，而非强烈。最值得改进的是取景：适当收紧画幅，尤其裁去部分上方水面，同时保留完整倒影及鸟喙朝向的空间，会让两只鸟的姿态关系更突出。",
+          "en": "The staggered placement of the two birds, both facing the same direction, creates a rhythmic relationship with their reflections. Their contrasting postures—one hunched and fluffed up, the other upright—add a subtle point of interest. Blue shallows and warm brown reflections work naturally together, while the orange bills provide vivid colour accents. The light reveals feathers and water ripples, although parts of the white plumage are rather bright and lose some texture; the lighting overall feels fairly flat. The subjects read clearly and the atmosphere is peaceful, but the birds occupy a relatively small portion of the frame. The extensive water above them and its ripples dilute attention, making the photograph pleasant and quietly engaging rather than striking. The most useful improvement is tighter framing: remove some of the upper water while retaining the full reflections and space in the direction the birds face, bringing their contrasting postures into stronger focus.",
+          "ja": "前後にずれた二羽が同じ方向を向き、水面の映り込みとリズムのある関係をつくっています。首を縮めて羽を膨らませた一羽と、すっと立つ一羽の姿勢の違いにも、ささやかな面白さがあります。浅瀬の青と暖かな褐色の反射は自然に調和し、オレンジ色のくちばしが鮮やかなアクセントになっています。光は羽毛や水の波紋を描き出していますが、白い羽の一部は明るすぎて質感がやや弱く、全体の光の表情も比較的平坦です。被写体は明確で穏やかな雰囲気がありますが、画面に占める鳥の割合が小さく、上部に広がる水面と波紋が視線を分散させています。そのため、強く引きつけるというより、心地よく静かに眺められる写真です。最も改善したいのはフレーミングです。映り込み全体と鳥が向く先の余白を残しつつ、上部の水面を少し切り詰めると、二羽の姿勢の対比がより際立ちます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "6481f05ac5405ea79b2df8d47006140d6a37f7460390890aa33756b569c8096d",
+        "evaluatedAt": "2026-11-15T17:12:48.633Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00005.jpg",
         "width": 1920,
@@ -138,6 +208,20 @@
         "country": "newzealand"
       },
       "sourceHash": "5c7755dee943dc1479a4f5172daa959f36e696f2ba39ab1496fa644bacdb20ac",
+      "aiReview": {
+        "score": 83,
+        "comments": {
+          "zh-CN": "构图最出色的是左侧奔跑人物与右侧海蚀拱门的呼应：人物提供尺度和动感，岩石与倒影形成稳定的视觉重心，开阔的海滩让画面有呼吸感。光线较柔和，浪花和湿沙纹理保留良好，但岩石背光面偏暗，层次略显沉重。蓝灰色调统一，衣服上的蓝色也与海天呼应，不过天空的蓝色稍浓。主体表达清楚，人物让壮阔风景多了一份轻快和旅行的临场感。最值得改进的是天空占比偏大，上方较空的区域削弱了人物与岩石的联系；适度裁去顶部，会使视觉重点更集中。整体是一张有感染力的旅行风光照片，但光线的戏剧性和画面的凝练程度尚未达到优秀档。",
+          "en": "The strongest compositional feature is the interplay between the runner on the left and the sea arch on the right: the person adds scale and movement, while the rocks and their reflections provide a stable visual anchor. The open beach gives the scene room to breathe. The light is fairly soft, preserving detail in the surf and wet sand, but the shaded rock faces feel somewhat dark and heavy. The blue-grey palette is cohesive, and the blue clothing echoes the sea and sky, though the sky's blue is slightly intense. The subject reads clearly, with the runner bringing lightness and a sense of being there to the expansive landscape. The most useful improvement would be to reduce the sky: the relatively empty upper area weakens the connection between the person and the rocks, and a modest crop from the top would concentrate attention. This is an engaging travel landscape, though its lighting and compositional economy fall short of the excellent tier.",
+          "ja": "構図で最も優れているのは、左の走る人物と右の海食アーチの呼応です。人物がスケール感と動きを与え、岩とその映り込みが安定した視覚的な重心をつくっています。広い砂浜にも心地よい余白があります。光は比較的柔らかく、波や濡れた砂の質感はよく残っていますが、岩の陰側は暗く、やや重く感じられます。青とグレーを基調とした色彩には統一感があり、服の青も海や空と響き合っています。ただ、空の青は少し強めです。主題は明快で、人物が雄大な風景に軽快さと旅の臨場感を加えています。最も改善したいのは空の割合です。変化の少ない上部が人物と岩のつながりを弱めているため、上を適度に切り詰めると視線がより集中します。印象に残る旅の風景写真ですが、光のドラマ性と構図の引き締まりには、さらに磨く余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "8aa1229dc1b8ef1a1e5ad725537eddae56ccfa828a9a7d4848eaebf9109cd9e8",
+        "evaluatedAt": "2026-11-15T17:13:15.572Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00007.jpg",
         "width": 1920,
@@ -161,6 +245,20 @@
         "country": "newzealand"
       },
       "sourceHash": "cff95f37c59b9d61436bc7409b81196b62330842665fd392933239158271951c",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "洞口形成有力量的天然画框，将视线引向海中的两座岩柱；近处洞壁、沙滩与远处海面层次清楚，右侧岩柱更高的轮廓也让画面有主次。洞壁的粗粝纹理与柔软云层、平静海滩形成鲜明对照，蓝灰色调自然统一，整体有从幽暗走向开阔的空间感染力。不过，顶部、右侧及底部阴影占比偏大，尤其下方大片暗沙滩提供的信息有限，削弱了岩柱的视觉分量。最值得改进的是适度裁去底部暗部，让洞口仍保有包围感，同时使两座岩柱更突出。明暗反差带来气氛，但部分洞壁暗部细节不足，外部光线也较平，尚未形成更鲜明的光线焦点。",
+          "en": "The cave opening creates a powerful natural frame that directs the eye toward the two sea stacks. The nearby rock, beach and distant sea establish clear depth, while the taller stack on the right gives the subjects a useful hierarchy. Rough cave textures contrast effectively with soft clouds and the quiet beach; the blue-grey palette feels natural and cohesive, conveying the experience of looking out from darkness into an open landscape. However, shadow occupies too much of the top, right and bottom, particularly the broad stretch of dark foreground sand, which adds little information and reduces the stacks’ visual weight. The most valuable improvement would be a modest crop from the bottom, preserving the enclosing cave frame while making the stacks more prominent. The tonal contrast creates atmosphere, but some cave shadows lack detail, and the fairly flat light outside does not establish a stronger lighting focal point.",
+          "ja": "洞窟の開口部が力強い自然の額縁となり、海に立つ二つの岩へ視線を導いています。手前の岩壁、砂浜、遠くの海が明確な奥行きをつくり、右の岩がより高いことで主役同士にも強弱が生まれています。荒々しい岩肌と柔らかな雲、穏やかな浜辺の対比が効果的で、青灰色を中心とした色調も自然にまとまっています。暗がりから開けた風景を望む感覚がよく伝わる一枚です。ただし、上部・右側・下部の影の面積が大きく、特に下部の暗い砂浜は情報量が少ないため、海の岩の存在感を弱めています。最も改善効果が大きいのは、下部を適度にトリミングすることです。洞窟に包まれる感覚を保ちながら、二つの岩をより際立たせられます。明暗差は雰囲気を生んでいますが、洞壁の暗部には細部が見えにくい箇所があり、外の光もやや平坦で、光による明確な見せ場には欠けます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "3442ce530a457cc88bbcb5a51c708ad112ac442e7f828a3d3081cc1fcccd28ed",
+        "evaluatedAt": "2026-11-15T17:13:42.787Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00008.jpg",
         "width": 1920,
@@ -184,6 +282,20 @@
         "country": "newzealand"
       },
       "sourceHash": "6b672948986f43e9771db3d0a69c87e5bc3038f5d6594a5e36d8353ac0a36018",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "两侧层叠的岩壁形成天然框景，中央曲折的水道把视线引向海面，空间纵深明确；岩层细密的纹理与翻涌的白浪也形成了很好的动静对照。左侧和中央岩壁上的暖色侧光是画面的亮点，与阴影中的蓝灰色岩石、绿色植被构成自然的冷暖关系，强化了岩石的体积感。主体表达清楚，整体有厚重、幽深的气势，但大片偏白的天空占据上方，细节与视觉贡献有限，削弱了岩壁和水道的集中表现。最值得改进的是收紧上方构图，裁去约一半的天空，保留海平线及少量天空，让岩壁的夹峙感和水流的力量更突出。整体是一张构图扎实、光线有亮点的风景照，但天空的处理限制了感染力。",
+          "en": "The layered cliffs form a natural frame, while the winding central channel leads the eye toward the sea and establishes clear depth. Fine rock textures contrast effectively with the moving white surf. Warm side light on the left and central rocks is the photograph’s strongest feature, creating a natural balance against the blue-grey shadows and green vegetation while giving the formations volume. The subject is clear, and the scene feels imposing and deep, but the large, pale sky contributes little detail or visual interest and weakens the emphasis on the cliffs and channel. The most useful improvement would be to tighten the upper framing: crop roughly half the sky while retaining the horizon and a little sky, giving greater prominence to the enclosing cliffs and the force of the water. This is a solidly composed landscape with appealing light, though the treatment of the sky limits its impact.",
+          "ja": "両側の層状の岩壁が自然な額縁をつくり、中央の曲がりくねった水路が視線を海へ導いて、明確な奥行きを生んでいます。細かな岩の質感と、白く波立つ海水の動静の対比も効果的です。左側と中央の岩に当たる暖かな斜光が最も魅力的で、日陰の青灰色の岩や緑の植生との自然な寒暖差が、岩の立体感を引き立てています。主題は明快で、重厚さと深さを感じる一方、上部を大きく占める白っぽい空は細部や見どころに乏しく、岩壁と水路への集中を弱めています。最も改善したいのは上部の構図です。水平線と少しの空を残し、空の約半分を切り詰めると、両側から迫る岩壁と水の力がより際立ちます。構図が堅実で光にも魅力のある風景写真ですが、空の扱いが全体の訴求力を抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "db8d07e7a6950a9aeb93bf96a602bdd8f23372183acbb662218de3766f5326e1",
+        "evaluatedAt": "2026-11-15T17:14:02.969Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00009.jpg",
         "width": 1920,
@@ -207,6 +319,20 @@
         "country": "newzealand"
       },
       "sourceHash": "dd9db371524a67e678619f983336569566f9e50838dd0e9359da74e6071c6333",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "蓝青色光点散布在幽暗的蕨叶间，形成近似星空的神秘氛围，是照片最有感染力的部分。左侧与右下方较亮的区域彼此呼应，蕨叶的形态让画面保留了环境层次；冷蓝与深绿的配色也相当统一。不过，光点的分布较散，缺少明确的主次，视线容易在多个亮点之间游移。大面积暗部吞没了部分叶片细节，最亮的光点又接近白色，使局部显得刺眼。最值得改进的是构图中的视觉重心：拍摄时选择一簇光点及其周围蕨叶作为核心，减少边缘零散亮点的干扰，会让这份幽秘感更集中、更有力量。",
+          "en": "Cyan-blue points of light scattered among dark fern fronds create an evocative, almost starry atmosphere—the photograph’s strongest quality. Brighter areas on the left and lower right echo one another, while the fern shapes give the setting depth; the cool blues and deep greens also form a cohesive palette. However, the scattered lights lack a clear hierarchy, leaving the eye wandering between competing highlights. Extensive shadows swallow some leaf detail, while the brightest points approach white and become locally harsh. The most valuable improvement would be a clearer compositional focus: frame one cluster of lights and its surrounding ferns as the core, reducing distracting lights near the edges. This would make the mysterious atmosphere more concentrated and powerful.",
+          "ja": "暗いシダの葉の間に青緑色の光が点在し、星空のような神秘的な雰囲気を生んでいる点が、この写真の最大の魅力です。左側と右下の明るい部分が呼応し、シダの形が空間に奥行きを与えています。冷たい青と深い緑の色調にも統一感があります。一方、光が分散していて主従関係が弱く、視線が複数の明るい点の間をさまよいます。広い暗部では葉の細部が埋もれ、最も明るい光は白に近く、部分的に刺激が強く感じられます。最も改善したいのは、構図の中で視線を集める中心を明確にすることです。一群の光と周囲のシダを核として切り取り、画面の端にある散発的な光を減らすと、神秘的な雰囲気がより凝縮され、力強く伝わるでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d2a56dbc5c39e7ae9800ea1753e525f3678d0106e4fc9fccfdd4808985b719d6",
+        "evaluatedAt": "2026-11-15T17:14:25.272Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00010.jpg",
         "width": 1920,
@@ -233,6 +359,20 @@
         "country": "newzealand"
       },
       "sourceHash": "6680ead8e84445eaac86fa0ee1f614c0ceae01bc2d1fc51f5305d170bdfc642b",
+      "aiReview": {
+        "score": 86,
+        "comments": {
+          "zh-CN": "山脊上的小径从前景延伸至湖面深处，形成清晰的视觉引导；偏左下方的背影既提供尺度，也让壮阔风景有了安静的情绪落点。低角度暖光勾出草丛与山脊的纹理，和蓝色湖水、层层淡去的远山形成漂亮的冷暖与空间对比。主体虽小，却因位置和轮廓而容易被发现，整体有开阔、沉静的感染力。不足是天空占比偏大且信息较少，底部草石也略显繁杂，使注意力有所分散。最值得改进的是收紧取景：优先裁去部分上方天空，再少量削减底部，让人物、山脊与湖湾的关系更集中。光线和空间层次出色，但构图仍有精炼余地。",
+          "en": "The ridge path leads clearly from the foreground toward the distant lake, while the seated figure at lower left provides scale and gives the expansive landscape a quiet emotional anchor. Low, warm light reveals the texture of the grasses and ridge, creating beautiful contrasts in temperature and depth against the blue water and progressively softer mountains. Although small, the subject is readily noticed through its placement and silhouette, and the image feels spacious and contemplative. The main weakness is that the large, relatively empty sky and somewhat busy foreground grasses and rocks disperse attention. The most useful improvement would be a tighter crop: remove some sky first, then a little from the bottom, concentrating the relationship between the figure, ridge and lake bays. The light and depth are excellent, though the composition could be more concise.",
+          "ja": "尾根の道が前景から奥の湖へと視線を導き、左下寄りに座る人物の後ろ姿が風景の大きさを伝えるとともに、静かな感情のよりどころになっています。低い角度の暖かな光が草や尾根の質感を浮かび上がらせ、青い湖水と奥ほど淡くなる山並みとの間に、美しい色温度の対比と奥行きを生んでいます。人物は小さいものの、配置と輪郭によって見つけやすく、全体に広がりと静かな余韻があります。惜しいのは、変化の少ない空の面積が大きく、下部の草や岩もやや込み合っていて、視線が分散する点です。最も効果的な改善は画面を絞ること。まず上の空を一部切り、次に下部も少し減らすと、人物、尾根、湖の入り江の関係がより明確になります。光と空間の重なりは秀逸ですが、構図にはまだ整理の余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "efc05c99cbe87a531dd59fc6c0bf914cb25aeef9c2de20523676207895434afb",
+        "evaluatedAt": "2026-11-15T17:14:51.251Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00013.jpg",
         "width": 1920,
@@ -257,6 +397,20 @@
         "country": "newzealand"
       },
       "sourceHash": "8f8908cfdc16591a2b5131453e0fafa0eebaa6b04a8568d670cdce024448361e",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "这张照片的优势是秋色丰富而有层次：金黄、橙红的树木与灰褐色山坡形成鲜明对照，蜿蜒河道从前景通向谷地，让画面具有纵深和探索感。右侧岩壁增加了地貌质感，但也占据较大视觉重量。柔和的散射光保留了树叶和岩石细节，却缺少突出主体的明暗变化，天空也略显平淡。主体更接近整片秋日山谷，而非某个明确焦点，因此景色耐看，第一眼的凝聚力稍弱。最值得改进的是取景收束：适度裁去上方天空及右侧边缘，减少边缘杂枝的干扰，让河道与两岸秋林成为更集中的视觉主线。整体是一张色彩动人、空间扎实，但光线和焦点尚未达到出众程度的风景照。",
+          "en": "The photograph’s strength is its rich, layered autumn colour: gold and orange-red trees contrast vividly with the grey-brown slopes, while the winding river leads from the foreground into the valley, creating depth and a sense of exploration. The rock face on the right adds geological texture but also carries considerable visual weight. Soft, diffuse light preserves detail in foliage and stone, yet offers little tonal separation to emphasize a subject, and the sky feels relatively subdued. The subject is the autumn valley as a whole rather than a distinct focal point, making the scene rewarding to explore but less immediately compelling. The most useful improvement would be tighter framing: trim some sky and the right edge, reducing peripheral twig distractions so the river and autumn woodland form a more concentrated visual thread. Overall, this is a colourful landscape with convincing depth, though its light and focal emphasis fall short of being outstanding.",
+          "ja": "この写真の長所は、豊かで層のある紅葉の色彩です。黄金色や赤橙色の木々が灰褐色の山肌と鮮やかな対比を生み、蛇行する川が前景から谷の奥へと視線を導き、奥行きと探索する楽しさを与えています。右側の岩壁は地形の質感を加える一方、視覚的な重さも大きくなっています。柔らかな拡散光は葉や岩の細部を残していますが、主題を際立たせる明暗の変化に乏しく、空もやや単調です。主題は特定の一点というより秋の谷全体であり、じっくり眺める魅力はあるものの、一目で視線を引きつける力は少し弱めです。最も改善したいのは画角の絞り込みです。上部の空と右端を適度に切り詰め、周辺の枝による散漫さを抑えると、川と両岸の紅葉がより明確な視線の軸になります。色彩と奥行きに優れた風景写真ですが、光と焦点の強さには、さらに磨ける余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "4c5433aa02fc393f68a908ca6e08f93f95606a253fcb0e8d5b68f4899204d138",
+        "evaluatedAt": "2026-11-15T17:15:15.923Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00015.jpg",
         "width": 1920,
@@ -281,6 +435,20 @@
         "country": "newzealand"
       },
       "sourceHash": "b939c78a775c93567a28bf1ca9e95621baf0b8bd8b72ea2c105be8c66d2ddaa1",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "这张照片的优势在于秋色与局部阳光的配合：金黄色山坡从偏冷的山体和阴影中亮起来，与前景红、黄、绿交织的树木形成丰富的层次。俯瞰视角将小镇、树林和远山交代得很完整，弯曲的道路也为密集的屋顶提供了视觉引导。曝光总体稳妥，亮部仍有细节，整体有安静而宜居的秋日气息。不过，画面最值得改进的是视觉重心：下半部房屋、道路和树木密度很高，却没有一个足够突出的落点，与上方受光山坡争夺注意力。建议取景时减少底部较杂乱的街区，让受光山坡与林缘小镇的关系更集中。它是一张色彩和环境呈现都很强的风景照，但主体凝聚力还不足以带来更鲜明、持久的冲击。",
+          "en": "The photograph’s strength is the interplay of autumn colour and selective sunlight: golden slopes glow against cooler mountains and shadows, complemented by richly layered red, yellow and green trees in the foreground. The elevated viewpoint clearly establishes the town, woodland and distant mountains, while curving roads guide the eye through the dense rooftops. Exposure is generally well controlled, with detail retained in the highlights, and the scene conveys a quiet, inviting autumn atmosphere. The main improvement would be a clearer visual focus: the lower half contains many houses, roads and trees without a sufficiently prominent focal point, competing with the sunlit slopes above. Framing out some of the busier neighbourhood at the bottom would concentrate the relationship between the illuminated hillside and the town along the woodland edge. This is a strong landscape in colour and sense of place, but its diffuse subject limits its immediate and lasting impact.",
+          "ja": "この写真の魅力は、紅葉と部分的に差す日光の組み合わせです。冷たい色調の山肌や影を背景に黄金色の斜面が輝き、手前の赤・黄・緑の木々と豊かな重なりを作っています。俯瞰の視点によって町、森林、遠山の位置関係がよく伝わり、曲がりくねった道路も密集した屋根の間で視線を導いています。露出はおおむね適切で、明るい部分にもディテールが残り、静かで暮らしやすそうな秋の空気が感じられます。最も改善したいのは、視線の中心を明確にすることです。下半分には家や道路、木々が多く、十分に際立つ焦点がないため、上部の日の当たる斜面と注意を奪い合っています。画面下の雑然とした住宅地を少し省けば、光を受けた山腹と林の縁に広がる町の関係がより集約されるでしょう。色彩と土地の雰囲気の描写に優れた風景写真ですが、主題のまとまりには、より鮮明で長く残る印象を生む余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "b88fcf10ca3a0e3e21b1a42540130adc03a62eee682d3d3099202b5175dd0b88",
+        "evaluatedAt": "2026-11-15T17:15:44.617Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00019.jpg",
         "width": 1920,
@@ -306,6 +474,20 @@
         "country": "newzealand"
       },
       "sourceHash": "5dde7efcc394d89be920cb4f71bee1f3c2d90a94f88a5ce5849ebc94c95297c9",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "这张照片的优势是空间层次和山体光影：前景秋树与住宅、中景湖面、远处山脊依次展开，湖水为繁密的景物提供了一块舒缓的留白。斜射光勾勒出山坡的沟壑，金黄树叶与冷蓝色山影形成自然、克制的冷暖对照。整体有开阔而宁静的秋日气息，细节也值得慢慢观看。不足在于视觉重心略散：山体占据主要画幅，湖面却被压成较窄的一带，前景房屋、道路及底边醒目的黄色物件又不断分散注意力，使主体表达不够集中。最值得改进的是取景时精简下方前景，尤其避开底边黄色物件，让湖湾与受光山坡形成更明确的主次关系。景色和光线很出色，但构图的凝练程度尚未让它达到更强的视觉感染力。",
+          "en": "The photograph’s strengths are its spatial depth and the light across the mountains: autumn trees and houses lead into the lake and then the distant ridges, while the water provides a restful opening amid the dense detail. Angled light defines the folds of the slopes, and golden foliage contrasts naturally and subtly with cool blue mountain shadows. The overall mood is expansive and peaceful, with details that reward a longer look. The weakness is a somewhat dispersed visual focus: the mountains dominate the frame, the lake is compressed into a relatively narrow band, and foreground houses, roads, and the conspicuous yellow objects at the bottom keep drawing attention away. The most useful improvement would be to simplify the lower foreground when framing, especially excluding those yellow objects, so the lake inlet and illuminated slopes establish a clearer hierarchy. The scenery and light are impressive, but the composition needs greater economy to deliver stronger visual impact.",
+          "ja": "この写真の長所は、奥行きのある空間構成と山肌の光です。手前の紅葉や住宅から湖、遠くの稜線へと層が重なり、湖面が細かな要素の多い風景に穏やかな余白を与えています。斜めからの光が斜面のひだを浮かび上がらせ、黄金色の木々と青みを帯びた山の影が、自然で控えめな暖色と寒色の対比をつくっています。広々とした静かな秋の空気があり、細部をゆっくり眺める楽しさもあります。一方、視線の中心はやや散漫です。山が画面の大部分を占める反面、湖は比較的細い帯状に収まり、手前の住宅や道路、下端の目立つ黄色い物体が注意をそらしています。最も改善したいのは、撮影時に下部の前景を整理し、特に黄色い物体を画面から外すことです。そうすれば、湖の入り江と光の当たる斜面の主従関係が明確になります。景色と光は魅力的ですが、より強い印象を残すには、構図をもう少し絞り込む余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d85abd72d89a2c56e9cd8dcc54de933f89eb636f09a0d6dbf714c3e3c84687ab",
+        "evaluatedAt": "2026-11-15T17:16:07.900Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00020.jpg",
         "width": 1920,
@@ -329,6 +511,20 @@
         "country": "newzealand"
       },
       "sourceHash": "862b0d4bc27115448995dd0f75bbe2f10d02e4639e1423eaaed3c9c8e4e988fa",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "这张照片最出色的是瀑布的力量感与水雾的层次：中央明亮的主瀑、右侧细密的支流和底部翻涌的水面形成丰富的动势，深色岩壁与苔藓则提供了扎实的质感对照。紧凑取景让观者贴近水势，但主瀑从上缘切入、下方水面空间较窄，画面更强调局部冲击，缺少一点规模与环境的交代。柔和光线保留了白水细节，整体偏暗的蓝灰色调统一且有冷冽气氛，绿色也没有喧宾夺主；不过暗部与水雾的色调接近，使部分岩壁显得沉闷。最值得改进的是视觉重心：中央大片亮水与右侧多道水流同时吸引注意，可以适度收紧右侧取景，让主瀑与左侧岩壁的对比更集中。整体有鲜明气氛和冲击力，但构图的取舍还可以更明确。",
+          "en": "The photograph’s strongest qualities are the waterfall’s force and the layered mist: the bright central cascade, finer streams on the right, and turbulent water below create varied movement, while dark rock and moss provide a substantial textural contrast. The tight framing brings the viewer close to the action, but the main fall enters through the upper edge and the water below has limited space, emphasizing immediate impact with less sense of scale and setting. Soft light preserves detail in the white water. The predominantly dark blue-grey palette is cohesive and chilling, with restrained greens; however, similar tones in the shadows and mist leave some rock surfaces feeling muted. The most worthwhile improvement is a clearer visual hierarchy: the broad central highlight and multiple right-hand streams compete for attention. Trimming some of the right side could concentrate the contrast between the main cascade and the left rock face. Overall, it has a distinct atmosphere and strong impact, though the compositional choices could be more decisive.",
+          "ja": "この写真のいちばんの魅力は、滝の力強さと水煙の重なりです。中央の明るい本流、右側の繊細な流れ、下部の波立つ水面が多彩な動きを生み、暗い岩肌と苔が質感の対比を支えています。密なフレーミングで水勢を間近に感じさせる一方、本流が上端で切れ、下の水面にも余裕が少ないため、全体の規模や周囲の環境よりも局所的な迫力が前面に出ています。柔らかな光は白い水の階調を残しています。暗めの青灰色で統一された色調には冷たい空気感があり、緑も控えめですが、暗部と水煙の色調が近く、一部の岩肌は沈んで見えます。最も改善したいのは視線の優先順位です。中央の大きな明部と右側の複数の流れが注意を奪い合っているので、右側を少し切り詰めると、本流と左の岩壁の対比がより明確になります。雰囲気と迫力は十分にありますが、構図の取捨選択をさらに明確にできる一枚です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a3b5253fad51af5c0d0ca202a50dc95be29b3fa628782d82dfcc4a66cd2483ec",
+        "evaluatedAt": "2026-11-15T17:16:32.811Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00023.jpg",
         "width": 1920,
@@ -352,6 +548,20 @@
         "country": "newzealand"
       },
       "sourceHash": "89ba6779c2aec5665a2259be12119e6d3f333b431a98307c7e94a07b44e28647",
+      "aiReview": {
+        "score": 80,
+        "comments": {
+          "zh-CN": "这张照片的优势在于瀑布、灰蓝色岩壁与浓密植被之间的质感对比。瀑布的斜向走势带动视线，中央树木的枝干轮廓富有个性，也让画面有了前后层次。柔和的散射光保留了湿润岩石与叶片的细节，绿色与冷灰色协调，传达出幽深、清凉的森林气息。不过，中央树冠遮住了瀑布的重要部分，底部和右侧繁密的植被又分散了注意力，使瀑布与树木之间的主次不够明确；瀑布在上缘被截断，也削弱了水流的完整感。最值得改进的是拍摄机位：尝试横向移动，让树的轮廓与主水流适度分离，建立更清楚的视觉中心。整体质感扎实、氛围鲜明，但构图的取舍仍限制了感染力。",
+          "en": "The photograph’s strength lies in the contrasting textures of the waterfall, blue-grey rock face and dense vegetation. The diagonal flow leads the eye, while the distinctive branching silhouette of the central tree adds depth and character. Soft, diffuse light preserves detail in the wet stone and foliage, and the greens work harmoniously with the cool greys to convey a secluded, refreshing forest atmosphere. However, the central canopy obscures a significant part of the waterfall, while dense vegetation along the bottom and right competes for attention, leaving the hierarchy between tree and waterfall unclear. The waterfall being cut off at the top also weakens the sense of a complete flow. The most valuable improvement would be a change of viewpoint: try moving sideways to separate the tree’s silhouette from the main cascade and establish a clearer visual centre. The textures and atmosphere are strong, but the compositional choices limit the overall impact.",
+          "ja": "この写真の長所は、滝、青みを帯びた灰色の岩壁、密生する植物の質感の対比です。斜めに流れる滝が視線を導き、中央の木の個性的な枝ぶりが奥行きと表情を加えています。柔らかな拡散光が濡れた岩や葉の細部を残し、緑と冷たい灰色の調和から、森の奥深さと涼しさが伝わります。一方で、中央の樹冠が滝の重要な部分を隠し、下部と右側の密集した植物も視線を引くため、木と滝のどちらが主役なのかが曖昧です。滝が画面上端で切れている点も、水流のつながりを弱めています。最も改善したいのは撮影位置です。左右に移動して木の輪郭と主な水流を適度に離すと、視覚的な中心が明確になるでしょう。質感と雰囲気には強みがありますが、構図の整理に余地があり、全体の訴求力を抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "ba1447e32eb56f0a1395026a6f2fdbeeb03489049edfebf55129e06a33bcd09f",
+        "evaluatedAt": "2026-11-15T17:16:55.514Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00024.jpg",
         "width": 1920,
@@ -375,6 +585,20 @@
         "country": "newzealand"
       },
       "sourceHash": "24059ccff5425bfd6196ee4bacfe19231132c7195eb23a39d44af7e8f720529c",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "这张照片最有吸引力的是鸟正面微微歪头的姿态：目光与镜头形成交流，喙的轮廓和层叠羽毛也很有辨识度。左侧斜伸的树枝将视线引向主体，苔藓与地衣交代了森林环境；但左上粗大的暗枝和下方繁密的叶片占据不少注意力，画面略显拥挤。斑驳阳光照亮胸羽，带出漂亮的鳞片状纹理，不过脸部相对偏暗，视觉重心稍微落在胸腹而非眼睛。橄榄绿、灰褐与背景冷灰色协调自然，黄色眼周成为小而有效的亮点，但鸟与环境色接近，轮廓分离感有限。整体是一张有性格、有环境气息的扎实野生动物照片，感染力主要来自神态。最值得改进的是面部光线：拍摄时等待脸部获得更均匀的亮光，会比继续强调胸羽更能突出眼神、提升主体表现。",
+          "en": "The strongest feature is the bird’s slightly tilted, front-facing pose: its gaze engages the viewer, while the distinctive bill and layered feathers give it character. The diagonal branch leads toward the subject, and the moss and lichens establish the forest habitat. However, the heavy dark branch at the upper left and dense foliage below compete for attention, making the frame somewhat crowded. Dappled sunlight reveals beautiful, scale-like textures on the breast, but the face is comparatively dark, shifting emphasis toward the torso rather than the eyes. Olive greens, grey-browns and cooler background greys feel harmonious and natural; the yellow around the eyes provides a small, effective accent. Similar colours in the bird and surroundings limit separation. Overall, this is a strong wildlife photograph with personality and a convincing sense of habitat, its appeal driven mainly by the bird’s expression. The most valuable improvement would be the light on the face: waiting for more even illumination there would strengthen eye contact and subject presence more than further emphasis on the breast feathers.",
+          "ja": "最も魅力的なのは、正面を向いて少し首をかしげた鳥の姿です。視線が見る側とつながり、特徴的なくちばしと重なり合う羽も個性を伝えています。左から斜めに伸びる枝は主体へ視線を導き、苔や地衣類は森の生息環境を感じさせます。一方、左上の太く暗い枝と下部の密集した葉が注意を引くため、画面にはやや窮屈さがあります。木漏れ日は胸の羽のうろこ状の質感を美しく浮かび上がらせていますが、顔は相対的に暗く、目より胸や腹に視線が向かいます。オリーブ色、灰褐色、背景の冷たい灰色は自然に調和し、目の周囲の黄色が小さなアクセントになっています。ただし、鳥と周囲の色が近く、輪郭の分離は控えめです。全体として、表情の魅力を軸に、個性と生息環境を伝える完成度の高い野生動物写真です。最も改善したいのは顔の光。胸の羽をさらに目立たせるより、顔に均一な明るさが届く瞬間を待つことで、目の訴求力と主体の存在感が高まります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "1e70defdc0747ddeaf21ec20c3fa49ba2c8123bdfa33d8709fc3d64da335a22f",
+        "evaluatedAt": "2026-11-15T17:17:25.484Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00026.jpg",
         "width": 1920,
@@ -399,6 +623,20 @@
         "country": "newzealand"
       },
       "sourceHash": "2fff056e75019e4283c92cb49c8cc1dfeab65f9cb7e61add4db040250275c804",
+      "aiReview": {
+        "score": 83,
+        "comments": {
+          "zh-CN": "栈桥从画面底部伸向湖面，形成明确的引导线，居中的布局与平静水面共同营造出安定、静谧的气氛。远山、低云与湖岸构成清晰的空间层次，大面积天空也让晚霞的舒展感成为主角。柔和的暮光与水面倒影呼应，粉红和紫色带来鲜明的视觉冲击；不过紫红色的表现偏浓，压缩了山体与云层之间的色彩差异，观感略显甜腻。栈桥作为视觉落点有效，但暗部细节有限，其吸引力主要来自轮廓与透视。最值得改进的是适度降低紫色、洋红色的饱和度，让远山和云层恢复更细腻的冷暖变化，使这份宁静更耐看。整体是一张构图稳健、氛围突出的风光照片，但色彩处理稍微盖过了景物本身。",
+          "en": "The jetty extends from the bottom edge into the lake, creating a clear leading line; its central placement and the calm water establish a quiet, stable mood. Distant mountains, low clouds and the shoreline provide distinct layers of depth, while the expansive sky gives the sweeping sunset room to dominate. Soft twilight is echoed in the reflections, and the pinks and purples create strong visual impact. However, the intense magenta-purple rendering reduces colour separation between mountains and clouds and feels slightly cloying. The jetty provides an effective visual anchor, although limited shadow detail means its appeal comes mainly from silhouette and perspective. The most worthwhile improvement would be to moderately reduce purple and magenta saturation, restoring subtler warm-cool variations in the mountains and clouds and making the tranquillity more enduring. Overall, this is a well-composed, atmospheric landscape, but the colour treatment somewhat overshadows the scenery itself.",
+          "ja": "画面下端から湖へ伸びる桟橋が明確な導線となり、中央に置いた構図と穏やかな水面が、安定感のある静かな雰囲気を生んでいます。遠くの山、低い雲、湖岸が奥行きをつくり、広く取った空が夕焼けの伸びやかさを主役にしています。柔らかな薄暮の光と水面の反射が呼応し、ピンクと紫が強い印象を与えます。ただし、紫やマゼンタの発色が強く、山と雲の色の違いが薄れ、少し甘すぎる印象もあります。桟橋は視線の着地点として効果的ですが、暗部の細部が乏しく、その魅力は主にシルエットと遠近感に支えられています。最も改善したいのは、紫とマゼンタの彩度を適度に抑えることです。山や雲に繊細な暖色・寒色の変化が戻れば、静けさをより長く味わえる写真になります。全体として、構図が堅実で雰囲気のある風景写真ですが、色の処理が景色そのものをやや上回っています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d24fc0714fe188ac07c6bf481ff3cd9568ea3bd4174e8dd1ac0ce0aa3a898e11",
+        "evaluatedAt": "2026-11-15T17:17:51.933Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00027.jpg",
         "width": 1920,
@@ -423,6 +661,20 @@
         "country": "newzealand"
       },
       "sourceHash": "1a240e6829f10345a6956475bb35f17269fb91f2b60436d164972a1f9aa20754",
+      "aiReview": {
+        "score": 83,
+        "comments": {
+          "zh-CN": "栈桥从画面底部引向中央人物，再延伸至远山，形成清晰的纵深；人物的尺度也让开阔湖面和天空更显辽阔。粉紫色晚霞与水面倒影呼应，暗色山体压住画面，低云增添层次，整体有安静而壮阔的感染力。不过，色彩的吸引力明显强于人物表达：人物与栈桥立柱、横梁重叠，暗部轮廓不够独立，使这个视觉落点稍显拥挤。最值得改进的是拍摄机位或人物站位，让人物落在更干净的水面背景上，并避开栏架重叠；这样可以保留剪影氛围，同时让主体更鲜明。",
+          "en": "The jetty leads from the bottom edge toward the central figure and distant mountains, creating clear depth; the figure’s scale also emphasizes the expanse of lake and sky. Pink and violet sunset light echoes across the water, while dark mountains anchor the frame and low clouds add layers. The overall effect is quiet yet majestic. However, the colour carries more impact than the human subject: the figure overlaps the jetty’s posts and crossbars, weakening the silhouette’s separation and making the focal point feel slightly crowded. The most valuable improvement would be to adjust the camera position or the figure’s placement so the person sits against uncluttered water, clear of the framework. This would preserve the silhouette’s mood while giving the subject greater clarity.",
+          "ja": "画面下端から中央の人物、そして遠山へと視線を導く桟橋が、明確な奥行きを生んでいます。小さく写る人物によって、湖と空の広さも際立ちます。ピンクと紫の夕焼けが水面に呼応し、暗い山並みが画面を引き締め、低い雲が重なりを加えています。静けさと雄大さを感じさせる一枚です。ただし、人物の表現よりも色彩の印象が強く、人物が桟橋の柱や横木と重なるため、シルエットの独立性が弱まり、視線の集まる場所が少し窮屈に見えます。最も改善したいのは、撮影位置か人物の立ち位置を調整し、人物の背景をすっきりした水面にして、構造物との重なりを避けることです。そうすれば、シルエットの雰囲気を保ちながら、主役をより明確にできます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "c7c6d02617e880e9b40bcb0019d9599c69feb6f5b5a27ea7e91247489db083c2",
+        "evaluatedAt": "2026-11-15T17:18:11.416Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00028.jpg",
         "width": 1920,
@@ -446,6 +698,20 @@
         "country": "newzealand"
       },
       "sourceHash": "ff9ebf5c37009c4765459f90d38636d7150aa369bc64c824823f896404c750b3",
+      "aiReview": {
+        "score": 70,
+        "comments": {
+          "zh-CN": "企鹅的眼睛与头部细节清楚，蓝绿色羽毛在暗处仍有细腻层次，近距离视角也带来亲密感。主体位于画面右侧、朝左看，左边保留的空间符合视线方向，但大片暗部和零散草叶占比偏大，右下方被切断的鳍肢让构图略显局促。光线准确照亮了眼睛，却在白色胸腹形成较强亮斑，头顶和背景又沉入深黑，明暗衔接偏生硬。整体色彩克制，具有幽暗栖息环境的气氛，但光斑比神态更抢眼，削弱了感染力。最值得改进的是主体受光的均匀度：适度压低胸腹高光、提亮头部阴影，让视线更自然地停留在眼睛上。",
+          "en": "The penguin’s eye and head details are clear, with subtle blue-green feather tones surviving in the shadows, and the close viewpoint creates intimacy. Placing the subject on the right leaves appropriate space in the direction of its gaze, but the extensive dark areas and scattered grass occupy too much of the frame, while the cropped flipper at the lower right makes the composition feel cramped. The light catches the eye effectively, yet creates a strong bright patch across the white chest and belly as the crown and background fall into deep shadow, producing an abrupt tonal transition. The restrained colours convey a dim habitat, but the bright patch attracts more attention than the bird’s expression, reducing the emotional impact. The most valuable improvement would be more even illumination of the subject: gently reduce the chest and belly highlights and lift the head shadows so attention settles more naturally on the eye.",
+          "ja": "ペンギンの目と頭部の細部が明瞭で、暗部にも青緑色の羽毛の繊細な階調が残っています。近い視点には親密さもあります。右に配置した被写体が左を向き、その視線の先に空間を取っている点は自然ですが、大きな暗部と点在する草が画面を占めすぎており、右下で切れたフリッパーも構図に窮屈さを与えています。光は目を効果的に捉える一方、白い胸から腹には強い明部ができ、頭頂部と背景は深い影に沈んでいるため、明暗のつながりがやや唐突です。抑えた色彩は薄暗い生息環境の雰囲気を伝えますが、表情より明るい部分が目立ち、印象を弱めています。最も改善したいのは被写体の光の偏りです。胸腹部のハイライトを適度に抑え、頭部の暗部を少し持ち上げると、視線がより自然に目へ向かいます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "cb7c7e448a4a94204d669d11dd4b7f86f845dd8f37733c55126cf0a40a07ad2f",
+        "evaluatedAt": "2026-11-15T17:18:35.442Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00032.jpg",
         "width": 1920,
@@ -468,6 +734,20 @@
         "country": "newzealand"
       },
       "sourceHash": "da580fbcae11596568bd0f1bdc2d80797c742616d08fa5ebb014fdec00f974c2",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这张照片的吸引力在于叶片弧面与大小不一的水珠：前景叶片斜向铺开，背景直立的叶丛形成方向对比，暗部也有效衬托了亮绿色主体。光线让水珠的反光和叶脉纹理清楚可见，统一的绿色带来湿润、清新的气息。不过，部分水珠反光偏白，通透感和内部层次稍弱；主体占据较大画面，却缺少一个特别明确的视觉落点，视线容易在密集的水珠间游移。整体是一张完成度较好的植物细节照，但感染力更多来自质感，视觉上的惊喜有限。最值得改进的是取景：收紧画面，围绕叶片顶部弧线和一组突出的水珠组织构图，减少左侧横穿的亮叶，让观看重点更集中。",
+          "en": "The photograph’s appeal lies in the curved leaf and its varied droplets. The foreground leaf sweeps diagonally across the frame, contrasting with the upright foliage behind it, while the dark areas help separate the bright green subject. The light reveals reflections in the droplets and texture in the leaf, and the consistent greens create a fresh, rain-washed atmosphere. However, some reflections look rather white, weakening the droplets’ transparency and internal detail. The subject fills much of the frame without establishing a clear focal point, so the eye wanders among the many droplets. Overall, this is a well-executed plant detail study whose impact comes mainly from texture, with limited visual surprise. The most useful improvement would be tighter framing: build the composition around the upper curve of the leaf and a distinctive cluster of droplets, reducing the bright leaf crossing the left side to concentrate attention.",
+          "ja": "葉の曲面と大小さまざまな水滴が、この写真の魅力です。前景の葉が斜めに広がり、背景の直立する葉との方向の対比を生み、暗部も明るい緑の主役を引き立てています。光は水滴の反射や葉脈の質感をよく描き出し、緑で統一された色彩からは、雨上がりのようなみずみずしさが伝わります。一方、一部の水滴は反射が白く目立ち、透明感や内部の階調がやや乏しく見えます。また、主役が画面を大きく占める割に明確な視線の止まりどころがなく、多数の水滴の間で目が散りがちです。植物の細部を捉えた写真として完成度は高いものの、印象は主に質感に支えられており、視覚的な驚きは控えめです。最も改善したいのは切り取り方です。葉の上部の曲線と特徴的な水滴のまとまりを中心に画面を絞り、左側を横切る明るい葉を減らすと、見るべき場所がより明確になります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "9da34a52d6750164b274118724755128f311954ee40cb90d8afed7f4417bf6ae",
+        "evaluatedAt": "2026-11-15T17:18:59.659Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00034.jpg",
         "width": 1920,
@@ -492,6 +772,20 @@
         "country": "newzealand"
       },
       "sourceHash": "a03b49299c8cf7ecf006884f7164faaa9f7fe37df17f4a9e8916452b018fc46d",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "这张照片最有力量的是海豹仰头张嘴的瞬间：牙齿、胡须与颈部曲线形成鲜明的姿态，主体表达生动。侧向暖光很好地刻画了皮毛质感，棕金色主体与蓝绿色海面形成自然且悦目的冷暖对比；虚化的浪花也交代了海岸环境。构图上，头部上方留白让仰头动作有伸展空间，但上方大片明亮浪花略抢视线，前景另一只海豹的虚焦身体又占据较大面积，遮挡主体下部，使画面稍显拥挤。最值得改进的是拍摄机位：略微抬高或横向移动，减少前景身体的遮挡，让主体轮廓更完整。整体是一张细节扎实、瞬间鲜活的野生动物照片，但前景组织限制了视觉冲击力。",
+          "en": "The strongest element is the moment of the seal tilting its head back with its mouth open: the teeth, whiskers and curve of its neck create an expressive pose. Warm sidelight describes the fur beautifully, while the golden-brown subject contrasts naturally with the blue-green sea; the blurred surf also establishes the coastal setting. The space above the head gives the gesture room to extend, but the large bright area of surf competes for attention. Another seal’s blurred body occupies much of the foreground and obscures the lower subject, making the frame feel somewhat crowded. The most useful improvement would be a slightly higher or laterally shifted camera position to reduce that obstruction and reveal a more complete outline. Overall, this is a wildlife photograph with strong detail and a lively moment, though the foreground arrangement limits its visual impact.",
+          "ja": "最も魅力的なのは、アザラシが頭を反らせて口を開いた瞬間です。歯やひげ、首の曲線が印象的な姿をつくり、生き生きとした表情を伝えています。暖かな斜光が毛並みの質感をよく描き、金褐色の体と青緑の海が自然で美しい寒暖の対比を生んでいます。ぼけた波も海岸という環境を伝えています。頭上の余白は動作の伸びやかさにつながっていますが、上部の広く明るい波はやや視線を奪います。また、手前に大きく入った別のアザラシのぼけた体が主役の下部を隠し、画面を少し窮屈にしています。最も改善したいのは撮影位置です。少し高い位置、または左右にずれた位置から撮ることで、手前の重なりを減らし、主役の輪郭をより明確にできそうです。細部の描写と生き生きした瞬間が光る野生動物写真ですが、前景の整理により、さらに強い印象を与えられます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a0945aa4f1af1095988723ae89df1bb8fb16acfe8a4be3c64e9c66c82258539f",
+        "evaluatedAt": "2026-11-15T17:19:23.034Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00036.jpg",
         "width": 1920,
@@ -515,6 +809,20 @@
         "country": "newzealand"
       },
       "sourceHash": "39854d24ea97264b471d5833b25a2eb741dc861b7d3110607330116ce30b05c7",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这张照片最出彩的是海兽侧卧时直视镜头的神情，以及搭在身体上的鳍肢，姿态松弛又有个性。头部位于画面左侧，躯干向右延伸，形成清晰的横向结构；毛发和胡须细节丰富，近距离取景带来很强的亲近感。不过，身体在右侧被截断，下方明亮草地占比偏多，略微分散了对面部的注意。低角度的暖阳很好地塑造了毛皮质感，但光比偏大，脸部阴影较重，亮处的草地又很抢眼；黄绿色也稍显浓烈。整体是一张有生动交流感的动物肖像，但光线控制限制了感染力。最值得改进的是让面部成为明确的亮度中心：拍摄时稍换角度，使眼睛和脸部受光更均匀，并减少画面中的明亮草地。",
+          "en": "The strongest elements are the animal’s direct gaze while reclining and the flipper resting across its body, giving it a relaxed, distinctive personality. The head sits on the left and the torso extends rightward, creating a clear horizontal structure; detailed fur and whiskers and the close framing create a strong sense of intimacy. However, the body is cut off on the right, and the large area of bright grass below draws some attention away from the face. Low, warm sunlight describes the fur texture beautifully, but the contrast is strong: facial shadows are heavy, while the sunlit grass competes for attention. The yellow-green colour also feels slightly intense. Overall, this is an engaging animal portrait with a tangible sense of connection, though the lighting limits its impact. The most valuable improvement would be to make the face the clear centre of brightness: shift the shooting angle slightly for more even light on the eyes and face, and include less bright grass.",
+          "ja": "横たわりながらカメラを見つめる表情と、体に載せたひれが魅力的で、くつろいだ姿に個性が感じられます。左側の頭部から右へ胴体が伸びる構図は明快で、毛並みやひげの細部、近い距離での切り取りが親密さを生んでいます。一方、右端で胴体が切れており、下部の明るい草地も広いため、顔への視線がやや散ります。低い位置からの暖かな日差しは毛の質感を美しく描いていますが、明暗差が大きく、顔の影が深い一方で、日なたの草が目立ちます。黄緑色も少し強く感じられます。動物との交流を感じさせる印象的なポートレートですが、光の扱いが訴求力を制限しています。最も改善したいのは、顔を明るさの中心にすることです。撮影角度を少し変えて目と顔により均一に光を当て、明るい草地の割合を減らすと効果的です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "05ab9ab1aa0567d6d5055e8dc82feb43aa3edc0e3ad3506614f36f27e8632f3d",
+        "evaluatedAt": "2026-11-15T17:19:49.792Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00037.jpg",
         "width": 1920,
@@ -539,6 +847,20 @@
         "country": "newzealand"
       },
       "sourceHash": "0668961f58032509b481ebd2764764a61284de7a7be6f140996a45fc392afafc",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "前景海豹回头的姿态是画面的亮点，弯曲的身体与脸部朝向形成自然动势；中景休息的海豹和远处海浪交代了栖息环境，也带来空间层次。低角度侧光勾出皮毛和胡须，蓝色海水与黄绿色草地的搭配鲜明，有温暖、闲适的气氛。不过，主体脸部偏暗，草地的亮点和纹理较抢眼，右上角的明亮浪花也会分散注意力，使情绪表达弱于环境描写。最值得改进的是构图取舍：适当收紧上方与右侧，减少亮浪和零散背景的干扰，让回头的海豹在画面中更突出。整体是一张光色出色、环境感明确的作品，但视觉集中度还未达到优秀水平。",
+          "en": "The foreground seal’s backward glance is the highlight: its curved body and turned face create a natural sense of movement. The resting seal in the middle distance and the surf beyond establish the habitat and add depth. Low side light picks out the fur and whiskers, while blue water and yellow-green grass create vivid colour contrast and a warm, leisurely mood. However, the main subject’s face is relatively dark, the bright, textured grass competes for attention, and the luminous surf at the upper right distracts, leaving the emotional connection weaker than the environmental description. The most useful improvement is tighter framing: trim some of the top and right to reduce the bright surf and scattered background distractions, giving the glancing seal greater prominence. Overall, this is a strong photograph with appealing light, colour and a clear sense of place, but its visual focus falls short of excellence.",
+          "ja": "手前のアザラシが振り返る姿が、この写真の見どころです。丸く曲がった体と顔の向きが自然な動きを生み、中景で休む個体と奥の波が生息環境を伝え、奥行きも作っています。低い角度からの斜光が毛並みやひげを浮かび上がらせ、青い海と黄緑の草地の対比には、暖かくのんびりした雰囲気があります。一方、主役の顔はやや暗く、明るく細かな草の質感や右上の白い波に視線が流れるため、環境描写に比べて被写体との感情的なつながりは弱めです。最も改善したいのは画面の絞り込みです。上部と右側を少し切り詰め、明るい波や散在する背景要素を減らすと、振り返る個体がより際立ちます。光と色、生息地の空気感が魅力的な一枚ですが、秀作と呼ぶには視線の集中にもう一歩工夫が必要です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "921e96e6269311c3d3b96ac1e3639fba571223ce17563f90a4a6160f086a07e7",
+        "evaluatedAt": "2026-11-15T17:20:12.948Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00038.jpg",
         "width": 1920,
@@ -562,6 +884,20 @@
         "country": "newzealand"
       },
       "sourceHash": "5951f261a9d11aa5cb9c82cef528ffc8a6a06c761b1c18fd6176d88e456c30ef",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "这张照片最出色的是逆光下的金色海雾：它将深色山丘与海面分开，使远近层次清楚，也赋予普通海岸一种辽阔、宁静的气氛。海面反光与上方太阳形成纵向呼应，右侧伸出的岬角提供了视觉支点；冷蓝海水与暖金光线的对照自然，色彩克制。主体表达主要依靠光与空气，而非具体地标，这一点成立，但视觉注意力过度集中在中央偏右的大面积亮区，太阳周围的云层和水面反光已有明显细节损失，压过了更耐看的海雾与山体。最值得改进的是拍摄时控制高光曝光，必要时包围曝光融合，让亮部保留层次，同时维持山丘的剪影感。整体是一张氛围鲜明、光线动人的强作，但亮部控制限制了画面的细腻程度。",
+          "en": "The strongest feature is the golden sea mist in backlight: it separates the dark hills from the water, establishes depth, and gives an otherwise ordinary coastline a spacious, tranquil atmosphere. The reflection creates a vertical connection with the sun, while the headland projecting from the right provides a visual anchor. Cool blue water and warm gold light balance naturally, with restrained colour. Light and atmosphere carry the subject rather than a distinctive landmark, and that works, but attention is drawn too heavily toward the large bright area just right of centre. Noticeable detail loss in the clouds around the sun and in the reflection overwhelms the subtler, more engaging mist and hills. The most valuable improvement would be tighter highlight exposure control at capture, using bracketed exposures and blending if necessary, to retain bright-area gradation while preserving the hills as silhouettes. This is a strong, atmospheric photograph with compelling light, though highlight control limits its finesse.",
+          "ja": "最も魅力的なのは、逆光に輝く金色の海霧です。暗い丘陵と海面を分離して奥行きを生み、ありふれた海岸に広がりと静けさを与えています。海面の反射は太陽と縦方向につながり、右から張り出す岬が視線の支点になっています。寒色の青い海と暖かな金色の光の対比も自然で、色彩は抑制されています。特定の名所ではなく光と空気感を主題にした表現は成立していますが、中央やや右の広い高輝度部分に視線が集中しすぎます。太陽周辺の雲と海面の反射では明らかに細部が失われ、味わい深い海霧や丘陵の存在感を弱めています。最も改善したいのは撮影時のハイライトの露出管理です。必要なら段階露光して合成し、丘陵のシルエットを保ちながら明部の階調を残すとよいでしょう。印象的な光と明確な雰囲気を持つ力強い写真ですが、明部の処理が繊細さを制限しています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "3e57362a1ac63dd50ca499e5304b7dbdc633d83f6150ae16414ef7d703e8e858",
+        "evaluatedAt": "2026-11-15T17:20:31.991Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00039.jpg",
         "width": 1920,
@@ -585,6 +921,20 @@
         "country": "newzealand"
       },
       "sourceHash": "03ec54c45cedb3b931820fc1f0ab66d88e466fbfaef2adaccbf684914a139701",
+      "aiReview": {
+        "score": 84,
+        "comments": {
+          "zh-CN": "浪头崩裂的瞬间抓得很准：透绿的浪壁、被暖光照亮的白色浪花，以及飞沫中隐约的彩虹，共同赋予画面鲜明的层次和力量。横向展开的浪脊形成清晰的视觉主线，前景礁石提供尺度与纵深；深蓝海水与金白色浪花的冷暖对比也很有吸引力。主体表达明确，既有海浪的冲击感，也有水雾轻盈的一面。不足是上方大片纹理相近的海面占比偏多，分散了对浪峰和彩虹的注意力，底部零散礁石也稍显杂乱。最值得改进的是收紧构图，尤其适度裁去上方海面，让最精彩的浪壁、飞沫与光线关系更集中。整体是一张光线和时机出色、构图仍有提炼空间的强作品。",
+          "en": "The breaking wave is caught at a compelling instant: its translucent green face, warmly lit white foam, and faint rainbow in the spray give the image both depth and force. The sweeping crest creates a clear visual line, while foreground rocks provide scale and depth. The contrast between deep blue water and golden-white foam is particularly appealing. The subject is clearly expressed, combining the wave’s impact with the delicacy of airborne mist. The main weakness is the large area of similarly textured water above, which draws attention away from the crest and rainbow; the scattered rocks at the bottom also introduce some clutter. The most useful improvement would be a tighter composition, especially trimming some water from the top to concentrate the relationship between the wave face, spray, and light. Overall, this is a strong photograph with excellent light and timing, though its framing could be more selective.",
+          "ja": "波が砕ける瞬間を的確に捉えています。緑色に透ける波の壁、暖かな光を受けた白い泡、飛沫にうっすら現れる虹が、画面に奥行きと力強さを与えています。横に伸びる波頭が明確な視線の流れをつくり、手前の岩がスケール感と遠近感を添えています。深い青の海と金白色の泡の寒暖対比も魅力的です。主題は明快で、波の衝撃と飛沫の繊細さが同居しています。一方、上部には似た質感の海面が広く入り、波頭や虹への集中を弱めています。下端に点在する岩もやや雑然としています。最も改善したいのは構図の絞り込みです。特に上部の海面を適度に切り詰めると、波の壁、飛沫、光の関係がより際立ちます。光とタイミングに優れた力のある写真ですが、フレーミングにはさらに整理できる余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "97edb03caaaf98826fb168b041446cd0ac8e6cfc13563567ed0c8ca065e9bf82",
+        "evaluatedAt": "2026-11-15T17:20:54.486Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00040.jpg",
         "width": 1920,
@@ -608,6 +958,20 @@
         "country": "newzealand"
       },
       "sourceHash": "385ae0acad3f640c4a7b098cc79cbd46565ca7cc2ff6dd523efb7c0a9318d3c1",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "这张照片的优势在于海岸曲线与起伏牧场形成的层次：浪线将视线从左侧引向海湾，远山和横向云带让画面舒展而安静。低角度阳光擦亮草坡，金绿与海水的冷蓝对照自然，明暗交替也很好地交代了地形。主体更偏向整片海岸的田园氛围，而非某一个明确焦点，整体有宁静、开阔的感染力。主要不足是底部大片近黑的植物与右侧阴暗岬角占据较多面积，枝叶轮廓又较杂，削弱了明亮海湾与草坡的吸引力。最值得改进的是取景时减少底部前景的占比，保留少量植物作为框景，让海湾曲线和受光牧场成为更清晰的视觉中心。",
+          "en": "The photograph’s strength lies in the layers formed by the curving coast and rolling pastures. Lines of surf lead the eye from the left into the bay, while distant hills and horizontal cloud bands give the scene a spacious, quiet rhythm. Low sunlight grazes the grassy slopes; the golden greens contrast naturally with the cool blue water, and alternating light and shade describe the terrain well. The subject is the pastoral atmosphere of the whole coastline rather than a single distinct focal point, creating a peaceful, expansive impression. The main weakness is the amount of space occupied by nearly black foreground plants and the shaded headland on the right. The tangled foliage also competes with the luminous bay and fields. The most valuable improvement would be to reduce the foreground’s share of the frame, keeping a little vegetation as a border so the bay’s curve and sunlit pastures become a clearer visual center.",
+          "ja": "海岸の曲線と起伏する牧草地が生む重なりが、この写真の長所です。波の線が左から湾へ視線を導き、遠くの山並みと横長の雲が、広がりのある静かなリズムをつくっています。低い角度の光が草の斜面を照らし、金色を帯びた緑と海の冷たい青の対比も自然です。明暗の繰り返しが地形をよく伝えています。明確な一点よりも海岸全体の牧歌的な雰囲気が主題となり、穏やかで開放的な印象があります。主な弱点は、ほぼ黒く沈んだ手前の植物と右側の暗い岬が広い面積を占めていることです。入り組んだ葉の輪郭も、明るい湾や草地の魅力を弱めています。最も改善したいのは手前の植物の比率で、縁取りとして少し残す程度に抑えると、湾の曲線と光の当たる牧草地が、より明確な画面の中心になります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "2167d142229296556c838af9a1f8fdb392776f40eaf5f3718326d4c95bb750f1",
+        "evaluatedAt": "2026-11-15T17:21:20.126Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00041.jpg",
         "width": 1920,
@@ -633,6 +997,20 @@
         "country": "newzealand"
       },
       "sourceHash": "6d4360164e72765f4de39ad9d058edff8f79986f0744def2d11671150306c93d",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "这张照片的优势在于金黄秋林、冷蓝湖水与远处雪山形成鲜明而协调的色彩关系，平滑的倒影和舒展的云层营造出安静、开阔的气氛。两岸山坡与树林把视线引向中央雪峰，左侧小船和右侧码头也提供了尺度与生活气息。光线让秋叶透亮，但岸边阴影较重，雪山的层次与主体地位略受削弱；蓝色也稍显浓重。最值得改进的是画面重心：天空和水面占比都很大，中央雪山却偏小，视觉注意力容易停留在亮云及其倒影上。适度裁去底部水面，并略收紧上方天空，会让秋林、雪山和倒影之间的联系更集中。整体是一张完成度较高、氛围动人的风光作品，但主次还可以更明确。",
+          "en": "The strongest feature is the vivid yet harmonious relationship between golden autumn trees, cool blue water and distant snowy mountains. Smooth reflections and sweeping clouds create a quiet, expansive atmosphere. The slopes and trees on both banks guide the eye toward the central peaks, while the boat on the left and jetty on the right add scale and a sense of human presence. Light gives the foliage a lovely glow, but deep shoreline shadows weaken the mountains’ tonal separation and prominence; the blues also feel slightly heavy. The most valuable improvement would be a clearer visual focus: sky and water both occupy large areas, while the central mountains remain small, allowing the bright clouds and their reflections to dominate attention. Trimming some water from the bottom and slightly tightening the sky would concentrate the relationship between trees, mountains and reflections. This is a polished, atmospheric landscape, though its visual hierarchy could be stronger.",
+          "ja": "黄金色の紅葉、冷たい青の湖面、遠くの雪山がつくる、鮮やかで調和の取れた色彩が魅力です。滑らかな映り込みと大きく広がる雲が、静かで開放的な雰囲気を生んでいます。両岸の斜面と木々は中央の雪山へ視線を導き、左の船と右の桟橋はスケール感と人の気配を添えています。光は紅葉を美しく輝かせていますが、岸辺の影が深く、雪山の階調の分離と存在感はやや弱めです。青も少し強く感じます。最も改善したいのは視覚的な重心です。空と水面がともに広い一方、中央の雪山は小さく、明るい雲とその映り込みに目を奪われやすくなっています。下部の水面を適度に切り、上部の空も少し詰めると、紅葉、雪山、映り込みの関係がより凝縮されるでしょう。完成度と情緒のある風景写真ですが、主役と脇役の関係にはさらに明確にできる余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "afadcecaa09d5083a8da35a6bdc38a20433b588ea8c1e685b84ec6942227f321",
+        "evaluatedAt": "2026-11-15T17:21:41.504Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00042.jpg",
         "width": 1920,
@@ -657,6 +1035,20 @@
         "country": "newzealand"
       },
       "sourceHash": "977473774c9e3126e7bd485530a893da2fb71c094ffd08da6f6836f885dc712a",
+      "aiReview": {
+        "score": 84,
+        "comments": {
+          "zh-CN": "星空、极光与湖面倒影形成了完整的夜景层次。地平线放在较低位置，让绿色光带和向上延伸的粉紫色光柱有足够空间展开；两侧山体与树木剪影稳住画面，宁静而有尺度感。绿色与紫红色的呼应自然，湖面柔和的反射也增强了现场的神秘气氛。不足在于主体的视觉集中度：极光最鲜明的部分压在近地平线处，被横向云层切割，上方星空和下方暗水面又占据较大面积，使冲击力略显分散。最值得改进的是适度收紧构图，优先裁去底部缺少细节的暗水面，并避开右下角杂草，让极光及其倒影更突出。整体是一张氛围出色、色彩动人的风光照片，但构图仍有精简空间。",
+          "en": "The stars, aurora and lake reflections create a well-layered night landscape. The low horizon gives the green band and rising pink-purple rays room to unfold, while mountain and tree silhouettes anchor the scene and convey quiet scale. Green and magenta relate naturally, and the soft reflections deepen the mysterious atmosphere. The weakness is visual concentration: the brightest aurora sits close to the horizon, interrupted by horizontal clouds, while the extensive sky and dark water disperse its impact. The most useful improvement would be a tighter crop, primarily removing some detail-poor water at the bottom and excluding the grasses at the lower right, giving the aurora and its reflection greater prominence. This is an atmospheric landscape with compelling colour, though the composition could still be simplified.",
+          "ja": "星空、オーロラ、湖面の反射が、奥行きのある夜景を作っています。地平線を低く置いたことで、緑の光の帯と上へ伸びるピンクや紫の光柱に十分な広がりが生まれています。山と木々のシルエットも画面を支え、静けさとスケールを伝えています。緑と赤紫の調和は自然で、柔らかな映り込みが神秘的な雰囲気を深めています。惜しいのは、主題への視線の集中です。最も鮮やかなオーロラが地平線付近に寄り、横に伸びる雲に分断されているうえ、広い星空と暗い水面によって印象がやや散漫になっています。最も効果的な改善は構図を少し引き締めることです。特に下部のディテールに乏しい水面を減らし、右下の草を画面から外すと、オーロラと反射がより際立ちます。雰囲気と色彩に優れた風景写真ですが、構図にはまだ整理する余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "c532d3daaa512234bd1ca1a76e6e76a3eb5410712ebc17a0c09330ff980b3057",
+        "evaluatedAt": "2026-11-15T17:22:05.037Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00044.jpg",
         "width": 1920,
@@ -682,6 +1074,20 @@
         "country": "newzealand"
       },
       "sourceHash": "c8b96e11e22426724b1e1dac0f4cc01d9236f0c2d3d333617d0b766805f642f2",
+      "aiReview": {
+        "score": 88,
+        "comments": {
+          "zh-CN": "银河拱桥横贯天空，与右下方极光及湖面倒影形成有力呼应；低地平线让天空成为明确主体，山脊则提供了尺度和层次。极光由绿色过渡到红色，与偏冷的星空构成鲜明而协调的色彩关系，整体有很强的现场感和感染力。岸边暗部稍显沉重，零星灯光及其反射也会分散注意力。最值得改进的是天空的明暗层次：目前灰亮的底色削弱了银河尘埃带的立体感，若适度压低天空背景亮度、加强银河局部对比，同时保留极光柔和的渐变，画面会更凝练。题材与构图都很出色，但影调尚有提升空间。",
+          "en": "The Milky Way arch stretches across the sky and creates a strong visual relationship with the aurora at lower right and its reflection. The low horizon clearly prioritizes the sky, while the mountain ridge provides scale and depth. The aurora’s transition from green to red contrasts vividly yet harmoniously with the cooler stars, giving the photograph considerable atmosphere and impact. The dark shoreline feels slightly heavy, and scattered lights and their reflections draw some attention away. The most valuable improvement would be the sky’s tonal separation: its gray, bright background currently weakens the dimensionality of the Milky Way’s dust lanes. Modestly darkening that background and increasing local contrast in the Milky Way, while preserving the aurora’s soft gradients, would make the image more focused. The subject and composition are excellent, with room to refine the tonal treatment.",
+          "ja": "空を横切る天の川のアーチが、右下のオーロラと湖面の映り込みに力強く呼応しています。低い地平線によって空が明確な主役となり、山並みがスケール感と奥行きを添えています。緑から赤へ移るオーロラと寒色寄りの星空の対比は鮮やかでありながら調和があり、臨場感と強い訴求力があります。一方、暗い岸辺はやや重く、点在する人工光とその反射にも視線が引かれます。最も改善したいのは空の明暗の分離です。現状では灰色がかった明るい背景が、天の川の暗黒帯の立体感を弱めています。空の背景を適度に暗くし、天の川の局所的なコントラストを高めつつ、オーロラの柔らかな階調を保つと、画面がさらに引き締まるでしょう。被写体と構図は優れていますが、階調表現には磨ける余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d8860aa054016db485d66cb79d3eff00b2ed0574f02cbccd03be2dde9add6082",
+        "evaluatedAt": "2026-11-15T17:22:27.524Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00045.jpg",
         "width": 1920,
@@ -706,6 +1112,20 @@
         "country": "newzealand"
       },
       "sourceHash": "f0b12e86c38cb3862b780281a19ecaef0ea8d6b72bea791a6f3025c6d9bb45f7",
+      "aiReview": {
+        "score": 87,
+        "comments": {
+          "zh-CN": "这张照片的感染力来自绿、粉红极光与密集星空的叠加，湖面倒影又把天空的色彩延伸到前景，形成完整而宁静的夜景。地平线位于偏下位置，让天空成为明确主体；山体、树线和横向云层提供了层次，右侧明亮的斜向光迹则增加了视觉张力。曝光保留了极光的渐变和星点，暗部也维持了夜晚的气氛，不过天空的颗粒感较明显，地平线附近的绿色稍显浓烈。最值得改进的是下方前景的取舍：底部大片暗水面信息较少，右下角草枝也略显杂乱。适度裁去底部，保留主要倒影，会让极光与光迹更集中，画面更有力度。整体是出色的风光作品，但前景尚未达到与天空同等精炼的程度。",
+          "en": "The photograph draws its impact from green and pink auroral light beneath a dense star field, with reflections extending the sky’s colour into a calm, cohesive foreground. The low horizon establishes the sky as the main subject; mountains, the tree line and horizontal clouds provide layers, while the bright diagonal light trail on the right adds visual tension. The exposure preserves the aurora’s gradients and individual stars while maintaining a convincing nighttime atmosphere, although grain is noticeable in the sky and the green near the horizon feels slightly intense. The most valuable improvement would be refining the lower foreground: a large area of dark water offers little detail, and the grasses at bottom right introduce some clutter. A modest crop from the bottom, retaining the main reflections, would concentrate attention on the aurora and light trail and strengthen the image. This is an excellent landscape photograph, though the foreground is less refined than the sky.",
+          "ja": "緑とピンクのオーロラに満天の星が重なり、強い印象を生んでいます。湖面の反射が空の色を手前へとつなぎ、静かでまとまりのある夜景になっています。低めに置いた地平線によって空が明確な主役となり、山並み、樹木のシルエット、横に伸びる雲が奥行きを作っています。右側の明るい斜めの光跡も、画面に緊張感を加えています。露出はオーロラの階調と星の点像を保ち、暗部にも夜らしい雰囲気が残っていますが、空の粒状感は目立ち、地平線付近の緑もやや強く感じられます。最も改善したいのは下部の前景の整理です。暗い水面が広く、視覚的な情報が少ないうえ、右下の草も少し雑然としています。主要な反射を残して下部を適度に切り詰めると、オーロラと光跡に視線が集中し、より力強い構図になります。優れた風景写真ですが、前景には空と同程度に洗練させる余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "95ee51cf9ff9975f749fbbe34aafa64e34ce81dca8f88a0120cfe87b9ce16897",
+        "evaluatedAt": "2026-11-15T17:22:52.071Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00046.jpg",
         "width": 1920,
@@ -730,6 +1150,20 @@
         "country": "newzealand"
       },
       "sourceHash": "c271c66f6c03d2fc2b44f2b32dae5b3c9961f185a514de252b1a40cdf52f4543",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这张深空照片最有吸引力的是蓝色与金黄色星云的冷暖呼应，以及贯穿画面下半部的暗尘带：它们让密集星场产生了层次和空间感。竖幅构图容纳了云气的延伸，右侧金色亮区与左下蓝色区域形成斜向联系，但上方较大面积的星场相对松散，削弱了主体的集中度。亮星及其周围的辉光提供了明确的视觉落点，色彩也有感染力，不过部分亮区显得泛白，细微层次有所损失。最值得改进的是星点质量：许多小星呈短划或不规则斑点状，叠加明显的颗粒感，使画面显得躁动，影响了星云本应具有的细腻感。整体题材表现鲜明、视觉效果较强，但精细度还不足以进入优秀档。",
+          "en": "The strongest feature of this deep-sky photograph is the interplay between blue and golden nebulosity, together with the dark dust lanes running through the lower half. These give the dense star field depth and structure. The vertical composition accommodates the clouds’ extension, and the golden area on the right connects diagonally with the blue region at lower left, although the relatively loose expanse of stars above weakens the subject’s concentration. Bright stars and their surrounding glow provide clear visual anchors, and the colours are evocative, but some luminous areas look washed out and lose subtle gradation. The most valuable improvement would be star quality: many smaller stars appear as short streaks or irregular flecks, which combine with visible grain to make the image restless and compromise the nebula’s delicacy. Overall, the subject is vividly conveyed and the visual impact is strong, but the image needs greater refinement to reach the excellent range.",
+          "ja": "この深宇宙写真の魅力は、青と金色の星雲が生む寒暖の対比と、画面下半分を走る暗いダストの帯です。これらが密集した星野に奥行きと構造を与えています。縦位置の構図は星雲の広がりを収め、右側の金色の領域と左下の青い領域が斜めにつながっていますが、上部の星野はやや散漫で、主題のまとまりを弱めています。明るい星とその周囲の光が視線の拠点となり、色彩にも訴求力があります。ただし、一部の明部は白っぽくなり、繊細な階調が失われています。最も改善したいのは星像の質です。小さな星の多くが短い線や不規則な点に見え、目立つ粒状感と重なって画面を騒がしくし、星雲の繊細さを損ねています。主題は鮮やかに伝わり、視覚的な印象も強い一枚ですが、優秀と評価するには仕上がりの精緻さがもう一段必要です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "f95b1339dbf98134ec847fcecb9df4c0edec33bc69c46a7e11b93632aa8b8594",
+        "evaluatedAt": "2026-11-15T17:23:17.216Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00047.jpg",
         "width": 1280,
@@ -754,6 +1188,20 @@
         "country": "newzealand"
       },
       "sourceHash": "c2f15265c231904941d7cad8d2720b36b85e3c5b228269cbd7d64ccf32fbc0a7",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "雪山、灌木与湿地形成清晰的远中近层次，前景水面带来空间感，右侧山坡的斜线也将视线引向远处尖峰。蓝色天空、水面与金褐色草地搭配自然，雪山纹理清楚，景色有清冷而宁静的感染力。光线反差较大，左下岩石和灌木暗部偏重，山顶亮雪则有效吸引视线。构图的主要不足是视觉重心分散：前景池塘占幅很大，却没有足够鲜明的倒影或形态支撑，远处主峰的分量因此被削弱。最值得改进的是收紧取景，适当减少底部水面，让雪峰与山谷成为更明确的中心。整体是一张层次扎实、色彩舒服的风景照，但主体凝聚力还不足以达到出色作品的程度。",
+          "en": "The snowy mountains, shrubs and wetland create clear layers of depth. The foreground water adds space, while the diagonal hillside on the right guides the eye toward the distant pointed peak. Blue sky and water pair naturally with the golden-brown grasses, and the detailed snow-covered mountains give the scene a crisp, tranquil appeal. The light is quite contrasty: the rocks and shrubs at lower left are heavy in shadow, while bright snow near the summits draws attention effectively. The main compositional weakness is a dispersed visual focus. The foreground pond occupies a large area without a sufficiently distinctive reflection or shape to sustain it, reducing the distant main peak’s presence. The most useful improvement would be tighter framing, removing some water at the bottom so the snowy peaks and valley become a clearer center of attention. Overall, this is a strong landscape with solid depth and pleasing color, but its subject lacks the concentration needed for an excellent image.",
+          "ja": "雪山、低木、湿地が明確な遠近の層をつくっています。手前の水面が奥行きを生み、右側の斜面の対角線も遠くの鋭い峰へ視線を導いています。青い空と水面に黄金色から茶色の草が自然に調和し、雪山の細かな質感とともに、澄んだ静けさが伝わります。光のコントラストは強く、左下の岩や低木の影は重めですが、山頂付近の明るい雪は効果的に目を引きます。構図上の主な弱点は、視線の中心が分散していることです。手前の池は大きな面積を占める一方、それを支えるほど印象的な映り込みや形がなく、遠くの主峰の存在感を弱めています。最も改善したいのは画角を絞ることで、下部の水面を適度に減らし、雪峰と谷をより明確な中心にするとよいでしょう。奥行きと色彩の整った見応えのある風景写真ですが、優れた一枚と呼ぶには主題への集中がもう少し必要です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a2fdea5c443681e9a3c62507674b7ea105b0f29aab6c39e375464dc5b5ece247",
+        "evaluatedAt": "2026-11-15T17:23:43.853Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00049.jpg",
         "width": 1920,
@@ -779,6 +1227,20 @@
         "country": "newzealand"
       },
       "sourceHash": "40ec8e7ad69c8766e8058029750b7753ec66e0dbe695f820f578c30726320bca",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "前景清澈的水塘与红褐色水草提供了丰富细节，水道把视线带向远处雪山，右侧山坡的斜线也形成了自然的框景。逆光太阳的星芒增添现场感，冷蓝色水面、天空与金黄草地之间的对比鲜明，整体具有清冷而明亮的高山气息。不过，左侧灌木阴影厚重，耀斑削弱了局部层次；右侧大面积山坡与上方天空也分散了雪山的注意力，使主体表达略显松散。最值得改进的是取景时强化雪山与水面的联系：调整机位，减少右侧山坡和左侧暗灌木的占比，让水道更直接地引向山峰。画面细节与色彩很有吸引力，但视觉重心还可以更集中。",
+          "en": "The clear foreground pool and reddish aquatic plants provide rich detail, while the water channels lead the eye toward the snowy mountains and the diagonal hillside on the right creates a natural frame. The sunstar adds a sense of presence, and the cool blue water and sky contrast vividly with the golden grass, conveying a crisp, luminous alpine atmosphere. However, the heavy shadows in the left-hand shrubs and the flare weaken local tonal separation. The broad hillside on the right and the expanse of sky also compete with the mountains, leaving the subject somewhat diffuse. The most worthwhile improvement would be to strengthen the connection between the mountains and the water through camera placement: reduce the prominence of the right hillside and dark shrubs on the left, and let the water channels lead more directly toward the peaks. The detail and colour are compelling, but the visual focus could be tighter.",
+          "ja": "手前の澄んだ池と赤褐色の水草が豊かなディテールを生み、水の通り道が奥の雪山へ視線を導いています。右側の斜面の対角線も自然な額縁として働いています。太陽の光条は臨場感を添え、水面と空の冷たい青と草地の黄金色との対比が、澄んで明るい高山の空気を伝えています。一方、左側の低木の影は重く、フレアによって部分的な階調の分離が弱まっています。右側の広い斜面と空も雪山から注意をそらし、主題がやや散漫です。最も改善したいのは、撮影位置を調整して雪山と水面のつながりを強めることです。右の斜面と左の暗い低木の占める割合を減らし、水の流れがより直接的に山頂へ視線を導く構図にするとよいでしょう。細部と色彩には魅力がありますが、視覚的な重心をさらに絞れます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a47392382e0aafa9313a89fe4116982951558579b654d3c319e22f9c5929ab7b",
+        "evaluatedAt": "2026-11-15T17:24:09.207Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00050.jpg",
         "width": 1920,
@@ -802,6 +1264,20 @@
         "country": "newzealand"
       },
       "sourceHash": "b7f5a302f8f705f0faa5da5eed012141b80ff40f425b906260b9df1e20c47719",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "这张照片的力量来自雪山坚硬的纹理与月亮轻柔轮廓之间的对照。主峰偏右，月亮位于左上方，两者形成清楚的视觉呼应；大片蓝天也给密集的山体细节留出了呼吸空间。斜射阳光勾出岩壁的棱线，暖色受光面与偏蓝的积雪、阴影相互衬托，色彩克制而协调。山体细节丰富，月亮增添了尺度感与安静的气氛，但它的对比较低，视觉重心仍明显落在山上。最值得改进的是底部杂乱的深色枝叶：它们虽提供了一点前景层次，却切入山体、分散注意力，也没有形成有力的框景。拍摄时调整机位，尽量避开这些枝叶，会让山与月的关系更纯粹。整体是一张光线出色、质感扎实的山景照片，但前景控制尚未达到同样的完成度。",
+          "en": "The photograph’s strength lies in the contrast between the mountains’ hard textures and the moon’s soft outline. The main summit sits to the right, balanced by the moon above the left side, while the broad blue sky gives the dense mountain detail room to breathe. Angled sunlight defines the rock ridges, and the warm illuminated faces work harmoniously with the cooler snow and shadows. The mountains hold rich detail, and the moon adds scale and a quiet atmosphere, though its low contrast leaves the mountains clearly dominant. The most worthwhile improvement is the clutter of dark foliage along the bottom: it adds some foreground depth but interrupts the mountains, distracts attention, and does not create a convincing frame. Adjusting the camera position to avoid those branches would clarify the relationship between mountain and moon. Overall, this is a strong mountain photograph with excellent light and substantial texture, but the foreground is less resolved.",
+          "ja": "この写真の強みは、雪山の硬質な質感と月の柔らかな輪郭の対比にあります。右寄りの主峰と左上の月が視覚的に呼応し、広い青空が緻密な山肌に余白を与えています。斜めからの陽光が岩壁の稜線を際立たせ、暖色の受光面と青みを帯びた雪や影が、控えめで調和のある色彩を生んでいます。山の描写は豊かで、月はスケール感と静けさを添えていますが、コントラストが低いため、視覚的な重心は明確に山にあります。最も改善したいのは、画面下部に散らばる暗い枝葉です。前景として多少の奥行きは与えるものの、山に重なって注意をそらし、効果的な額縁にもなっていません。撮影位置を調整して枝葉を避ければ、山と月の関係がより明快になるでしょう。全体として、光と質感に優れた力のある山岳写真ですが、前景の整理にはまだ改善の余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "350038b5f2fc9e0a43a6f9ac98be9a56107af9b05732d19b59d7d0a16b082ff1",
+        "evaluatedAt": "2026-11-15T17:24:34.113Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00051.jpg",
         "width": 1920,
@@ -826,6 +1302,20 @@
         "country": "newzealand"
       },
       "sourceHash": "557d228c31269b563525aa8c41bccc814cd9e14f5c7659d546ef7fe680953d18",
+      "aiReview": {
+        "score": 72,
+        "comments": {
+          "zh-CN": "湖面的蓝色、雪山的白色与前景草木的暖褐色形成清晰而舒服的冷暖对照，远处山脊和湖岸的层次也交代得很好。晴朗的侧光让积雪、屋顶和地面的纹理鲜明，雪山亮部保留了细节，但前景阴影偏重，光线的情绪变化较少。构图中湖岸的斜线能引导视线向远山延伸，不过左侧建筑与高耸的通信天线占据了很强的视觉权重，尤其天线切入天空和山景，使自然风光与人工设施争夺主体；上方较大面积的空白天空又削弱了画面的集中度。整体清晰、色彩明快，风景本身很有吸引力，但观看时容易先停留在设备上。最值得改进的是拍摄机位：若想突出湖山，应向右移动或寻找能避开建筑与天线的位置，让湖岸和雪山建立更明确的主次关系。",
+          "en": "The blue lake, white mountains and warm brown foreground vegetation create a clear, pleasing contrast, while the distant ridges and shoreline give the scene a good sense of depth. Clear side lighting brings out textures in the snow, roof and ground, with detail retained in the mountain highlights, although the foreground shadows are heavy and the light offers limited mood. The diagonal shoreline leads the eye toward the mountains, but the building and tall communications antennas on the left carry considerable visual weight. In particular, the antennas interrupt the sky and mountain view, leaving the natural scenery and infrastructure competing for attention; the large area of empty sky further reduces concentration. The image is crisp and brightly coloured, and the landscape is appealing, but the equipment tends to catch the eye first. The most valuable improvement would be the camera position: if the lake and mountains are the intended subject, move right or find a viewpoint that excludes the building and antennas, giving the shoreline and snowy peaks a clearer visual hierarchy.",
+          "ja": "青い湖、白い雪山、前景の草木の暖かな褐色が、明快で心地よい寒暖の対比を生んでいます。遠くの稜線と湖岸の重なりも、奥行きをよく伝えています。晴天の斜光は雪や屋根、地面の質感を際立たせ、雪山の明部にも細部が残っていますが、前景の影は重く、光による情緒の変化は控えめです。湖岸の斜線は視線を遠山へ導く一方、左側の建物と高い通信アンテナが強い存在感を持っています。特にアンテナが空と山並みを分断し、自然風景と人工物のどちらを見せたいのかが曖昧になっています。上部の広い空も、画面の集中力を弱めています。全体は鮮明で色彩も爽やかですが、魅力的な風景より先に設備へ目が向きやすい写真です。最も改善したいのは撮影位置です。湖と雪山を主役にするなら、右へ移動するなどして建物とアンテナを避けられる場所を探すと、湖岸と山並みの主従関係が明確になります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "ebe2f74f4f824403b1e71ddb044aa59d2ee41b2deb76dbf8ebb55ad8ac367ff0",
+        "evaluatedAt": "2026-11-15T17:24:58.504Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00053.jpg",
         "width": 1920,
@@ -851,6 +1341,20 @@
         "country": "newzealand"
       },
       "sourceHash": "f212675aa09a3d7503c57f28c99d2f48f247b3f1787ae199aa5fc17b5a943f61",
+      "aiReview": {
+        "score": 87,
+        "comments": {
+          "zh-CN": "构图层次清楚：前景湖水与金黄树丛、中景石教堂、远处雪山依次展开，教堂偏右的位置与左侧开阔湖面形成平衡。低角度暖光照亮树冠和教堂侧墙，与蓝色湖水、雪山阴影形成鲜明而协调的冷暖对比，山体纹理也很有立体感。教堂虽小，仍能提供明确的人文落点，但明亮雪山和饱满的金黄树丛同样抢眼，使主体的视觉优先级稍弱。整体兼具壮阔与宁静，完成度很高。最值得改进的是主体层级：拍摄时可略微调整机位，减少前景树丛在教堂下方的视觉堆叠，让教堂获得更简洁的衬托。",
+          "en": "The composition has clear depth: foreground water and golden trees lead to the stone church, then the snowy mountains. The church’s placement to the right balances the open lake on the left. Low, warm light illuminates the foliage and church wall, creating a vivid yet harmonious contrast with the blue water and cool mountain shadows while giving the slopes strong texture and volume. Although small, the church provides a clear human anchor; however, the bright snow and dense golden foliage compete for attention, slightly weakening its visual priority. The photograph feels both expansive and peaceful, with excellent overall execution. The most valuable improvement would be clearer subject hierarchy: a slight change of viewpoint could reduce the visual buildup of foreground trees beneath the church and give it a simpler setting.",
+          "ja": "前景の湖水と黄金色の木々、中景の石造りの教会、遠景の雪山という奥行きが明快です。右寄りの教会と左側に広がる湖面の配置も、よいバランスを生んでいます。低い角度の暖かな光が木々と教会の側壁を照らし、青い湖水や雪山の冷たい影と鮮やかで調和の取れた対比をつくっています。山肌の質感と立体感も魅力です。小さな教会は風景に人の営みを感じさせる視線の拠点ですが、明るい雪山と密度の高い黄金色の木々も目を引くため、主役としての優先順位はやや弱まっています。雄大さと静けさを兼ね備えた、完成度の高い写真です。最も改善したいのは主役の見せ方です。撮影位置を少し変え、教会の下に重なる前景の木々を整理できれば、教会がよりすっきりと引き立つでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "fac5137071e0e8686efb3cf0bb63b82af029d497071220fd24542ad5a55c9d9d",
+        "evaluatedAt": "2026-11-15T17:25:20.173Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00054.jpg",
         "width": 1920,
@@ -876,6 +1380,20 @@
         "country": "newzealand"
       },
       "sourceHash": "8497544a90c1a7bd1bee9781d231bb1945c86794caab81399cad04bb18368478",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "这张照片的长处在于层次和冷暖关系：近处金黄的树木、平静的蓝色湖面与远处雪山形成清楚的空间递进，细碎云层也让大面积天空有了纹理。左右树木构成自然框景，左侧粗壮树干提供视觉支撑，但分量偏重，雪山则被压在较窄的水平带内。光线柔和，雪地和云层保留了细节，不过缺少能突出山体的方向性光照，整体更偏宁静的记录，而非强烈的视觉表达。蓝天与秋叶配色悦目，水面倒影进一步连接了两者。最值得改进的是画面取舍：底部大片灰褐色空地吸引了不必要的注意，湖边告示牌也打断了自然景观的连贯性。建议优先调整机位，在避开告示牌的同时减少空地占比，让湖面与雪山成为更明确的视觉中心。整体是一张完成度较高、季节气息鲜明的风景照，但主体集中度限制了感染力。",
+          "en": "The photograph’s strengths are its depth and warm–cool colour relationships: golden foreground trees, a calm blue lake and distant snowy mountains create clear spatial layers, while scattered clouds give the expansive sky texture. Trees on both sides form a natural frame, and the substantial trunks on the left anchor the composition, although their visual weight dominates and the mountains occupy a rather narrow horizontal band. The light is gentle, preserving detail in the snow and clouds, but lacks directional emphasis on the mountains; the result feels more like a peaceful observation than a forceful visual statement. The blue sky and autumn foliage work well together, with reflections linking their colours across the water. The most worthwhile improvement is more selective framing: the broad grey-brown foreground draws unnecessary attention, and the lakeside sign interrupts the continuity of the natural scene. Adjusting the camera position to exclude the sign and reduce the bare ground would give the lake and mountains a clearer visual focus. This is an accomplished landscape with a distinct seasonal atmosphere, but its dispersed emphasis limits its emotional impact.",
+          "ja": "この写真の良さは、奥行きと暖色・寒色の関係にあります。手前の黄金色の木々、穏やかな青い湖、遠くの雪山が明確な層をつくり、細かな雲が広い空に表情を与えています。左右の木々は自然な額縁となり、左側の太い幹が構図を支えていますが、その存在感が強く、雪山は細い横帯に収まっています。光は穏やかで、雪や雲の細部も残っています。ただ、山の立体感を引き立てる方向性のある光に乏しく、強い視覚的表現というより、静かな観察として伝わります。青空と秋の葉の配色は美しく、水面の映り込みが両者をつないでいます。最も改善したいのは、画面に入れる範囲の整理です。下部の広い灰褐色の地面が余分に目を引き、湖畔の看板も自然の景観の連続性を途切れさせています。撮影位置を調整し、看板を避けながら地面の割合を減らすと、湖と雪山がより明確な視線の中心になるでしょう。季節感が鮮明で完成度の高い風景写真ですが、視線の集中が弱いことが、印象の強さを抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "1830813af8a45fc5c75435d8c31b815f96eee97d2d4d1bdfbf0f7e00038500a1",
+        "evaluatedAt": "2026-11-15T17:25:50.152Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00056.jpg",
         "width": 1920,
@@ -902,6 +1420,20 @@
         "country": "newzealand"
       },
       "sourceHash": "17574046fe155cc7382ce85de33c181d7747201a1b27492f4f3757099c87b5dd",
+      "aiReview": {
+        "score": 83,
+        "comments": {
+          "zh-CN": "密集的斜向星轨占据大部分画面，与左侧大树、右侧较低的树群形成鲜明的动静对照；远处雪山和湖面把天空的宏大尺度落到具体景物上，构图有力量。冷蓝天空与橙褐树叶的配色协调，树干剪影也保留了清晰的枝条结构。主体明确，时间流动的感觉很强，但星轨密度和亮度较高，让天空略显拥挤，前景照明则偏平，底部暗地面贡献有限。最值得改进的是画面下方中央的红色曲折光迹及其倒影：它们色彩突兀、形状杂乱，容易把视线从星轨与树木的关系上拉走。若在拍摄或合成时控制这部分干扰，整体会更凝练、更有沉浸感。",
+          "en": "Dense diagonal star trails dominate the frame, creating a strong contrast between motion in the sky and the large tree on the left and lower trees on the right. The distant snowy mountains and lake anchor the sky’s immense scale in a tangible landscape, giving the composition strength. The cool blue sky and orange-brown foliage work well together, and the silhouetted trunks retain clearly defined branches. The subject is clear and the passage of time feels vivid, though the density and brightness of the trails make the sky somewhat crowded. Foreground lighting is comparatively flat, and the dark ground along the bottom contributes little. The most valuable improvement would be to control the angular red light trails and their reflections near the lower centre: their conspicuous colour and irregular shapes draw attention away from the relationship between the stars and trees. Managing this distraction during capture or compositing would make the image more cohesive and immersive.",
+          "ja": "画面の大部分を占める密な斜めの星の軌跡が、左の大きな木と右の低い木立との間に、力強い動静の対比を生んでいます。遠景の雪山と湖が空の壮大なスケールを具体的な風景につなぎ、構図に説得力を与えています。冷たい青の空と橙褐色の葉の組み合わせもよく、シルエットになった幹や枝の形も明瞭です。主題は明確で、時間の流れが強く伝わります。ただ、星の軌跡の密度と明るさによって空はやや過密に感じられ、前景の光は平板で、下端の暗い地面もあまり効果的ではありません。最も改善したいのは、画面下部中央の折れ曲がった赤い光跡とその映り込みです。目立つ色と不規則な形が、星と木々の関係から視線をそらしています。撮影や合成の段階でこの要素を抑えれば、よりまとまりがあり、没入感の深い作品になるでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "a5bed945f1840f1ee6795fd29a0d9cf1b27c012b7f1ec946e4745fe6c295c2b3",
+        "evaluatedAt": "2026-11-15T17:26:12.871Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00057.jpg",
         "width": 1920,
@@ -925,6 +1457,20 @@
         "country": "newzealand"
       },
       "sourceHash": "d0fafe5946c5e1431d68e9ef2fdf5d8e0d488d5f2d8e6900995eddc8dd04e8c8",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "低机位让两团绣球形成前后层次，偏左的主体与右侧枝叶取得平衡，浅蓝紫花瓣与金黄背景的冷暖对比鲜明。逆光勾亮花瓣边缘，树叶散景带来温暖、浓郁的氛围，花瓣细节也有一定表现力。不过，中央太阳及右侧大片接近纯白的亮区比花朵更抢眼，削弱了主体的凝聚力；下方花球贴边、左下虚化花朵的遮挡也略显拥挤。最值得改进的是拍摄位置：稍微移动，让花球或树干多遮住直射阳光，缩小高亮区域，能保留逆光的通透感，同时让视线更稳定地落在花上。整体色彩动人、氛围鲜明，但光线与画面边缘的控制仍限制了完成度。",
+          "en": "The low viewpoint gives the two hydrangea clusters a clear sense of depth, while the left-weighted subject is balanced by foliage on the right. Pale blue-violet petals contrast vividly with the golden background. Backlight illuminates the petal edges, and leafy bokeh creates a warm, rich atmosphere, with some appealing petal detail. However, the central sun and large near-white areas on the right attract more attention than the flowers, weakening the subject’s focus. The lower cluster pressing against the frame and the blurred flowers overlapping at bottom left also feel somewhat crowded. The most valuable improvement would be a small change in camera position: let a flower cluster or tree trunk obscure more of the direct sunlight to reduce the bright areas. This would preserve the luminous backlighting while keeping attention more firmly on the flowers. The colour and atmosphere are compelling, but control of the light and frame edges limits the photograph’s refinement.",
+          "ja": "低い視点によって二つのアジサイの花房に奥行きが生まれ、左寄りの主役と右側の枝葉がバランスを取っています。淡い青紫の花びらと黄金色の背景の寒暖対比も鮮やかです。逆光が花びらの縁を照らし、木々の玉ボケが暖かく濃密な雰囲気をつくり、花びらの細部にも魅力があります。ただし、中央の太陽と右側に広がる白に近い明部が花よりも目を引き、主役への視線の集中を弱めています。下の花房が画面の端に接していることや、左下のぼけた花の重なりにも、やや窮屈さがあります。最も改善したいのは撮影位置です。少し移動して花房や幹で直射光をもう少し隠し、明るい部分を小さくすると、逆光の透明感を残しながら花へ視線を集められます。色彩と雰囲気には訴求力がありますが、光と画面周辺の整理に、完成度を高める余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "46fc0d8a99fe62fef82b44a6f77c973d1a3d6cc2eb4e75441f59bc3021dd7e6b",
+        "evaluatedAt": "2026-11-15T17:26:38.785Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00058.jpg",
         "width": 1920,
@@ -951,6 +1497,20 @@
         "country": "newzealand"
       },
       "sourceHash": "c00f0770a7e58279d1e88b75dd7e46cf8650b3820e9ff625311a79f26522d49f",
+      "aiReview": {
+        "score": 83,
+        "comments": {
+          "zh-CN": "这张照片将银河、秋树和雪山湖泊组织成了有层次的夜景。左侧大树与右上方明亮的银河形成对角呼应，低置的山脊给星空留出了充分空间；树枝轮廓也让前景具有辨识度。冷蓝灰的天空与暖金色树叶搭配自然，雪山和湖面上的微光把天地连接起来，整体安静而有吸引力。不过，左侧树冠体量较大，与银河争夺注意力，下方偏暗的土地又占去一些画面，主体表达略显分散。最值得改进的是前景光线：树叶偏亮、树干和地面偏沉，局部照明感较明显。若能压低树冠的暖色亮度，并适度裁去底部暗地，银河会更突出，夜景的统一感和感染力也会更强。",
+          "en": "The Milky Way, autumn trees, snowy mountains and lake create a layered night landscape. The large tree on the left balances the bright Milky Way in the upper right along a diagonal, while the low mountain ridge leaves ample room for the stars. Distinct branch silhouettes give the foreground character. The cool blue-grey sky pairs naturally with the warm golden leaves, and faint light on the mountains and lake connects earth and sky, creating a quiet, engaging atmosphere. However, the large left canopy competes with the Milky Way, and the dark ground takes up additional space, slightly dispersing attention. The most worthwhile improvement is the foreground lighting: the leaves are relatively bright while the trunks and ground remain heavy, making the localized illumination conspicuous. Reducing the canopy’s warm brightness and cropping some dark ground from the bottom would give the Milky Way greater prominence and strengthen the scene’s cohesion and emotional impact.",
+          "ja": "天の川、秋の木々、雪山、湖が重なり、奥行きのある夜景になっています。左の大きな木と右上の明るい天の川が対角線上で呼応し、低く置いた稜線が星空に十分な広がりを与えています。枝のシルエットも前景の個性になっています。青みを帯びた灰色の空と金色の葉の組み合わせは自然で、雪山と湖面のほのかな光が空と地上をつなぎ、静かで魅力的な雰囲気を生んでいます。一方、左の樹冠が大きく、天の川と視線を奪い合っており、下部の暗い地面も面積を取るため、主題への集中が少し弱まっています。最も改善したいのは前景の光です。葉が比較的明るい一方、幹と地面は重く沈み、部分的に照らされた印象が目立ちます。樹冠の暖色の明るさを抑え、下端の暗い地面を少し切り詰めると、天の川がより際立ち、夜景としての統一感と訴求力が高まります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "04e59f8e85ee28b3472db64c2c72f0068fa3b5a8ce4225b5bf87e72b7cc90d6f",
+        "evaluatedAt": "2026-11-15T17:27:01.225Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00059.jpg",
         "width": 1920,
@@ -974,6 +1534,20 @@
         "country": "newzealand"
       },
       "sourceHash": "6aba3964302b432e0d5148456ec9c59390c62a106b49f474420e43e64d638a97",
+      "aiReview": {
+        "score": 72,
+        "comments": {
+          "zh-CN": "紫色花穗与绿色背景形成鲜明对比，蜜蜂的金黄色又提供了醒目的视觉落点；浅景深和柔和光斑营造出温暖、鲜活的花园气息。蜜蜂攀附取食的姿态有趣，头部和胸部保留了一些细节，但主体偏小、位置略低，中央花穗占据较大面积，右侧虚化花穗也分散了注意力。光线偏硬，花瓣亮部接近泛白，紫红色显得有些浓重。整体有观察趣味，但视觉凝聚力尚可加强。最值得改进的是主体突出程度：拍摄时靠近并调整角度，让蜜蜂更大、轮廓更完整，同时避开右侧亮花穗，画面会更有力量。",
+          "en": "The purple flower spike contrasts strongly with the green background, while the bee’s golden colour provides an appealing focal point. Shallow depth of field and soft bokeh create a warm, lively garden atmosphere. The bee’s clinging, feeding posture is engaging, with some detail retained in its head and thorax, but it is relatively small and low in the frame. The central flower spike occupies considerable space, and the blurred flowers on the right compete for attention. The light is rather harsh: bright petals approach washed-out white, and the magenta feels somewhat heavy. The image rewards observation, though its visual focus could be stronger. The most useful improvement is clearer subject emphasis: move closer and adjust the angle to make the bee larger and its outline more complete, while excluding the bright flowers on the right.",
+          "ja": "紫の花穂と緑の背景が鮮やかな対比を生み、ハチの黄金色が目を引くポイントになっています。浅い被写界深度と柔らかな玉ボケから、暖かく生き生きとした庭の空気が伝わります。花につかまって蜜を吸う姿は魅力的で、頭部と胸部にはある程度の細部も見えます。ただ、ハチが小さく画面のやや下にあり、中央の花穂が大きな面積を占めるうえ、右側のぼけた花にも視線が分散します。光はやや硬く、明るい花弁は白く飛びかけ、赤紫も少し濃く感じられます。観察する楽しさはありますが、視線を集める力には改善の余地があります。最も改善したいのは主役の際立たせ方です。近づいて角度を調整し、ハチを大きく、輪郭がより見えるように捉え、右側の明るい花を画面から外すと、さらに力のある写真になります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "9651fbd391ba2caabdfd511ffc465a880f1ed71f2d8aea59d8e7cef59fdf9c35",
+        "evaluatedAt": "2026-11-15T17:27:22.101Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00060.jpg",
         "width": 1920,
@@ -997,6 +1571,20 @@
         "country": "newzealand"
       },
       "sourceHash": "496aa348c9b3e30db70e406884dcfcac2cb0e967ca8d1609d3a61a84f608fed8",
+      "aiReview": {
+        "score": 73,
+        "comments": {
+          "zh-CN": "熊蜂倒挂采蜜的姿态生动，绒毛与翅脉有一定细节，是照片最吸引人的部分。花穗从上方向主体延伸，形成清楚的视觉联系；浅景深也让熊蜂从绿色背景中分离出来。不过主体偏小且位置偏低，左侧大面积虚化区域对画面的贡献有限，右下方明亮的斜向枝叶又分散了注意力。光线较柔和，但花瓣亮部偏白，紫红色显得过于浓烈，削弱了花朵的质感。整体有鲜活的自然趣味，但视觉重心还不够集中。最值得改进的是取景：适度收紧画面，减少左侧空白和右下枝叶，让熊蜂与紧邻的花朵占据更明确的主导位置。",
+          "en": "The bumblebee’s upside-down feeding pose is lively, with some detail in its fur and wing veins providing the photograph’s strongest attraction. The flower spike leads down toward the subject, creating a clear visual connection, while the shallow depth of field separates the bee from the green background. However, the subject is rather small and low in the frame; the large blurred area on the left contributes little, and the bright diagonal foliage at the lower right competes for attention. The light is fairly soft, but the petal highlights look washed out and the magenta is overly intense, reducing the flowers’ texture. The image conveys lively natural interest, though its visual focus could be stronger. The most useful improvement is tighter framing: reduce the empty space on the left and the foliage at the lower right so the bee and its adjacent flowers clearly dominate.",
+          "ja": "逆さにぶら下がって蜜を吸うマルハナバチの姿が生き生きとしており、体毛や翅脈にもある程度の細部が見える点が、この写真の一番の魅力です。上から続く花穂がハチへと視線を導き、浅い被写界深度も緑の背景から主体を浮かび上がらせています。ただ、ハチは画面内でやや小さく、位置も低めです。左側の広いぼけた空間は画面への貢献が少なく、右下の明るい斜めの茎や葉も注意をそらします。光は比較的柔らかいものの、花びらの明部が白っぽく、赤紫色も強すぎるため、花の質感が弱まっています。自然の生き生きとした面白さは伝わりますが、視線の集中には改善の余地があります。最も改善したいのはフレーミングです。左の余白と右下の茎や葉を減らすように少し寄って切り取り、ハチとそのすぐ隣の花を、より明確な主役にするとよいでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "5a8ec793685ad9590f956cd28f77b4b0d817cc1e8d23714b90f84c032d95fc9a",
+        "evaluatedAt": "2026-11-15T17:27:44.784Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00061.jpg",
         "width": 1920,
@@ -1022,6 +1610,20 @@
         "country": "newzealand"
       },
       "sourceHash": "8192958b212245397be7d5f5585525c454dedd0ae968043c053ad81cdb9d517f",
+      "aiReview": {
+        "score": 77,
+        "comments": {
+          "zh-CN": "这张照片最有价值的是海面捕食者与上方群鸥形成的生态叙事：下方动物口中的鱼提供了事件核心，群鸥不同的飞行姿态则带来节奏和动感。统一的蓝灰色水面衬托白色羽翼，红色脚爪成为细小而有效的点缀；柔和光线保留了羽毛和水纹层次，但整体略显灰暗，下方深色动物的细节不够清楚。构图中群鸥集中在上半部，与右下方主体形成斜向呼应，不过两者之间大片水面拉散了注意力，部分鸟翼重叠也使画面稍显杂乱。最值得改进的是取景：适当收紧上下边缘及两组主体之间的空白，让捕食动作更突出，同时保留群鸥的环境关系。整体是一张有故事、有现场感的野生动物照片，但主体尺度与画面凝聚力仍限制了冲击力。",
+          "en": "The photograph’s strongest quality is its wildlife narrative: the fish in the lower animal’s mouth anchors the event, while the gulls’ varied flight poses add rhythm and movement. The consistent blue-grey water sets off the white wings, with red feet providing small, effective accents. Soft light preserves feather and water texture, although the image feels somewhat dull and detail in the dark animal below is difficult to read. The gulls in the upper half form a diagonal relationship with the subject at lower right, but the broad stretch of water between them disperses attention, and overlapping wings introduce some clutter. The most worthwhile improvement is tighter framing: reduce excess space at the top and bottom and, where possible, between the two subject groups, making the feeding action more prominent while retaining its relationship to the gulls. This is an engaging wildlife photograph with a clear sense of an unfolding event, but subject size and compositional cohesion limit its impact.",
+          "ja": "この写真の最大の魅力は、水面の捕食者と上空のカモメがつくる生態の物語です。下方の動物がくわえた魚が出来事の核となり、カモメそれぞれの飛翔姿勢がリズムと動きを生んでいます。統一された青灰色の水面に白い翼が映え、赤い脚も小さなアクセントとして効果的です。柔らかな光は羽毛や水面の質感を残していますが、全体にやや沈んだ印象があり、下方の黒い動物の細部は読み取りにくくなっています。上半分のカモメと右下の主役には斜めの呼応がある一方、両者の間に広がる水面が視線を分散させ、翼の重なりも少し雑然と見えます。最も改善したいのはフレーミングです。上下の余白と、可能であれば二つの被写体群の間の空間を詰め、カモメとの関係を残しながら捕食の瞬間をより大きく見せたいところです。物語性と臨場感のある野生動物写真ですが、主役の小ささと構図のまとまりが迫力を抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "5a7200698ea196400e54fa06aa8bd0cc44e2f53cad398ae63e6f5ede89d824f2",
+        "evaluatedAt": "2026-11-15T17:28:09.681Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00063.jpg",
         "width": 1440,
@@ -1046,6 +1648,20 @@
         "country": "newzealand"
       },
       "sourceHash": "6898a4e41c55ce4d4ac374f783ab5f737e643298ed4e5550135dee5f7748bfff",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "虎鲸的黑白体块与青绿色海水形成鲜明对比，挺立的背鳍和翻卷的水花带来力量感，是一张抓住了现场动势的野生动物照片。主体沿对角线展开，背鳍轮廓清楚；但视觉重量集中在中部偏右，上方大片海水提供的有效信息有限。光线柔和，鲸背的明暗过渡和湿润质感表现不错，不过整体反差略平，黑色显得有些灰紫。海水色彩醒目且较统一，但也稍微抢夺了主体的注意力。主体表达的局限在于头部与眼睛未清楚显现，观众更多感受到体量和动作，较难建立直接的情感联系。最值得改进的是构图：适度裁去上方空水面，让背鳍、躯体与前方水花形成更紧凑的关系，会增强视觉冲击力。",
+          "en": "The orca’s black-and-white mass contrasts strongly with the turquoise water, while the upright dorsal fin and curling spray convey power. This is a strong wildlife photograph that captures movement well. The body extends diagonally and the fin has a clear silhouette, although the visual weight sits toward the centre-right and the large area of water above adds limited interest. Soft light renders the tonal transitions and wet texture of the back nicely, but the overall contrast is slightly flat, with the blacks appearing somewhat grey-purple. The water’s colour is striking and cohesive, though it competes a little with the subject. The head and eye are not clearly visible, so the image communicates scale and action more readily than a direct emotional connection. The most useful improvement would be the framing: cropping some empty water from the top would bring the fin, body and forward spray into a tighter relationship and strengthen the impact.",
+          "ja": "シャチの黒と白の大きな形が青緑色の海と鮮やかな対比をなし、そびえる背びれと巻き上がる水しぶきが力強さを伝えています。動きの瞬間を捉えた、見応えのある野生動物写真です。体が斜めに伸び、背びれの輪郭も明瞭ですが、視覚的な重心は中央から右寄りに集まり、上部に広がる水面は画面への寄与がやや弱く感じられます。柔らかな光は背中の階調と濡れた質感をよく描いている一方、全体のコントラストは少し平坦で、黒がやや灰紫色に見えます。海の色は鮮やかで統一感がありますが、多少は主役と注意を奪い合っています。頭部や目がはっきり見えないため、体の大きさと動きは伝わるものの、直接的な感情のつながりは生まれにくいところです。最も改善したいのは構図です。上部の余白となる水面を適度に切り詰め、背びれ、胴体、進行方向の水しぶきの関係を引き締めると、さらに迫力が増すでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "0348349021dce171659123b1f139a5d6e89fc9a923f45ee7d3ec0d1709bb59b0",
+        "evaluatedAt": "2026-11-15T17:28:35.436Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00064.jpg",
         "width": 1920,
@@ -1070,6 +1686,20 @@
         "country": "newzealand"
       },
       "sourceHash": "145ad82ca5d433c53ecf0ba3773ecfa5ab864c78d5428bd61a3b806ab425dbad",
+      "aiReview": {
+        "score": 80,
+        "comments": {
+          "zh-CN": "两只海豚错落并行，背鳍、躯干与尾部形成重复而有变化的节奏，水面的浪纹也强化了游动感。俯拍让身体轮廓和黑白斑纹清楚可辨，题材本身很有吸引力。青绿海水与深色身体形成鲜明对比，湿润表面的反光增加了质感；不过光线偏平，密集的亮色水纹略微分散注意力。最值得改进的是取景：主体集中在画面下半部，上方空水面偏多，而右侧尾鳍又被边缘截断，空间分配不够从容。拍摄时略向右下调整取景、保留完整尾鳍并减少上方留白，会让双主体的关系更紧凑，也更有整体感染力。",
+          "en": "The two dolphins swim in a staggered pairing, with their dorsal fins, bodies and tails creating a varied visual rhythm; the rippling water reinforces the sense of movement. The overhead viewpoint clearly reveals their contours and black-and-white markings, making the subjects immediately engaging. Turquoise water contrasts strongly with their dark bodies, while reflections add texture to their wet surfaces. However, the light is fairly flat, and the dense bright ripples compete slightly for attention. The main improvement is framing: the subjects sit in the lower half beneath considerable open water, yet the right dolphin’s tail fin is clipped by the edge, making the space feel unevenly allocated. Shifting the framing slightly down and right when shooting, preserving the full tail and reducing the water above, would strengthen the relationship between the pair and the photograph’s overall impact.",
+          "ja": "２頭のイルカが位置をずらして並泳し、背びれ、胴体、尾が変化のあるリズムを生んでいます。水面の波紋も動きを引き立てています。俯瞰の視点によって体の輪郭と白黒の模様がよく見え、被写体そのものに魅力があります。青緑の海と暗い体の対比は鮮やかで、濡れた体の反射も質感を加えています。一方、光はやや平板で、細かく明るい波紋に少し注意が散ります。最も改善したいのはフレーミングです。２頭が画面下半分に集まり、上には広い水面があるのに、右の個体の尾びれは画面端で切れており、空間配分にやや窮屈さがあります。撮影時に構図を少し右下へ移し、尾びれ全体を収めながら上の余白を減らすと、２頭の関係がよりまとまり、写真全体の訴求力も高まります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "be948ffd78c857889522d9e178ce4894bd11954fa5143f1eb17015d4a770b910",
+        "evaluatedAt": "2026-11-15T17:28:57.517Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00065.jpg",
         "width": 1920,
@@ -1094,6 +1724,20 @@
         "country": "newzealand"
       },
       "sourceHash": "0cde36fc13b4ddabdb7fcc1d064fbde67d5230ce98a4f9321a8d32cfaa7fb9e5",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "这张照片最吸引人的是海豹伏在岩石上休息的松弛感：低机位让观者接近它的视线，脸部、胡须和皮毛的细节也足以支撑近距离观看。身体从画面中下部向右上延伸，与岩石的斜线呼应；虚化的海水交代了环境，同时没有抢走主体。柔和的散射光保留了毛发和浅色岩面的层次，棕褐色皮毛与蓝绿色海水形成自然、克制的冷暖对照。不过，光线较平，面部与身体的明暗区分不强，视觉感染力更多来自姿态，而非光影。最值得改进的是取景：下方浅色岩石占比偏大，容易分散对脸部的注意。适当裁去底部，让脸部更突出，同时保留上方海水的空间，会使画面更凝练。整体是一张细节扎实、气氛安静的动物照片，但构图和光线还未形成特别鲜明的视觉张力。",
+          "en": "The photograph’s strongest quality is the seal’s relaxed presence as it rests on the rocks. The low viewpoint brings us close to its eye level, and the face, whiskers and fur offer enough detail to reward a closer look. Its body extends from the lower middle toward the upper right, echoing the rocks’ diagonals; the blurred sea establishes the setting without competing with the subject. Soft, diffuse light preserves texture in both the fur and pale stone, while brown fur against blue-green water creates a restrained, natural warm–cool contrast. The lighting is fairly flat, however, with limited tonal separation between face and body, so the emotional appeal comes mainly from the pose. The most useful improvement would be tighter framing: the large area of pale rock below draws attention away from the face. Cropping some of the bottom while retaining space for the sea above would make the image more focused. Overall, this is a detailed, quietly engaging wildlife photograph, though its composition and light do not yet create especially distinctive visual tension.",
+          "ja": "この写真のいちばんの魅力は、岩の上で休むアザラシのくつろいだ姿です。低い撮影位置によって目線に近づけており、顔やひげ、毛並みの細部も見応えがあります。体が画面中央下から右上へ伸び、岩の斜線と呼応しています。ぼけた海は生息環境を伝えながら、主役を邪魔していません。柔らかな拡散光は毛並みと明るい岩肌の質感を残し、茶褐色の体と青緑色の海が自然で控えめな暖寒の対比をつくっています。ただし光はやや平坦で、顔と胴体の明暗の差が小さく、印象の強さは主にその姿勢に支えられています。最も改善したいのはフレーミングです。下部の明るい岩が広く、顔から視線をそらしやすくなっています。上部の海の余白を残しつつ下を少し切り詰めれば、顔が引き立ち、画面がより引き締まるでしょう。細部がしっかり描かれた穏やかな動物写真ですが、構図と光による際立った視覚的な緊張感には、まだ余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "80593a1e807b596529313ebccee10b7b3d3768488146dd0b5830baa91e4e832a",
+        "evaluatedAt": "2026-11-15T17:29:17.348Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00066.jpg",
         "width": 1920,
@@ -1117,6 +1761,20 @@
         "country": "newzealand"
       },
       "sourceHash": "819909221ed105550b103502d8f08935b84503ff17eb93d22ff300c0c855485d",
+      "aiReview": {
+        "score": 77,
+        "comments": {
+          "zh-CN": "海鸥低头啄食的瞬间抓得很好，喙尖与贝壳的接触形成明确的视觉焦点，眼周的橙红与黄色鸟喙也让黑白羽毛、灰褐岩面的克制配色有了亮点。柔和的光线保留了白羽层次，背景虚化使主体清楚，但整体反差偏低，画面的力量稍弱。低机位带来贴近现场的观察感，双脚和贝壳也交代了行为；不过左侧身体被截断，右上方又留下较多缺乏内容的空间，构图略显失衡。最值得改进的是取景：适当收紧上方与右侧的空白，让眼睛、鸟喙和贝壳之间的关系更集中。整体是一张有行为细节、完成度不错的野生动物照片，但视觉冲击力尚未达到出色水平。",
+          "en": "The gull’s feeding moment is well caught: the contact between bill tip and shell creates a clear focal point, while the orange-red eye surround and yellow bill enliven the restrained palette of black-and-white plumage and gray-brown rock. Soft light preserves detail in the white feathers, and the blurred background separates the subject, though the low overall contrast somewhat weakens the image’s force. The low viewpoint feels intimate, and the feet and shell clearly establish the behavior. However, the body is cut off on the left while considerable uninformative space remains at the upper right, making the composition feel slightly unbalanced. The most useful improvement would be tighter framing above and to the right, concentrating attention on the relationship between eye, bill, and shell. This is a strong wildlife photograph with engaging behavioral detail, but its visual impact falls short of excellence.",
+          "ja": "カモメが貝をついばむ瞬間をよく捉えています。くちばしの先と貝が接する部分が明確な視線の着地点となり、目の周りの朱色と黄色いくちばしが、白黒の羽と灰褐色の岩という控えめな配色にアクセントを添えています。柔らかな光は白い羽の階調を残し、背景のぼけも主体を引き立てていますが、全体のコントラストが低く、画面の力強さはやや控えめです。低い視点にはその場に近づいたような臨場感があり、両足と貝も行動を伝えています。一方、左側で胴体が切れているのに対し、右上には情報の少ない余白が多く、構図に少し偏りを感じます。最も改善したいのはフレーミングで、上と右の余白を適度に詰め、目・くちばし・貝の関係に視線を集中させるとよいでしょう。行動の細部が魅力的な完成度の高い野生動物写真ですが、視覚的な訴求力にはまだ伸びしろがあります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "8a82397b60ccbe4dfeaa8ebaad096592df7a17443ed09db43f2195519e9281b6",
+        "evaluatedAt": "2026-11-15T17:29:39.860Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00067.jpg",
         "width": 1920,
@@ -1140,6 +1798,20 @@
         "country": "newzealand"
       },
       "sourceHash": "d01341944132ff1fa9fd175a513723152a16c20ee6bb191e57031d6b015cfa25",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "这是一张有亲近感的动物特写。海豹仰头闭眼的姿态传达出松弛与安逸，弯曲的颈部、上扬的鼻尖和细长胡须构成清楚的视觉重心。紧凑裁切强化了身体的体量感，虚化背景有效隔离主体，但右侧躯干占比偏大，上方留白也稍显松散，使画面的注意力不够集中。柔和光线保留了毛皮与胡须的细节，不过脸颊和颈部阴影较沉，面部层次略受压抑。棕灰色主体与低饱和蓝灰背景协调，气氛自然宁静。整体感染力主要来自姿态和质感，而非戏剧性的光线或瞬间。最值得改进的是取景：适度收紧右侧和上方，让头部与胡须更突出，同时保留鼻尖朝向的呼吸空间。",
+          "en": "This is an intimate animal close-up. The seal’s raised head and closed eyes convey ease and contentment, while the curved neck, upturned nose and fine whiskers create a clear visual focus. The tight framing emphasizes its substantial body, and the blurred background separates it effectively. However, the torso occupies too much of the right side, and the space above feels slightly loose, diluting attention. Soft light preserves fur and whisker detail, though heavy shadows on the cheek and neck suppress some facial definition. The brown-gray subject harmonizes with the muted blue-gray background, creating a natural, tranquil mood. Its impact comes chiefly from posture and texture rather than dramatic light or an extraordinary moment. The most useful improvement is framing: trim some of the right side and top to emphasize the head and whiskers while preserving breathing room in the direction of the nose.",
+          "ja": "親密さを感じさせる動物のクローズアップです。顔を上げて目を閉じた姿から、くつろぎと心地よさが伝わります。首の曲線、上向きの鼻先、細いひげが明確な視線の集まる場所を作っています。タイトな構図は体の量感を強め、ぼけた背景も被写体を効果的に引き立てています。ただ、右側の胴体が占める割合が大きく、上部の余白もやや間延びしていて、視線が少し散ります。柔らかな光は毛並みやひげの細部を残していますが、頬と首の影が重く、顔の立体感がやや埋もれています。茶褐色から灰色の被写体と、彩度を抑えた青灰色の背景は調和し、自然で静かな雰囲気です。印象の強さは、劇的な光や特別な瞬間よりも、姿勢と質感から生まれています。最も改善したいのはフレーミングです。鼻先の向きに余裕を残しつつ、右側と上部を少し詰めると、頭部とひげがさらに際立ちます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d6b64a453b02173e0d4e8e04c2b6f3b02f15197f6ad4c5906820f4346952f0b2",
+        "evaluatedAt": "2026-11-15T17:30:01.381Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00068.jpg",
         "width": 1920,
@@ -1164,6 +1836,20 @@
         "country": "newzealand"
       },
       "sourceHash": "da80cad53712dc6fdb9da3aea94eeea27c27208f1efb0ab6b421cac58dc03efa",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "构图的优点是右侧粗壮的树干与向左铺展的枝叶形成天然框架，长椅提供尺度，也让“湖畔停留”的情绪有了落点。蓝色湖水与金黄树叶的冷暖对照鲜明，侧光勾出叶片与树皮的质感，远山增加了空间层次。不足是树冠覆盖面积大、细节密集，深色树干的视觉重量也明显超过长椅，使主体表达略有分散；前景碎石与横向阴影进一步占用了注意力。整体有清爽、安静的秋日气息，但感染力更多来自优美景色，长椅作为情绪中心还不够突出。最值得改进的是拍摄位置：尝试略向左移动并靠近长椅，让它与树干拉开距离、在画面中更醒目，同时减少底部碎石，使视线更集中于长椅与湖面的关系。",
+          "en": "The sturdy trunk on the right and branches spreading left create a natural frame, while the bench supplies scale and gives the feeling of lingering by the lake a focal point. The cool blue water contrasts vividly with the golden leaves, sidelight reveals leaf and bark textures, and distant mountains add depth. However, the large, intricate canopy and visually heavy dark trunk compete with the bench, leaving the subject hierarchy somewhat scattered; the gravel foreground and horizontal shadows draw further attention. The photograph conveys a fresh, quiet autumn atmosphere, but its impact comes mainly from the beautiful setting, with the bench not quite prominent enough as an emotional center. The most worthwhile improvement is the camera position: try moving slightly left and closer to the bench to separate it from the trunk and give it greater presence, while reducing the gravel at the bottom to concentrate attention on the relationship between bench and lake.",
+          "ja": "右側の太い幹と左へ広がる枝葉が自然な額縁をつくり、ベンチが景色の大きさを伝えるとともに、湖畔で足を止める情緒のよりどころになっています。青い湖面と金色の葉の寒暖対比が鮮やかで、横からの光が葉や樹皮の質感を引き出し、遠くの山々が奥行きを添えています。一方、広い範囲を覆う細かな枝葉と暗い幹の強い存在感がベンチと競い合い、主題の優先順位がやや曖昧です。手前の砂利と横に伸びる影も視線を引きます。爽やかで静かな秋の空気は伝わりますが、印象の強さは美しい風景に支えられており、感情の中心となるベンチはもう少し際立たせたいところです。最も改善したいのは撮影位置です。少し左へ移動してベンチに近づき、幹との間隔を広げて存在感を高めるとともに、画面下の砂利を減らすことで、ベンチと湖面の関係に視線を集められます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "47f4e179ea02808f2060644125f1b33c323ed695170a950a1b74e0d193f6f835",
+        "evaluatedAt": "2026-11-15T17:30:26.171Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00069.jpg",
         "width": 1920,
@@ -1187,6 +1873,20 @@
         "country": "newzealand"
       },
       "sourceHash": "42e25f82e6791038cc2936b16e25f8f7dc72a97dfb4d22a5bf418c795d85b446",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "展翅的姿态是照片最有力的部分：羽毛层次丰富，黄色鸟喙在黑羽与灰褐岩石之间形成明确的视觉焦点，传达出自然、生动的野生动物状态。主体偏左，朝右的视线留有空间，虚化的岩石背景也有效分离了轮廓。柔和光线避免了羽毛高光过曝，但黑羽尤其头颈部偏暗，眼睛不够突出，削弱了神态。低饱和的色彩统一而克制，不过上方大面积虚化岩石提供的信息有限，使主体的视觉分量稍显不足。最值得改进的是收紧构图，适当裁去上方留白，同时保留鸟喙朝向的空间，让展翅姿态和面部成为更集中的观看核心。整体是一张扎实、有吸引力的野生动物照片，但光线与画面张力尚未达到出众的程度。",
+          "en": "The spread-wing pose is the photograph’s strongest feature: the layered feathers offer rich detail, while the yellow bill creates a clear focal point against the black plumage and grey-brown rocks, conveying a lively, natural wildlife moment. Placing the bird left of centre leaves room for its rightward gaze, and the blurred rocks separate its outline effectively. Soft light prevents blown feather highlights, but the black plumage, especially around the head and neck, is dark enough to obscure the eye and weaken the expression. The muted colours feel cohesive and restrained, though the large expanse of blurred rock above contributes little and reduces the subject’s visual weight. The most useful improvement would be a tighter crop, removing some space above while retaining room in front of the bill, to focus attention on the wings and face. Overall, this is a solid, engaging wildlife photograph, but its light and visual tension fall short of being outstanding.",
+          "ja": "翼を広げた姿が、この写真の最大の魅力です。重なり合う羽根には豊かなディテールがあり、黒い羽と灰褐色の岩の中で黄色いくちばしが明確な視線の焦点となって、生き生きとした野鳥の自然な一瞬を伝えています。鳥を中央より左に置くことで右向きの視線の先に余裕が生まれ、ぼけた岩の背景も輪郭を効果的に引き立てています。柔らかな光は羽根の白飛びを抑えていますが、黒い羽、とりわけ頭から首が暗く、目が目立たないため表情の伝わり方が弱くなっています。彩度を抑えた色調には統一感と落ち着きがある一方、上部を大きく占めるぼけた岩は情報に乏しく、主役の存在感をやや薄めています。最も改善したいのは構図の引き締めです。くちばしの向く先の空間を残しつつ上部を適度にトリミングすると、翼と顔に視線を集中させられます。堅実で魅力のある野鳥写真ですが、光と画面の緊張感には、際立った一枚になるための余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "13f8d542c916d02328c1bf1dad499c3a534bf155be04b1d38a16a532a626d46d",
+        "evaluatedAt": "2026-11-15T17:30:51.942Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00071.jpg",
         "width": 1920,
@@ -1211,6 +1911,20 @@
         "country": "newzealand"
       },
       "sourceHash": "84e9bfeb4eacc4011451dd8f82a2a7f41b9c355bbab6196555a375b0c3f589fd",
+      "aiReview": {
+        "score": 86,
+        "comments": {
+          "zh-CN": "银河从左下方升起并横贯天空，弧线与低处的山脊、葡萄架形成清晰的层次；天空占据大部分画面，充分传达出星夜的辽阔。银河暖褐色的尘埃带与偏冷的星空相互衬托，前景草地和秋叶则带来生活气息，让画面不止于天文景观。星点丰富，银河结构可辨，整体有很强的现场感。不过，右侧房屋灯光过亮，局部高光失去细节，又照亮了面积较大的树丛，使视线容易从银河转向地面。最值得改进的是控制这处人工光源：拍摄时降低或遮挡灯光，并适当压暗右下方前景，让房屋成为尺度参照，而不是与星空争夺注意力。整体是一张表现出色、具有环境叙事的星野照片，但灯光的视觉分量限制了它的凝聚力。",
+          "en": "The Milky Way rises from the lower left and sweeps across the sky, its arc forming clear layers with the low ridge and vineyard rows. Giving most of the frame to the sky conveys the immense scale of the night. Warm brown dust lanes complement the cooler star field, while the grass and autumn foliage add a lived-in setting that makes this more than an astronomical view. The abundant stars and readable galactic structure create a strong sense of presence. However, the house light on the right is excessively bright, losing highlight detail and illuminating a substantial area of foliage, which pulls attention away from the Milky Way. The most valuable improvement would be to control that artificial light: dim or shield it during capture and slightly darken the lower-right foreground, allowing the house to provide scale without competing with the sky. This is an excellent nightscape with environmental storytelling, though the visual weight of the lighting limits its cohesion.",
+          "ja": "天の川が左下から立ち上がって空を横切り、その弧が低い山並みやブドウ棚と明確な奥行きをつくっています。画面の大部分を空に充てた構図によって、星夜の広大さがよく伝わります。天の川の暖かな褐色の暗黒帯と寒色寄りの星空が引き立て合い、草地や紅葉が暮らしの気配を添えることで、単なる天体の記録を超えた風景になっています。星の数も豊富で天の川の構造も読み取れ、臨場感があります。一方、右側の家の照明は明るすぎて一部のハイライトの階調が失われ、広い範囲の木々まで照らしているため、視線が天の川から地上へそれやすくなっています。最も改善したいのは、この人工光の抑制です。撮影時に減光するか光を遮り、右下の前景も少し暗くすると、家が星空と競合せず、風景の大きさを伝える役割を果たせます。土地の暮らしも感じさせる優れた星景写真ですが、照明の視覚的な強さが画面のまとまりを弱めています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "562e1758576feb25aae66924ad72ca9c2dc05c67f57157a6e50a9a9c536470a9",
+        "evaluatedAt": "2026-11-15T17:31:20.648Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-4_newzealand/00072.jpg",
         "width": 1920,

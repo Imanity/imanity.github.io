@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "preview": "vite preview --host 127.0.0.1",
     "tools:images": "node ../tabi-gallery/tools/convert-images.mjs",
+    "tools:review": "node ../tabi-gallery/tools/review-photos.mjs",
     "tools:gallery": "node ../tabi-gallery/tools/galleryManager/server.mjs"
   },
   "dependencies": {

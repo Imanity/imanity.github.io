@@ -1,19 +1,31 @@
-import { formatPhotoDateTime } from '@imanity/tabi-gallery'
+import { createPhotoRandomValues, formatPhotoDateTime, rankPhotosByScore } from '@imanity/tabi-gallery'
 import type { Photo } from '@imanity/tabi-gallery'
 
-export type PhotoSortOrder = 'random' | 'taken-at-asc' | 'taken-at-desc'
+export type PhotoSortOrder = 'score-weighted' | 'random' | 'taken-at-asc' | 'taken-at-desc'
 
-export function createRandomPhotoRanks(photos: Photo[]) {
-  const ids = photos.map((photo) => photo.id)
-
-  for (let index = ids.length - 1; index > 0; index -= 1) {
-    const target = Math.floor(Math.random() * (index + 1))
-    const currentId = ids[index]
-    ids[index] = ids[target]
-    ids[target] = currentId
-  }
-
+export function createRandomPhotoRanks(photos: Photo[], seed = getPhotoSortSeed()) {
+  const values = createPhotoRandomValues(photos, seed)
+  const ids = photos.map(photo => photo.id).sort((left, right) => values.get(left)! - values.get(right)!)
   return new Map(ids.map((id, index) => [id, index]))
+}
+
+export function createScorePhotoRanks(photos: Photo[], seed: string) {
+  return new Map(rankPhotosByScore(photos, createPhotoRandomValues(photos, seed))
+    .map((photo, index) => [photo.id, index]))
+}
+
+export function getPhotoSortSeed() {
+  try {
+    const saved = sessionStorage.getItem('gallery:sort-seed')
+    if (saved) return saved
+  } catch { /* Storage can be unavailable in private browsing. */ }
+  return renewPhotoSortSeed()
+}
+
+export function renewPhotoSortSeed() {
+  const seed = Math.random().toString(36).slice(2) + Date.now().toString(36)
+  try { sessionStorage.setItem('gallery:sort-seed', seed) } catch { /* Keep an in-memory seed. */ }
+  return seed
 }
 
 function getTakenAtTimestamp(photo: Photo) {
@@ -43,8 +55,10 @@ export function sortPhotos(
   photos: Photo[],
   order: PhotoSortOrder,
   randomRanks: ReadonlyMap<string, number>,
+  scoreRanks: ReadonlyMap<string, number> = randomRanks,
 ) {
   return [...photos].sort((left, right) => {
+    if (order === 'score-weighted') return compareRandomRank(left, right, scoreRanks)
     if (order === 'random') {
       return compareRandomRank(left, right, randomRanks)
     }

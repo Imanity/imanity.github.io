@@ -19,6 +19,20 @@
         "country": "japan"
       },
       "sourceHash": "4938a62374ead32cf14f3fa4d3fc043f1ce00112a536ee1dc2e8cdc09e7acdc6",
+      "aiReview": {
+        "score": 86,
+        "comments": {
+          "zh-CN": "这是一张完成度很高的城市夜景。前景船只光轨从左右下角向河道中央汇聚、交错，再把视线带向楼群，形成鲜明的纵深与动感；平滑的水面和静止的建筑构成有效对照。曝光整体稳健，楼窗与岸边灯光仍有层次，但最亮的白色光轨局部接近纯白，略显抢眼。冷青色夜空、河水与暖黄色窗灯相互衬托，红色光轨提供了有力的色彩节奏。主体表达上，流动的航迹比建筑本身更有辨识度，也让常见的城市天际线获得了叙事感。最值得改进的是画面上方偏多、变化较少的天空：适度裁掉顶部，保留中央高楼的呼吸空间，会让光轨与城市的联系更紧凑，整体冲击力更集中。",
+          "en": "This is a highly accomplished urban night photograph. Boat light trails converge and cross from both lower corners toward the middle of the river, then guide the eye into the skyline, creating strong depth and movement. The smooth water and stationary buildings provide an effective counterpoint. Exposure is generally well controlled, retaining detail in the windows and waterfront lights, although the brightest white trails approach featureless white in places and draw slightly too much attention. Cool cyan tones in the sky and river complement the warm windows, while red trails add a strong visual rhythm. The moving boat traces are more distinctive than the buildings themselves and give a familiar city skyline a sense of narrative. The most worthwhile improvement is to reduce the generous area of relatively uneventful sky: a modest crop from the top, keeping some breathing room above the central tower, would tighten the relationship between the trails and the city and concentrate the visual impact.",
+          "ja": "完成度の高い都市夜景です。左右の下隅から川の中央へ集まり、交差する船の光跡が、その先のビル群へと視線を導き、強い奥行きと動きを生んでいます。滑らかな水面と静止した建物との対比も効果的です。露出は全体によく整い、窓明かりや岸辺の照明に階調が残っていますが、最も明るい白い光跡は一部で白一色に近づき、やや目立ちすぎます。空と川の冷たい青緑色に暖かな窓明かりが映え、赤い光跡が色彩のリズムを加えています。建物そのものよりも船の航跡に個性があり、見慣れた都市のスカイラインに物語性を与えています。最も改善したいのは、変化の少ない空が上部を広く占めている点です。中央の高層ビルの上に適度な余白を残しながら上端を少し切り詰めると、光跡と街の関係がより緊密になり、画面の訴求力も集中するでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d8be5d8eb584560ba01ad8f3d399183f0b1f1ba64c941173b052739f402824fa",
+        "evaluatedAt": "2026-11-15T18:48:56.284Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-10_japan_tokyo/00001.jpg",
         "width": 1920,

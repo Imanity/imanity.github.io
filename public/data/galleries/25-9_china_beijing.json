@@ -19,6 +19,20 @@
         "country": "china"
       },
       "sourceHash": "51633373e5b4d7a26980d0fe901c6232d65102f5eeef0816869b4b555bbd9e45",
+      "aiReview": {
+        "score": 82,
+        "comments": {
+          "zh-CN": "月面上部的铜红色与下缘的冰蓝、亮白形成鲜明而有层次的冷暖过渡，是这张照片最有感染力的部分；暗部仍保留月海纹理，周围零散的星点也增添了空间感。月亮接近画面中央，位置略偏下，构图简洁、主体明确，但大面积黑色留白的变化较少，使视觉张力略显不足。月面细节稍软，天空中可见颗粒与色噪，下缘亮带也有些抢眼。最值得改进的是噪点控制：适度压低背景色噪，同时保留微弱星点和月面纹理，能让这份冷暖交融的气氛更纯净、更有说服力。整体是一张表现扎实、色彩突出的月食照片，技术质感尚有提升空间。",
+          "en": "The transition from copper red across the upper Moon to icy blue and bright white along its lower edge is the photograph’s most compelling feature. The shadowed surface retains visible lunar maria, while scattered stars add a sense of space. The Moon sits near the center, slightly low, creating a simple composition with a clear subject, though the largely uniform black surroundings provide limited visual tension. Surface detail is somewhat soft, grain and color noise are visible in the sky, and the bright lower rim draws a little too much attention. The most valuable improvement would be noise control: selectively reduce background color noise while preserving faint stars and lunar texture. This would give the striking warm-to-cool atmosphere greater clarity. Overall, this is a strong lunar-eclipse photograph with distinctive color, though its technical finish has room to improve.",
+          "ja": "月の上部の銅赤色から、下縁の氷のような青と明るい白へ移る色の階調が、この写真の最大の魅力です。暗い部分にも月の海の模様が残り、周囲に点在する星が空間の広がりを感じさせます。月は中央よりわずかに下に配置され、構図は簡潔で主題も明確ですが、広い黒の余白に変化が少なく、画面の緊張感はやや控えめです。月面の細部は少し柔らかく、空には粒状感と色ノイズが見られ、下縁の明るい帯もやや目を引きすぎます。最も改善したいのはノイズの処理です。淡い星と月面の質感を保ちながら背景の色ノイズを適度に抑えると、暖色と寒色が交わる雰囲気がより澄んで伝わるでしょう。全体として、色彩に強みのある見応えのある月食写真ですが、技術的な仕上がりには改善の余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "718c92672363ba100e279196b13afd40ff0068ea21fb7f4cc728b124fdf4eba3",
+        "evaluatedAt": "2026-11-15T18:05:57.402Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-9_china_beijing/00001.jpg",
         "width": 1920,
@@ -42,6 +56,20 @@
         "country": "china"
       },
       "sourceHash": "eefd34ffc94b2c6c78c14345630a4b9024bcc0712cc1b48752c985c76e858c58",
+      "aiReview": {
+        "score": 73,
+        "comments": {
+          "zh-CN": "月面亮部的冷白与阴影中的铜红形成鲜明对照，斜向穿过月面的明暗交界是画面最有吸引力的部分，既呈现体积，也赋予主体变化中的张力。月亮略低于中央，大面积暗空让视线集中，但留白缺少进一步的构图作用，整体感染力更多来自天象本身。月面仍能辨认地貌，不过细节偏软，亮缘有蓝紫色边，周围的光晕和背景颗粒也削弱了通透感。最值得改进的是月面细节的清晰度：拍摄时更准确地对焦并控制震动，后期克制锐化与降噪，可让这条漂亮的明暗过渡更有质感。",
+          "en": "The cool white of the illuminated Moon contrasts strikingly with the copper-red shadow. The diagonal boundary between light and dark is the photograph’s strongest feature, giving the subject volume and a sense of transition. The Moon sits slightly below centre, and the broad dark sky concentrates attention, though the empty space contributes little beyond isolation; much of the impact comes from the celestial event itself. Lunar features remain visible, but detail is soft, with blue-purple fringing along the bright rim, a surrounding halo and background grain reducing clarity. The most valuable improvement would be sharper lunar detail: more precise focus and better vibration control during capture, followed by restrained sharpening and noise reduction, would give the beautiful tonal transition more texture.",
+          "ja": "月の明部の冷たい白と、影の中の赤銅色が鮮やかな対比を生んでいます。月面を斜めに横切る明暗の境界が最大の見どころで、立体感と移り変わる瞬間の緊張感を伝えています。月を中央より少し下に置き、広い暗空で視線を集めていますが、余白の役割は主体を際立たせることにとどまり、全体の印象は天体現象そのものの魅力に大きく支えられています。月面の地形は見えるものの、細部はやや甘く、明るい輪郭の青紫の色にじみ、周囲の光のにじみ、背景の粒状感が抜けのよさを損ねています。最も改善したいのは月面の解像感です。撮影時のピント精度と振動対策を高め、仕上げのシャープ処理とノイズ低減を控えめにすると、美しい明暗の移行をより質感豊かに表現できます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "200fb3c4e545df79354b9209b05fbce070cbb33d4ced82e0fe999ca66c061780",
+        "evaluatedAt": "2026-11-15T18:06:21.663Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-9_china_beijing/00002.jpg",
         "width": 1920,
@@ -65,6 +93,20 @@
         "country": "china"
       },
       "sourceHash": "50adfb7fc8f36b209907326f1ce4b76d16b05d2618c0ba1c67b9a62c1aff14ee",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "月食序列从左上斜贯至右侧，与电视塔的竖线形成明确呼应，把天象过程与城市地标连接起来，构思鲜明，视觉动线也很清楚。暗红月面与塔身红灯形成色彩联系，深蓝黑夜空让主体突出；但右侧月面逐渐亮至接近纯白，细节减弱，底部建筑的暖黄亮度也偏高，容易抢走注意力。月面间距较密，连成珠串的节奏强于各阶段变化的呈现；天空与塔身的噪点、偏软的细节则限制了画面的精致感。整体有明确主题和记忆点。最值得改进的是亮度层级：压低底部建筑和最亮月面的高光，让目光更稳定地落在月食序列与塔的关系上。",
+          "en": "The eclipse sequence runs diagonally from the upper left toward the right, creating a clear counterpoint to the tower’s vertical line and connecting a celestial event with a city landmark. The concept is distinctive and the visual path easy to follow. The reddish moons echo the tower’s red lights, while the deep blue-black sky gives the subjects prominence. However, the moons on the right become nearly white and lose detail, and the bright yellow buildings at the bottom compete for attention. The close spacing emphasizes a string-of-beads rhythm more than the changes between eclipse stages; noise and soft detail in the sky and tower also limit refinement. Overall, the photograph has a clear subject and a memorable idea. The most valuable improvement would be better brightness hierarchy: reduce highlights in the foreground buildings and brightest moons so attention stays on the relationship between the eclipse sequence and the tower.",
+          "ja": "月食の連続像が左上から右へ斜めに伸び、塔の垂直線と明快に呼応しています。天体現象と都市のランドマークを結びつける発想が印象的で、視線の流れもよく整理されています。赤みを帯びた月と塔の赤い照明には色のつながりがあり、青黒い夜空が被写体を引き立てています。一方、右側の月は白に近づくにつれて細部が薄れ、画面下の黄色く明るい建物も視線を奪います。月の間隔が詰まっているため、各段階の変化よりも数珠状のリズムが強く感じられます。空や塔のノイズと細部の甘さも、仕上がりの緻密さを弱めています。全体として主題が明確で、記憶に残る写真です。最も改善したいのは明るさの配分です。下部の建物と最も明るい月のハイライトを抑えると、月食の連続像と塔の関係に視線がより安定して向かいます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "e50eebe4a1f155d196617989853d9bc19e2da754c379fb5ac5ab3a0bd8c499bb",
+        "evaluatedAt": "2026-11-15T18:06:47.478Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/25-9_china_beijing/00003.jpg",
         "width": 1370,

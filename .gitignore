@@ -1,4 +1,6 @@
 node_modules/
+.tabi-gallery/
+*.json.lock/
 dist/
 .vite/
 .DS_Store

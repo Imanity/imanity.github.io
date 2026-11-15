@@ -19,6 +19,20 @@
         "country": "china"
       },
       "sourceHash": "0378b4b58596cc3bee621b927484be1b4463432ebcaaa729a57400ed71888c7b",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这张鸟类肖像最出色的是金黄与橄榄绿交融的虚化背景，既衬托黑色头冠和白色喉部，也与尾下的黄色羽毛形成呼应。鸟身沿左下至右上的斜线展开，姿态自然，羽毛细节较丰富，眼睛轮廓可辨，主体有明确的存在感。不过，头后粗枝与头冠、鸟喙距离过近，前景细枝又穿过身体，削弱了轮廓的干净程度；尾羽在下边缘被截断，也使构图略显局促。光线柔和，但鸟身整体偏暗、偏冷，与明亮暖背景相比，面部吸引力不足。最值得改进的是拍摄机位：稍向侧面移动，争取让头部落在完整的虚化背景上，减少枝条与主体重叠。整体是一张色彩漂亮、细节扎实的作品，但枝条干扰和主体亮度限制了感染力。",
+          "en": "The strongest feature of this bird portrait is the softly blurred background blending gold and olive green. It sets off the black crest and white throat while echoing the yellow feathers beneath the tail. The bird forms a diagonal from lower left to upper right, with a natural pose, fairly rich feather detail and a discernible eye outline that give it a clear presence. However, the thick branch behind the head sits too close to the crest and beak, while a foreground twig crosses the body, weakening the clean silhouette. The tail is also cut off at the bottom edge, making the framing feel slightly cramped. The light is soft, but the bird looks rather dark and cool against the bright, warm background, reducing the face’s pull. The most worthwhile improvement is camera position: shift slightly sideways to place the head against uninterrupted blur and reduce branch overlap. Attractive colour and solid detail make this a strong photograph, though distracting branches and the subject’s subdued brightness limit its impact.",
+          "ja": "この鳥のポートレートで最も魅力的なのは、金色とオリーブグリーンが溶け合う柔らかな背景のぼけです。黒い冠羽と白い喉を引き立て、尾の下の黄色い羽とも呼応しています。鳥の体は左下から右上へ斜めに伸び、自然な姿勢と比較的豊かな羽毛の描写、判別できる目の輪郭によって、確かな存在感があります。一方、頭の後ろの太い枝が冠羽やくちばしに近く、手前の細枝も体を横切るため、輪郭のすっきりした見え方を損ねています。尾羽が下端で切れていることも、やや窮屈な印象につながっています。光は柔らかいものの、明るく暖かな背景に対して鳥が全体に暗く青みがかっており、顔への引きが弱めです。最も改善したいのは撮影位置です。少し横に移動し、頭の背後を枝のないぼけで満たして、枝と鳥の重なりを減らしたいところです。美しい色彩と堅実な細部描写を備えた写真ですが、枝の干渉と主体の暗さが、全体の訴求力を抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "4e64b326ef9c0c5db20dcdb837669a6b30589cc95bd11880eec5d374c650c087",
+        "evaluatedAt": "2026-11-15T18:16:20.818Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00001.jpg",
         "width": 1920,
@@ -42,6 +56,20 @@
         "country": "china"
       },
       "sourceHash": "837f7284fc3e56d603ac85372edc98fc7c376486977e329d5c9148231f30f861",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "鸟的黄色眉斑与黑色面部形成鲜明对比，羽毛层次和眼睛轮廓清楚，蓬起的冠羽让主体很有精神。向右的视线与右侧留白呼应，斜向树枝带来动势，柔和虚化的背景也有效分离了主体。色彩以黄绿、灰褐为主，协调自然，黄色成为恰当的视觉焦点。不过，左侧粗壮的分叉树枝占据较多画面，横过下方的细枝也让尾部区域略显杂乱。最值得改进的是主体的明暗表现：鸟脸和胸腹整体偏暗，黑色羽毛的细节与眼神光不够突出。后期可适度局部提亮主体并保护黄色羽毛的层次，增强眼部存在感。整体是一张扎实、有吸引力的鸟类照片，但光线的表现力还不足以让它更出众。",
+          "en": "The bird’s yellow eyebrow patches contrast strikingly with its black face, with clear feather texture and eye contours; the raised crest gives it a lively presence. Its rightward gaze works well with the open space on that side, the diagonal perch adds movement, and the softly blurred background separates the subject effectively. Yellow-green and grey-brown tones feel harmonious and natural, with the yellow providing a fitting focal point. However, the thick forked branches on the left occupy considerable space, while the thin branch crossing the bottom makes the tail area slightly cluttered. The main improvement would be the subject’s tonal rendering: the face, breast and belly are rather dark, leaving the black plumage detail and eye catchlight subdued. Selectively brightening the bird while preserving detail in the yellow feathers would strengthen its presence, especially around the eye. Overall, this is a solid, appealing bird photograph, but the light lacks the expressive quality needed to make it more distinctive.",
+          "ja": "黄色い眉斑と黒い顔の対比が鮮やかで、羽毛の質感や目の輪郭もよく見えます。逆立った冠羽が、生き生きとした表情を添えています。右を向く視線と右側の余白が呼応し、斜めの枝が画面に動きを生み、柔らかくぼけた背景も被写体を効果的に引き立てています。黄緑と灰褐色を中心とした色調は自然で調和があり、黄色が適切な視覚的アクセントになっています。一方、左側の太く分岐した枝は画面を大きく占め、下部を横切る細い枝も尾の周辺をやや雑然とさせています。最も改善したいのは、鳥の明暗の表現です。顔や胸、腹が全体に暗く、黒い羽毛の細部や瞳の光が目立ちません。黄色い羽毛の階調を保ちながら鳥を部分的に少し明るくすると、特に目の存在感が増すでしょう。全体として堅実で魅力のある野鳥写真ですが、さらに印象に残る一枚にするには、光の表現力がもう一歩ほしいところです。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "67bb8c63782adb47c29877add8ef2a69cad9de4baf375018c227527230ec86f4",
+        "evaluatedAt": "2026-11-15T18:16:45.402Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00004.jpg",
         "width": 1920,
@@ -65,6 +93,20 @@
         "country": "china"
       },
       "sourceHash": "f13029bfbea9bf7ec75eb93eda5ece4c3123dbb3ab6d37c7f3bc16dc958651aa",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这是一张扎实的鸟类肖像。鸟的眼神、竖起的冠羽以及黄黑相间的头部形成明确的视觉焦点，脚爪抓住树枝的细节也增添了现场感。斜向主枝为画面提供支撑与动势，虚化背景的黄绿、灰蓝色与羽色协调。光线柔和，羽毛层次保留较好，但整体略显暗沉，头部的明亮色块尚未充分带动主体。构图上，鸟位于画面偏下的位置，上方留白较多，左侧粗枝和右侧竖枝也分散了注意力，因此整体感染力更多来自鸟本身的神态。最值得改进的是取景：收紧上方和右侧的空间，同时保留鸟朝向左侧的余地，可以让视线更集中，画面也更有力度。",
+          "en": "This is a solid bird portrait. The alert eye, raised crest and yellow-and-black head create a clear focal point, while the claws gripping the branch add a sense of presence. The diagonal main branch gives the frame structure and movement, and the blurred yellow-green and blue-grey background harmonizes with the plumage. Soft light preserves feather detail, although the image feels slightly dim and subdued, limiting the bright head markings’ ability to lift the subject. The bird sits low in the frame with considerable space above, while the thick branch on the left and upright twigs on the right compete for attention. Its impact therefore comes chiefly from the bird’s expression. The most worthwhile improvement is tighter framing: reduce the space above and on the right while retaining room toward the left, where the bird faces, to concentrate attention and strengthen the image.",
+          "ja": "堅実に撮られた野鳥のポートレートです。生き生きした目、立った冠羽、黄と黒の頭部が明確な視線の焦点となり、枝をつかむ足の描写にも臨場感があります。斜めの太い枝が画面の骨格と動きをつくり、ぼけた背景の黄緑や青灰色も羽の色と調和しています。柔らかな光で羽毛の階調はよく残っていますが、全体はやや暗く沈み、頭部の鮮やかな色が主体を十分に引き立てるまでには至っていません。鳥が画面の下寄りに位置して上部の余白が多く、左の太い枝や右の縦に伸びる枝にも視線が分散するため、印象の強さは主に鳥そのものの表情に支えられています。最も改善したいのはフレーミングです。鳥が向いている左側の余地を残しつつ、上と右の空間を詰めると、視線が集中して画面に力が出ます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "466f4b4d1de8a4c04238ccff266e82ba70f0d822b0c049cad2f99e9e664c40ae",
+        "evaluatedAt": "2026-11-15T18:17:09.431Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00006.jpg",
         "width": 1280,
@@ -88,6 +130,20 @@
         "country": "china"
       },
       "sourceHash": "9628ca9f79d87a09099012f78cf6eec39e118c3cc249a4f405d813108fc46a3b",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "鸟的白色眼圈、细密羽毛与仰头姿态很有吸引力，视线和鸟喙指向上方花朵，让鸟与花之间形成自然呼应。斜向伸展的身体和枝条为竖幅画面带来动势，黄绿色羽毛、浅粉花苞与淡蓝背景的配色清雅。柔和光线保留了花瓣和羽毛的层次，但鸟身略暗，整体稍显灰冷，主体的明亮感不足。最值得改进的是拍摄机位：前方粗枝切过鸟身，胸前花朵和右侧大片虚化枝花又分散注意力；若移动机位，让鸟头、胸部轮廓落在更干净的背景上，主体会更突出。这是一张细节扎实、富有春日气息的鸟类照片，但枝条遮挡和画面拥挤限制了整体感染力。",
+          "en": "The bird’s white eye-ring, fine feather detail and upward pose are engaging, while its gaze and beak point toward the flower above, creating a natural connection between bird and blossom. The diagonal body and branches give the vertical frame movement, and the yellow-green plumage, pale pink buds and light blue background form a delicate palette. Soft light preserves detail in petals and feathers, though the bird is slightly dark and the overall rendering feels somewhat cool and muted. The most useful improvement would be camera position: a thick foreground branch crosses the bird, while the blossom over its chest and the large blurred branches and flowers on the right compete for attention. Moving until the head and breast outline sit against a cleaner background would give the subject greater presence. This is a detailed bird photograph with a pleasing sense of spring, but obstructions and a crowded frame limit its overall impact.",
+          "ja": "白いアイリング、繊細な羽毛、上を向く姿が魅力的です。視線とくちばしが上方の花へ向かい、鳥と花に自然なつながりが生まれています。斜めに伸びる体と枝が縦構図に動きを与え、黄緑色の羽、淡いピンクのつぼみ、水色の背景も上品に調和しています。柔らかな光は花びらや羽毛の階調を残していますが、鳥はやや暗く、全体も少し寒色寄りでくすんで見え、主役の明るさが足りません。最も改善したいのは撮影位置です。手前の太い枝が鳥の体に重なり、胸元の花や右側の大きくぼけた枝花も注意を分散させています。頭部と胸の輪郭がすっきりした背景に抜ける位置へ移動できれば、鳥の存在感が増すでしょう。細部の描写と春らしさが楽しめる一枚ですが、枝の重なりと画面の混雑が全体の訴求力を抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "94f4111a0cbc95afa0d33c19faf529baeb7793aec7089e81438ac7bc18e2737d",
+        "evaluatedAt": "2026-11-15T18:17:32.464Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00008.jpg",
         "width": 1280,
@@ -111,6 +167,20 @@
         "country": "china"
       },
       "sourceHash": "63c9f21cd1568d75875077c9f257b3509173cde149a37f96dd6632d7903b7caa",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "白眼圈和细密羽毛表现清楚，小鸟圆润的姿态很有亲和力；黄绿色羽色与粉色花苞、浅蓝背景形成悦目的色彩关系，梅枝也交代了季节与环境。主体偏右，朝向一侧留有空间，斜枝带来节奏，虚化让画面轻柔。但鸟身背后的粗竖枝和前方交叉的细枝削弱了轮廓的独立性，下方枝条也略显拥挤。光线柔和，却使腹部偏暗，整体偏冷，鸟的面部还不够突出。最值得改进的是拍摄位置：稍微横向移动，寻找枝条不紧贴鸟头和身体的角度，会比单纯加强虚化更有效。整体是一张细节扎实、春意鲜明的鸟类照片，但枝条干扰与略沉的主体亮度限制了视觉冲击力。",
+          "en": "The clear white eye-ring and fine feather detail give the bird presence, while its rounded pose is appealing. Yellow-green plumage, pink buds and a pale blue background form a pleasing palette, and the flowering branches establish season and setting. The bird sits slightly right of centre with room in the direction it faces; diagonal branches add rhythm and the blur creates a gentle atmosphere. However, the thick upright branch behind it and thin crossing twigs in front weaken the separation of its outline, while the lower branches feel crowded. The light is soft, but the belly is dark, the overall colour is cool, and the face could stand out more. The most valuable improvement would be camera position: moving slightly sideways to keep branches clear of the head and body would help more than simply increasing background blur. This is a detailed, evocative spring bird photograph, but branch interference and the subdued brightness of the subject limit its visual impact.",
+          "ja": "白いアイリングと繊細な羽毛がよく描写され、丸みのある姿にも愛らしさがあります。黄緑の羽色、ピンクのつぼみ、淡い青の背景が心地よく調和し、花の枝が季節と環境を伝えています。鳥は中央よりやや右に配置され、視線の先にも余白があります。斜めの枝がリズムを生み、ぼけが柔らかな雰囲気を作っています。ただ、背後の太い縦枝と手前で交差する細枝が鳥の輪郭を埋もれさせ、下部の枝もやや混み合っています。光は柔らかいものの腹部が暗く、全体に寒色寄りで、顔の存在感ももう一歩です。最も改善したいのは撮影位置です。少し横に移動し、頭や胴体に枝が重ならない角度を探すほうが、背景のぼけを強めるだけより効果的でしょう。細部の描写と春らしさが魅力の一枚ですが、枝の干渉と主体の明るさの控えめさが、視覚的な力強さを抑えています。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "1b3da46dd656eae7718ef90d1c7be387f3a11bef4c99e7172ad6550fabfeee44",
+        "evaluatedAt": "2026-11-15T18:17:57.531Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00009.jpg",
         "width": 1920,
@@ -134,6 +204,20 @@
         "country": "china"
       },
       "sourceHash": "c0bbb217a9a4b11764979bd5fa4ca8e13aa2affbc2335b6550512a43ba456ae9",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这张照片最动人的是小鸟蓬松的体态、正面仰望的姿势，以及醒目的白色眼圈，神态鲜明而有亲近感。主体位置略偏右，斜枝形成自然框架，浅景深也让羽毛与背景分离；但左侧粗树干占据较大面积，前方枝条又切过身体，削弱了画面的简洁与主体的完整性。光线柔和，胸腹羽毛保留了细节，不过鸟身相对明亮背景略显暗，眼睛的亮点也不够突出。黄绿色头部与冷蓝灰背景搭配舒服，粉红花苞增添了季节气息。整体是一张有个性、有观察力的鸟类照片，但枝条的视觉干扰限制了感染力。最值得改进的是拍摄位置：稍微横向移动，寻找既能减少左侧粗树干、又能让前景枝条避开鸟身的角度，画面会更集中。",
+          "en": "The photograph’s strongest qualities are the bird’s fluffy shape, its upward-facing frontal pose, and its striking white eye rings, which give it a distinctive, engaging expression. The slightly right-of-centre placement and diagonal branches create a natural framework, while the shallow depth of field separates the feathers from the background. However, the thick trunk occupies a substantial area on the left, and a foreground branch cuts across the body, reducing simplicity and interrupting the subject’s outline. The light is soft and preserves detail in the breast feathers, although the bird looks a little dark against the bright background and the eye highlights are subdued. The yellow-green head works pleasantly with the cool blue-grey background, and the pink buds add a seasonal touch. This is an observant bird photograph with personality, but the distracting branches limit its impact. The most useful improvement would be camera position: moving slightly sideways to reduce the heavy trunk and keep the foreground branch clear of the bird’s body would produce a more focused image.",
+          "ja": "ふっくらした体つき、正面から上を見上げる姿勢、印象的な白いアイリングが、この写真の魅力です。鳥の表情に個性と親しみが感じられます。やや右寄りの配置と斜めの枝が自然な枠組みを作り、浅い被写界深度によって羽毛も背景から分離しています。ただし、左側の太い幹が大きな面積を占め、手前の枝が胴体を横切るため、画面のすっきりした印象と鳥の輪郭が損なわれています。光は柔らかく、胸から腹の羽毛の細部も残っていますが、明るい背景に対して鳥は少し暗く、目の輝きも控えめです。頭部の黄緑色と背景の冷たい青灰色は心地よく調和し、ピンクのつぼみが季節感を添えています。観察力と個性のある鳥の写真ですが、枝の視覚的な干渉が訴求力を抑えています。最も改善したいのは撮影位置です。少し横へ移動して、左の太い幹を減らし、手前の枝が鳥の胴体に重ならない角度を探せば、主役により視線が集中するでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "ba41f8f7d34a9c2dd6e40f4e76fcf659cde298d2e770e1387fcfcc043ce9949f",
+        "evaluatedAt": "2026-11-15T18:18:25.154Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00010.jpg",
         "width": 1920,
@@ -157,6 +241,20 @@
         "country": "china"
       },
       "sourceHash": "e56f7e12fffc60476d36fec453cd0dd5a4d6f76535530b9046bd89f6c68be9a9",
+      "aiReview": {
+        "score": 80,
+        "comments": {
+          "zh-CN": "鸟喙探入花心的瞬间抓得很好，眼圈、羽毛纹理与粉色花苞形成鲜明的视觉兴趣，主体表达比单纯的栖枝照更生动。竖幅容纳了完整身形，斜向枝条也带来走势，但贯穿画面的粗枝遮住部分鸟身，周围交错的枝条和下方醒目的白花分散了对眼睛与取食动作的注意。光线柔和，花瓣和羽毛细节保留较好，不过鸟的面部略暗，眼神光不够突出。黄绿色、浅粉与淡蓝搭配清新，整体偏冷且略显灰淡，削弱了一点通透感。最值得改进的是拍摄机位：稍微横向移动，尽量让鸟头和身体避开遮挡枝条，并减少背景交叉线，会让这个漂亮的动作更有感染力。",
+          "en": "The moment of the bird reaching into the blossom is well caught, and its eye ring, feather texture and the pink buds create strong visual interest. The subject feels more alive than in a simple perched portrait. The vertical frame accommodates the full bird, while diagonal branches add movement, but the thick branch crossing its body, surrounding tangled stems and prominent white blossom below compete with the eye and feeding action. Soft light preserves petal and feather detail, although the face is slightly dark and the catchlight is subdued. Yellow-green, pale pink and light blue make a fresh palette, but the cool, slightly muted rendering reduces some clarity and sparkle. The most valuable improvement would be the camera position: moving slightly sideways to separate the head and body from obstructing branches and reduce background intersections would give this lovely gesture greater impact.",
+          "ja": "花の中心へくちばしを差し入れる瞬間をうまく捉えており、白いアイリング、羽毛の質感、ピンクのつぼみが目を引きます。単に枝に止まった姿よりも、生き生きとした表現になっています。縦位置には全身が収まり、斜めの枝が動きを生む一方、体に重なる太い枝や周囲の入り組んだ枝、下方の目立つ白い花が、目と採餌の動作への集中を妨げています。柔らかな光で花びらと羽毛の細部はよく残っていますが、顔がやや暗く、瞳の輝きも控えめです。黄緑、淡いピンク、水色の組み合わせは爽やかですが、全体に少し寒色寄りでくすみがあり、透明感を弱めています。最も改善したいのは撮影位置です。少し横へ移動し、頭や体に重なる枝と背景の交差を減らせれば、この魅力的な仕草がさらに強く伝わるでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "19db9c4b3cbca5d99272a136bafe58ac52cfa4ce6de2929ab92eb0ae1807c25d",
+        "evaluatedAt": "2026-11-15T18:18:51.633Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00012.jpg",
         "width": 1280,
@@ -180,6 +278,20 @@
         "country": "china"
       },
       "sourceHash": "85834ae8f326ed61afe1b471966753e87e56cf719cec6b6372ce18f054be8654",
+      "aiReview": {
+        "score": 73,
+        "comments": {
+          "zh-CN": "小鸟歪头直视镜头的姿态很有亲近感，蓬松的身体和蓝色翼羽构成了明确的视觉中心。斜向树枝为画面提供支撑与动势，背景柔和的粉色、黄绿色光斑也与蓝灰色羽毛形成悦目的呼应。不过，背景上方和右侧的粗枝较抢眼，削弱了主体轮廓的干净程度；整体光线偏暗、偏冷，眼睛缺少亮点，面部表情没有充分显现。羽毛仍有细节，但暗部略显沉闷，整体感染力更多来自鸟的可爱姿态。最值得改进的是主体面部的亮度：拍摄时等待鸟转向更明亮的柔光，或后期适度局部提亮头部和眼周，会让这次生动的对视更有力量。",
+          "en": "The bird’s tilted head and direct gaze feel engaging, while its rounded body and blue wing feathers establish a clear visual centre. The diagonal perch gives the frame structure and movement, and the soft pink and yellow-green background highlights complement the blue-grey plumage. However, the heavy branches above and to the right compete for attention and clutter the bird’s outline. The light is rather dark and cool, with little sparkle in the eyes, so the facial expression does not fully emerge. Feather detail remains visible, but the shadows feel somewhat dull; much of the image’s appeal comes from the bird’s charming pose. The most valuable improvement would be brighter light on the face: waiting for the bird to turn toward brighter, soft light, or gently lifting the head and eye area locally in editing, would give this lively encounter more impact.",
+          "ja": "首をかしげてこちらを見つめる鳥の姿に親しみがあり、ふっくらした体と青い翼が明確な視線の中心になっています。斜めの止まり木が構図に安定感と動きを与え、背景の柔らかなピンクや黄緑の玉ぼけも青灰色の羽によく調和しています。一方、上部と右側の太い枝が目を引き、鳥の輪郭まわりを雑然とさせています。光は全体に暗く冷たく、瞳の輝きも乏しいため、表情が十分に伝わってきません。羽毛の細部は見えますが、暗部はやや沈んでおり、写真の魅力は鳥の愛らしい姿勢に大きく支えられています。最も改善したいのは顔の明るさです。鳥がもう少し明るい柔らかな光の方を向く瞬間を待つか、現像で頭部と目の周囲を控えめに明るくすると、この生き生きした視線がさらに印象深くなるでしょう。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "1cad21253f42a07b5543c28eceeadba4e32fe1a13c32c8e3071798b8a22daed6",
+        "evaluatedAt": "2026-11-15T18:19:19.634Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00017.jpg",
         "width": 1920,
@@ -203,6 +315,20 @@
         "country": "china"
       },
       "sourceHash": "1b9d85e2f6156712f9f05b632ca3d85b629c831410b1fba3e1462b48a7eda5ee",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "鸟眼清晰有神，头部和胸前羽毛细节丰富，蓬松的姿态让主体显得亲切。浅蓝天空、栗色头顶与粉红花苞形成清爽和谐的配色，右侧斜枝也为视线提供了引导。光线较硬，但有效勾出了羽毛质感；胸腹亮部略显抢眼，明暗过渡不够柔和。竖幅适合鸟的体态，不过上方留白偏多，前景粗竖枝遮住了部分头颈与身体，中央细枯枝又增加了干扰，使主体表达打了折扣。整体是一张细节扎实、色彩悦目的鸟类肖像，但画面感染力受到枝条遮挡的限制。最值得改进的是拍摄机位：稍向侧面移动，寻找眼睛、头颈和胸部更完整露出的枝条间隙，会比单纯收紧裁切更有效。",
+          "en": "The sharp, lively eye and detailed head and breast feathers give the bird a strong presence, while its fluffed posture feels endearing. The pale blue sky, chestnut crown and pink buds create a fresh, harmonious palette, and the diagonal branch on the right guides the gaze. The light is fairly hard but reveals feather texture effectively; the bright breast and belly draw slightly too much attention, with somewhat abrupt tonal transitions. The vertical frame suits the bird’s shape, although there is excessive space above it. A thick foreground stem obscures part of the head, neck and body, while the thin dead twig through the centre adds another distraction. This is a detailed, pleasingly coloured bird portrait, but the obstructing branches limit its impact. The most valuable improvement would be a change of viewpoint: moving slightly sideways to find a clearer opening around the eye, head, neck and breast would help more than simply cropping tighter.",
+          "ja": "目にしっかりピントが合い、頭部や胸の羽毛も細かく描写されています。羽をふくらませた姿には親しみが感じられます。淡い青空、栗色の頭、ピンクのつぼみの配色は爽やかで調和があり、右側の斜めの枝も視線を導いています。光はやや硬いものの、羽毛の質感をよく引き出しています。ただ、胸から腹の明るい部分が少し目立ちすぎ、明暗の移り変わりも急です。縦位置は鳥の体形に合っていますが、上部の余白は多めです。手前の太い縦枝が頭や首、胴体の一部を隠し、中央の細い枯れ枝も視線を妨げています。細部の描写と色彩が魅力的な鳥のポートレートですが、枝の重なりによって印象の強さが抑えられています。最も改善したいのは撮影位置です。少し横へ移動し、目や頭、首、胸がよりすっきり見える枝の隙間を探すと、単にトリミングを詰める以上の効果が期待できます。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "d79df6100e55d24a564015a68a86544cf6675aba6acb0f8aa364d759dce3116b",
+        "evaluatedAt": "2026-11-15T18:19:41.610Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00023.jpg",
         "width": 1280,
@@ -226,6 +352,20 @@
         "country": "china"
       },
       "sourceHash": "68789d298c87af85e02d1403b3374cf098f457c801698766f116640a95d0ce17",
+      "aiReview": {
+        "score": 78,
+        "comments": {
+          "zh-CN": "这是一张细节扎实、姿态讨喜的鸟类特写。鸟位于画面偏右，朝左的视线前方留有空间，圆蓬的身体与斜向树枝形成动静对照；眼睛、喙和头部羽毛较清晰，抓握枝条的脚也增加了生活感。柔和的光线保留了羽毛层次，但面部和腹部偏暗，眼神光较弱，主体的鲜活程度受到限制。栗棕色头部与浅蓝灰背景搭配自然，喉部淡黄提供了细腻的色彩变化。整体有亲近感，但更偏向可靠的观察记录，视觉冲击力有限。最值得改进的是拍摄角度：前景粗枝横挡在身体前方，右上方分叉也较抢眼；若能稍微移动机位，让枝条避开躯干并简化右侧背景，主体会更完整、更突出。",
+          "en": "This is a bird close-up with solid detail and an appealing pose. Placing the bird to the right leaves space in the direction of its gaze, while its rounded body contrasts nicely with the diagonal branches. The eye, beak and head feathers are fairly clear, and the gripping feet add a sense of everyday life. Soft light preserves feather detail, but the face and belly look somewhat dark and the weak catchlight limits the bird’s liveliness. The chestnut head sits naturally against the pale blue-grey background, with subtle yellow at the throat adding colour variation. The photograph feels intimate, though its impact is closer to a dependable observational image than a striking portrait. The most useful improvement would be the camera angle: a thick foreground branch obscures the body, and the fork at the upper right attracts attention. A small shift in position to clear the torso and simplify the right side would give the bird a more complete, prominent presence.",
+          "ja": "細部の描写がしっかりしていて、鳥の愛らしい姿が伝わるクローズアップです。鳥を右寄りに置くことで視線の先に余白が生まれ、ふっくらした体と斜めに走る枝の対比も効いています。目やくちばし、頭部の羽毛は比較的明瞭で、枝をつかむ足も自然な暮らしの気配を添えています。柔らかな光は羽毛の階調を残していますが、顔と腹部はやや暗く、目のキャッチライトも弱いため、生き生きとした印象は控えめです。栗色の頭部と淡い青灰色の背景は自然に調和し、喉元の薄黄色も繊細な変化を加えています。親しみは感じられるものの、強く目を引くポートレートというより、堅実な観察写真という印象です。最も改善したいのは撮影位置です。手前の太い枝が体を遮り、右上の枝分かれも視線を引きます。少し位置を変えて胴体への重なりを避け、右側を整理できれば、鳥の姿がより完整に見え、存在感も高まります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "abb7bbc96e3bae72a5adb8dddb9173ca07c2e6a74ea34595dee680a7f67fb01b",
+        "evaluatedAt": "2026-11-15T18:20:03.839Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_china_yunnan/00024.jpg",
         "width": 1920,

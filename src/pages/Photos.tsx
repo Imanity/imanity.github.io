@@ -10,11 +10,15 @@ import { useGallery } from '../gallery/GalleryProvider'
 import { getGalleryStats } from '../gallery/galleryStats'
 import {
   createRandomPhotoRanks,
+  createScorePhotoRanks,
+  getPhotoSortSeed,
+  renewPhotoSortSeed,
   sortPhotos,
   type PhotoSortOrder,
 } from '../gallery/sortPhotos'
 
 const sortOptions: Array<{ value: PhotoSortOrder; label: string }> = [
+  { value: 'score-weighted', label: '评分优先' },
   { value: 'random', label: '随机' },
   { value: 'taken-at-desc', label: '最新' },
   { value: 'taken-at-asc', label: '最早' },
@@ -22,7 +26,14 @@ const sortOptions: Array<{ value: PhotoSortOrder; label: string }> = [
 
 export function Photos() {
   const { error, loading, photos, reload } = useGallery()
-  const [sortOrder, setSortOrder] = useState<PhotoSortOrder>('random')
+  const [sortOrder, setSortOrder] = useState<PhotoSortOrder>(() => {
+    try {
+      const saved = sessionStorage.getItem('gallery:sort-order')
+      if (sortOptions.some(option => option.value === saved)) return saved as PhotoSortOrder
+    } catch { /* Use the default without storage. */ }
+    return 'score-weighted'
+  })
+  const [seed, setSeed] = useState(getPhotoSortSeed)
   const requestedTags = [
     ...new Set(
       new URLSearchParams(window.location.search)
@@ -41,10 +52,11 @@ export function Photos() {
     selectMapPhotos,
     toggleTag,
   } = usePhotoSearch(photos, { selectedTags: requestedTags })
-  const randomRanks = useMemo(() => createRandomPhotoRanks(photos), [photos])
+  const randomRanks = useMemo(() => createRandomPhotoRanks(photos, seed), [photos, seed])
+  const scoreRanks = useMemo(() => createScorePhotoRanks(photos, seed), [photos, seed])
   const sortedResults = useMemo(
-    () => sortPhotos(results, sortOrder, randomRanks),
-    [randomRanks, results, sortOrder],
+    () => sortPhotos(results, sortOrder, randomRanks, scoreRanks),
+    [randomRanks, results, sortOrder, scoreRanks],
   )
   const stats = useMemo(() => getGalleryStats(photos), [photos])
   const hasFilters =
@@ -89,13 +101,19 @@ export function Photos() {
                     <button
                       aria-pressed={sortOrder === option.value}
                       key={option.value}
-                      onClick={() => setSortOrder(option.value)}
+                      onClick={() => {
+                        setSortOrder(option.value)
+                        try { sessionStorage.setItem('gallery:sort-order', option.value) } catch { /* Optional persistence. */ }
+                      }}
                       type="button"
                     >
                       {option.label}
                     </button>
                   ))}
                 </div>
+                {sortOrder === 'random' || sortOrder === 'score-weighted' ? (
+                  <button className="text-button" onClick={() => setSeed(renewPhotoSortSeed())} type="button">换一组</button>
+                ) : null}
               </div>
             </header>
 

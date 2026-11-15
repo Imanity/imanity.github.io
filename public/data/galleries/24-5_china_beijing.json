@@ -19,6 +19,20 @@
         "country": "china"
       },
       "sourceHash": "52a45b115f65d532f9ced878358b9a54c57df4c51bd686e8b625afe18cb52f23",
+      "aiReview": {
+        "score": 81,
+        "comments": {
+          "zh-CN": "这张照片最出色的是晚霞的层次与河面倒影形成的呼应：紫蓝色云层逐渐过渡到右侧的粉红、橙红，远山的轮廓又把天空与水面清楚地分开，气氛浓郁。两岸步道和灯光向远处的拱桥汇聚，使画面有明确的纵深；天空占据较大比例，也符合以云霞为主角的表达。光线的不足是右上方亮区较抢眼，岸边树木则偏暗，部分细节融在一起。紫色调略显浓重，增强了梦幻感，也削弱了一些自然的色彩差异。主体表达上，云霞、右侧落日亮区和远处小桥共同吸引视线，尚缺少一个足够集中的落点。最值得改进的是收紧构图：适度裁去底部较暗、重复的倒影，让拱桥与山际霞光在画面中更突出。整体是一张氛围和视觉冲击力都很强的风景照，但构图的凝练程度尚未达到优秀档。",
+          "en": "The strongest feature is the interplay between the layered sunset clouds and their reflection in the river. Blue-violet clouds transition into pink and orange-red on the right, while the mountain silhouettes clearly separate sky from water, creating a rich atmosphere. The riverside paths and lights converge toward the distant arched bridge, giving the frame clear depth. The large share devoted to the sky also suits the emphasis on the clouds. The light is less balanced: the bright upper-right area draws considerable attention, while the dark riverside trees lose some separation and detail. The purple treatment feels slightly heavy, adding a dreamlike quality while reducing natural colour variation. The clouds, bright sunset on the right and small distant bridge compete for attention, leaving the image without a sufficiently concentrated focal point. The most worthwhile improvement is a tighter composition: crop some of the dark, repetitive reflection at the bottom to give the bridge and sunset along the mountains more prominence. This is a strong landscape with atmosphere and visual impact, though its composition needs greater economy to reach the excellent range.",
+          "ja": "最も魅力的なのは、幾重にも重なる夕焼けの雲と川面の映り込みの呼応です。青紫の雲から右側のピンク、赤橙へと色が移り、山並みのシルエットが空と水面を明確に分け、濃密な雰囲気を生んでいます。両岸の遊歩道と灯りが奥のアーチ橋へ収束し、奥行きもよく出ています。空を大きく取った構成も、雲を主役とする意図に合っています。一方、光の配分には偏りがあり、右上の明るい部分が目を引くのに対し、岸辺の木々は暗く、輪郭や細部が埋もれています。紫の色調もやや強く、幻想的な印象を高める反面、自然な色の変化を少し損なっています。雲、右側の夕日の明るさ、遠くの小さな橋に視線が分散し、十分に絞られた注視点がありません。最も改善したいのは構図の引き締めです。下部の暗く反復的な映り込みを適度に切り、橋と山際の夕焼けをより際立たせるとよいでしょう。雰囲気と視覚的な訴求力に優れた風景写真ですが、さらに上の評価には構図の整理が必要です。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "537d6a79a5d1f21aae611d500d68064be5ddd593d40426187c4a63e4fcc9d6c7",
+        "evaluatedAt": "2026-11-15T17:37:02.052Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/24-5_china_beijing/00001.jpg",
         "width": 1920,
@@ -42,6 +56,20 @@
         "country": "china"
       },
       "sourceHash": "1063ace76327bf3455b17e2fbddabedc1bc78d1e76fd8d6f12ffb4deba5f16e0",
+      "aiReview": {
+        "score": 80,
+        "comments": {
+          "zh-CN": "这张照片的优势是暮色氛围与空间纵深。两岸步道和灯光把视线引向远处的拱桥，层叠山脊与水面倒影让画面安静而有层次。蓝灰色云层、淡粉色晚霞和暖黄灯光搭配自然，冷暖对比克制；天空亮部保留良好，不过岸边树木偏暗，细节有所损失。主体表达稍弱：桥梁体量很小，大面积天空与水面虽营造了宁静，也分散了注意力，整体更像一幅氛围优美的风景，而非视觉焦点鲜明的作品。最值得改进的是取景比例：适当裁去顶部部分云层和底部重复的水面，保留晚霞与主要倒影，让桥、山与两岸灯带更集中，画面的感染力会更强。",
+          "en": "The photograph’s strengths are its dusk atmosphere and sense of depth. The riverside paths and lights guide the eye toward the distant arched bridge, while layered ridgelines and reflections give the scene a quiet sense of space. Blue-grey clouds, pale pink sunset light and warm yellow lamps form a natural, restrained colour contrast. Highlights in the sky are well preserved, although the dark riverside trees lose some detail. The subject is less clearly defined: the bridge occupies a small area, and the broad expanses of sky and water create tranquillity while also dispersing attention. The result is an atmospheric landscape with a somewhat weak visual focal point. The most useful improvement would be a tighter crop: remove some clouds at the top and repetitive water at the bottom, retaining the sunset glow and main reflections so that the bridge, mountains and illuminated banks carry more visual weight.",
+          "ja": "この写真の長所は、夕暮れの空気感と奥行きです。両岸の遊歩道と灯りが遠くのアーチ橋へ視線を導き、重なる山並みと水面の映り込みが、静かで層のある風景をつくっています。青灰色の雲、淡いピンクの夕焼け、暖かな黄色の灯りの組み合わせは自然で、寒暖の対比も控えめです。空の明るい部分はよく残っていますが、岸辺の木々は暗く、細部がやや失われています。主題の明確さには少し物足りなさがあります。橋が小さく、広い空と水面は静けさを生む一方で、視線を分散させています。雰囲気の美しい風景ですが、視覚的な焦点はやや弱い印象です。最も改善したいのは画面の範囲です。上部の雲と下部の繰り返しが多い水面を少し切り詰め、夕焼けと主要な映り込みを残すと、橋、山、両岸の灯りの存在感が増し、より印象に残る写真になります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "682938da77fcb6045349317a637515f2a35f72c0f28e087c39a81af5b61182f3",
+        "evaluatedAt": "2026-11-15T17:37:24.934Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/24-5_china_beijing/00002.jpg",
         "width": 1280,

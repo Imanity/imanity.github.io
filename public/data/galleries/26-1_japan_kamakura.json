@@ -19,6 +19,20 @@
         "country": "japan"
       },
       "sourceHash": "97ba302c0779a633f1d7c9c43a82674e1ceaa4100e57836e6c64c5e164747131",
+      "aiReview": {
+        "score": 79,
+        "comments": {
+          "zh-CN": "海面上贴近水面展开的扇形烟花是明确的视觉中心，右侧山体与左侧海湾形成包围感，远处城市灯火又交代了空间纵深。烟花的暖橙色与海水、夜空的冷灰蓝形成鲜明对照，水面反光将瞬间的爆发延伸成一片柔和亮面，现场气氛很足。不过，烟花最亮的核心与部分轨迹已失去层次，烟雾也让背景略显灰浊；下方建筑和右侧大片暗山占据较多面积，使画面有些沉重。最值得改进的是取景的精简：适当裁掉底部杂乱建筑和少量顶部空天，同时保留左侧海湾的舒展空间，让烟花与倒影更集中地承担画面的感染力。整体是一张视点有优势、场面动人的夜景作品，但高光细节和画面凝练程度仍限制了完成度。",
+          "en": "The fan-shaped fireworks spreading close to the water provide a clear focal point. The hillside on the right and the bay on the left frame the scene, while distant city lights establish depth. Warm orange fireworks contrast strongly with the cool gray-blue sea and sky, and their reflection extends the brief explosion into a soft field of light, conveying a vivid sense of the occasion. However, the brightest core and some trails have lost detail, and smoke makes the background somewhat murky. Buildings along the bottom and the large dark hillside on the right also give the frame considerable visual weight. The most valuable improvement would be a tighter composition: crop some cluttered buildings from the bottom and a little empty sky from the top, while retaining the open bay on the left, so the fireworks and reflection carry the image more directly. This is a strong night photograph with an advantageous viewpoint and an engaging spectacle, though highlight detail and compositional economy limit its refinement.",
+          "ja": "水面近くで扇状に広がる花火が、明確な視線の中心になっています。右の山と左の湾が情景を包み込み、遠くの街明かりが奥行きを伝えています。花火の暖かなオレンジと、海や空の冷たい青灰色との対比が鮮やかで、水面の反射が一瞬の炸裂を柔らかな光の面へと広げ、現場の雰囲気をよく伝えています。一方、花火の最も明るい中心部や一部の光跡では階調が失われ、煙によって背景もやや濁って見えます。下部の建物と右側の大きな暗い山も面積を占め、画面を重くしています。最も改善したいのは構図の整理です。下端の雑然とした建物と上端の余白を少し切り詰め、左側の湾の広がりは残すと、花火と反射の魅力がより直接伝わります。見晴らしのよい視点と印象的な光景を捉えた力のある夜景ですが、ハイライトの描写と構図の絞り込みには改善の余地があります。"
+        },
+        "provider": "codex-cli",
+        "model": "default",
+        "promptHash": "0a2a6427cbb75e79d42ae101e5fddce4be281c29380fa91236d4e505aad07bb7",
+        "imageHash": "08bd5f3fef16535a6c70f2fe381be9c22950d94d76f66be64fab8ace61affb24",
+        "evaluatedAt": "2026-11-15T18:22:36.521Z",
+        "version": 2
+      },
       "image": {
         "src": "/assets/photos/26-1_japan_kamakura/00002.jpg",
         "width": 1920,
